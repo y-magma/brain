@@ -31,6 +31,10 @@
 
 <Là où « ça dépend » : conditions, échelles, exceptions.>
 
+## Ce qui surprend / fait bouger l'avis
+
+<Le « hook » : l'argument inattendu, ce qui déplace le regard. C'est ce qui rend un désaccord désirable à regarder (voir le débat « spectacle du désaccord intelligent »).>
+
 ## Questions ouvertes
 
 <Ce qu'il faudrait clarifier pour avancer.>
