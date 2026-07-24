@@ -2,8 +2,12 @@
 
 - **Date** : AAAA-MM-JJ
 - **Proposé par** : <nom / pseudo / IA>
-- **Statut** : graine · en débat · synthétisée · abandonnée
+- **Statut** : graine · en débat · synthétisée · abandonnée · archivée
 - **Échelle(s)** : individu · communauté · société · humanité
+- **Thème(s)** : <ex. slogans · miroirs · gouvernance · plaisir · forme-outil>
+- **Slogan candidat** : « <formule provisoire qui porte la graine — hypothèse, pas axiome> »
+- **Prochaine étape** : préciser · débattre · synthétiser · distiller · décider · archiver
+- **Priorité** : haute · moyenne · basse · pause
 
 ## La graine
 

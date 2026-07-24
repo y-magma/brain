@@ -49,4 +49,5 @@ Les humains ne pensent pas seulement avec des articles, des livres ou des raison
 - Rôle de l'IA : [`2026-07-24-ia-atelier-pas-juge.md`](2026-07-24-ia-atelier-pas-juge.md)
 - Débat ouvert : [`../points-de-vue/2026-07-24-atlas-vs-reseau-social.md`](../points-de-vue/2026-07-24-atlas-vs-reseau-social.md)
 - Tension avec : [`../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md`](../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md)
+- Noyau d'axiomes (complément méthode) : [`2026-07-24-noyau-axiomes-de-slogans.md`](2026-07-24-noyau-axiomes-de-slogans.md)
 - Vision : [`../vision/manifeste.md`](../vision/manifeste.md)
