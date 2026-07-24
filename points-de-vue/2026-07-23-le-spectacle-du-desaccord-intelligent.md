@@ -62,6 +62,11 @@ Le spectateur participe en 2 secondes : « Quel argument est meilleur ? », « Q
 - Duel à 2 vs carte à N positions : lequel sert le mieux le multi-points-de-vue ?
 - Quels garde-fous pour le 1 % qui construit (relecture, steelman obligatoire, séparation faits/valeurs) ?
 
+## Liens connexes
+
+- Contrepoint / complément : [`2026-07-24-atlas-vs-reseau-social.md`](2026-07-24-atlas-vs-reseau-social.md) (porte d'entrée par la fiche d'atlas plutôt que par le duel)
+- Idées atlas : [`../idees/2026-07-24-atlas-critique-des-slogans.md`](../idees/2026-07-24-atlas-critique-des-slogans.md), [`../idees/2026-07-24-mvp-atlas-curate.md`](../idees/2026-07-24-mvp-atlas-curate.md)
+
 ## Vers la synthèse
 
-Ce débat alimentera une synthèse dans [`../syntheses/`](../syntheses/) sur la question centrale : **« Comment rendre le désaccord de qualité désirable à regarder, sans sacrifier la solidité au spectacle ? »**
+Ce débat alimentera une synthèse dans [`../syntheses/`](../syntheses/) sur la question centrale : **« Comment rendre le désaccord de qualité désirable à regarder, sans sacrifier la solidité au spectacle ? »** — à croiser avec la question jumelle de l'atlas : quelle porte d'entrée (spectacle, fiche, session, pédagogie) sans trahir le manifeste.
