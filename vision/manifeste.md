@@ -38,10 +38,11 @@ C'est un **outil de démocratie** que nous cherchons à développer : pour celle
 
 ## Questions ouvertes (toujours en mouvement)
 
-- Quelle forme concrète pour l'outil ? (atlas critique des slogans ? spectacle du désaccord ? Wikipédia 2.0 ? articulation de plusieurs portes ?)
+- Quelle forme concrète pour l'outil ? (atlas critique des slogans ? spectacle du désaccord ? miroir des bulles ? Wikipédia 2.0 ? articulation de plusieurs portes ?)
 - Comment représenter une idée « multi-échelle, multi-points-de-vue » ?
 - Comment mesurer la qualité d'un débat sans récompenser le clash ?
 - Comment inclure les non-créateurs sans les réduire à des spectateurs ?
 - Comment déplier une phrase virale (défense, objection, présupposés, effet psychique) sans faux équilibre ni guerre de labels ?
+- Comment créer un plaisir numérique plus sain *et* compétitif, sans moraliser ni retomber dans l'outrage ?
 
 Ces questions vivent dans [`../idees/`](../idees/) et [`../points-de-vue/`](../points-de-vue/).

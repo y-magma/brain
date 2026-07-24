@@ -53,6 +53,8 @@ Sans ces garde-fous, l'atlas reproduit Twitter avec des badges. Avec eux, on peu
 
 - Idée parente : [`2026-07-24-atlas-critique-des-slogans.md`](2026-07-24-atlas-critique-des-slogans.md)
 - MVP : [`2026-07-24-mvp-atlas-curate.md`](2026-07-24-mvp-atlas-curate.md)
+- Statuts / rôles désirables (remplacer les followers) : [`2026-07-24-statuts-roles-constructifs.md`](2026-07-24-statuts-roles-constructifs.md)
+- Petit internet / confiance : [`2026-07-24-petit-internet-micro-communautes.md`](2026-07-24-petit-internet-micro-communautes.md)
 - IA (limites de la modération auto) : [`2026-07-24-ia-atelier-pas-juge.md`](2026-07-24-ia-atelier-pas-juge.md)
 - Débat : [`../points-de-vue/2026-07-24-atlas-vs-reseau-social.md`](../points-de-vue/2026-07-24-atlas-vs-reseau-social.md)
 - Manifeste (ce que nous refusons) : [`../vision/manifeste.md`](../vision/manifeste.md)
