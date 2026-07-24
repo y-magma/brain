@@ -3,7 +3,7 @@
 > **La façon la plus simple de « voir » le projet d'un coup d'œil, comme un humain.**
 > Le reste du dépôt est le *substrat* (lisible par les humains **et** par l'IA) ; cette page en est la *vitrine*. Elle est vivante : l'IA la tient à jour à chaque contribution, un humain la relit.
 
-Dernière mise à jour : **2026-07-23**
+Dernière mise à jour : **2026-07-24**
 
 ---
 
@@ -17,6 +17,8 @@ On explore la forme d'un **outil de démocratie** — un lieu multi-échelle et 
 |-------|-------|--------|------|
 | Un outil de démocratie (idée fondatrice) | Idée | graine | [ouvrir](idees/2026-07-23-un-outil-de-democratie.md) |
 | Le « spectacle du désaccord intelligent » | Point de vue | ouvert | [ouvrir](points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md) |
+| Open Knowledge Format (OKF) : format utile ou distraction ? | Idée | en débat | [ouvrir](idees/2026-07-24-open-knowledge-format-et-brain.md) |
+| Adopter OKF maintenant ? | Point de vue | ouvert | [ouvrir](points-de-vue/2026-07-24-adopter-okf-maintenant.md) |
 
 ## Consensus émergents (slogans)
 
@@ -34,6 +36,7 @@ _Aucun encore. Les idées fortes distillées apparaîtront ici →_ [`slogans/`]
 - Comment rendre le **désaccord de qualité désirable à regarder**, sans sacrifier la solidité au spectacle ?
 - Comment transformer les **spectateurs** (90 %) en **micro-contributeurs** (9 %) sans friction ?
 - Quels **garde-fous** pour le 1 % qui construit le fond ?
+- Faut-il un **format d'échange** type OKF pour le futur produit, ou d'abord stabiliser le modèle de pensée de l'atelier ?
 
 ---
 
