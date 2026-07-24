@@ -295,13 +295,17 @@ main {
 }
 
 /* ——— Mobile ———
-   Docsify (vue.css) inverse « close » sur mobile (close = menu OUVERT via
-   left:-300px + translateX(300px)). On force un modèle unique :
-   body.close = menu FERMÉ, partout.
+   Docsify (vue.css) inverse « close » sur mobile. On pilote le menu avec
+   body.menu-open uniquement, et on neutralise left/transform Docsify.
 */
 @media screen and (max-width: 768px) {
   body {
     font-size: 16px;
+  }
+
+  /* Empêche main (z-index:0) de passer sous l'overlay et de bloquer les clics. */
+  main {
+    z-index: auto !important;
   }
 
   .sidebar {
@@ -310,15 +314,26 @@ main {
     bottom: 0 !important;
     left: 0 !important;
     width: min(86vw, 320px) !important;
-    transform: translateX(0) !important;
-    box-shadow: 8px 0 32px rgba(0, 0, 0, 0.28);
-    z-index: 30 !important;
-    transition: transform 0.25s ease-out !important;
-  }
-
-  body.close .sidebar {
     transform: translateX(-105%) !important;
     box-shadow: none;
+    z-index: 30 !important;
+    transition: transform 0.25s ease-out !important;
+    pointer-events: auto !important;
+  }
+
+  body.menu-open .sidebar {
+    transform: translateX(0) !important;
+    box-shadow: 8px 0 32px rgba(0, 0, 0, 0.28);
+  }
+
+  /* Neutralise les règles Docsify body.close sur mobile */
+  body.close .sidebar {
+    transform: translateX(-105%) !important;
+  }
+
+  body.menu-open.close .sidebar,
+  body.menu-open .sidebar {
+    transform: translateX(0) !important;
   }
 
   .sidebar-close-btn {
@@ -337,7 +352,8 @@ main {
     padding-top: 0 !important;
   }
 
-  body.close .content {
+  body.close .content,
+  body.menu-open .content {
     transform: none !important;
     left: 0 !important;
   }
@@ -360,7 +376,6 @@ main {
     font-size: 0.88rem;
   }
 
-  /* Toggle hamburger — zone tactile plus large, toujours en haut à gauche */
   .sidebar-toggle {
     position: fixed !important;
     top: 0 !important;
@@ -376,6 +391,7 @@ main {
   }
 
   body.close .sidebar-toggle,
+  body.menu-open .sidebar-toggle,
   body:not(.close) .sidebar-toggle {
     width: 3.25rem !important;
     padding: 0.85rem !important;
@@ -387,21 +403,20 @@ main {
     height: 2px !important;
   }
 
-  /* Overlay quand le menu est ouvert (pas de classe close) */
   .sidebar-overlay {
     display: block;
     position: fixed;
     inset: 0;
     background: rgba(10, 20, 16, 0.45);
     z-index: 25;
-    opacity: 1;
-    pointer-events: auto;
+    opacity: 0;
+    pointer-events: none;
     transition: opacity 0.2s ease;
   }
 
-  body.close .sidebar-overlay {
-    opacity: 0;
-    pointer-events: none;
+  body.menu-open .sidebar-overlay {
+    opacity: 1;
+    pointer-events: auto;
   }
 
   .github-corner {
@@ -409,7 +424,7 @@ main {
   }
 
   .search input {
-    font-size: 16px !important; /* évite le zoom iOS */
+    font-size: 16px !important;
   }
 }
 
