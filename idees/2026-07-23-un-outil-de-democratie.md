@@ -34,4 +34,7 @@ Retrouver le goût de discuter avec un point de vue opposé, sortir des slogans 
 ## Liens
 
 - Vision : [`../vision/manifeste.md`](../vision/manifeste.md)
-- Prochaine étape suggérée : ouvrir un débat dans [`../points-de-vue/`](../points-de-vue/) sur « Twitter de slogans » vs « Wikipédia 2.0 ».
+- Précision de la piste « Twitter de slogans » : [`2026-07-24-atlas-critique-des-slogans.md`](2026-07-24-atlas-critique-des-slogans.md) (recentrage vers un atlas critique, pas un réseau social)
+- Porte d'entrée « miroir » : [`2026-07-24-miroir-des-bulles.md`](2026-07-24-miroir-des-bulles.md) ; cadrage désir : [`2026-07-24-plaisir-sain-competitif.md`](2026-07-24-plaisir-sain-competitif.md)
+- Débats ouverts : [`../points-de-vue/2026-07-24-atlas-vs-reseau-social.md`](../points-de-vue/2026-07-24-atlas-vs-reseau-social.md), [`../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md`](../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md), [`../points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md`](../points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md)
+- Prochaine étape suggérée : synthétiser les portes d'entrée (atlas / spectacle / miroir / pédagogie / micro-communauté) une fois les débats mûrs.
