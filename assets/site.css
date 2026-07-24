@@ -1,0 +1,419 @@
+/* brain — thème Docsify lisible desktop + mobile */
+
+:root {
+  --brain-ink: #14241f;
+  --brain-muted: #4a5c56;
+  --brain-paper: #f7f4ef;
+  --brain-paper-2: #efeae2;
+  --brain-line: #d8d0c4;
+  --brain-accent: #1a3a32;
+  --brain-accent-soft: #2d5a4e;
+  --brain-highlight: #c4a35a;
+  --brain-sidebar-w: 300px;
+  --theme-color: var(--brain-accent) !important;
+
+  --brain-font-sans: "Sora", "Segoe UI", sans-serif;
+  --brain-font-serif: "Literata", "Georgia", serif;
+}
+
+html, body {
+  background: var(--brain-paper);
+  color: var(--brain-ink);
+  font-family: var(--brain-font-serif);
+  font-size: 17px;
+  line-height: 1.65;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+/* ——— Sidebar ——— */
+.sidebar {
+  background: linear-gradient(180deg, #102822 0%, #1a3a32 55%, #16332c 100%);
+  color: #e8efe9;
+  border-right: none;
+  width: var(--brain-sidebar-w) !important;
+  padding-top: 0.5rem;
+}
+
+.sidebar .app-name {
+  font-family: var(--brain-font-sans);
+  font-weight: 700;
+  font-size: 1.35rem;
+  letter-spacing: -0.02em;
+  padding: 1rem 1.25rem 0.5rem;
+}
+
+.sidebar .app-name-link {
+  color: #f3f7f4 !important;
+}
+
+.sidebar .app-name-link:hover {
+  text-decoration: none;
+  color: var(--brain-highlight) !important;
+}
+
+.sidebar ul li a {
+  color: #c5d4cd !important;
+  font-family: var(--brain-font-sans);
+  font-size: 0.9rem;
+  font-weight: 450;
+  line-height: 1.35;
+  padding: 0.45rem 0.75rem !important;
+  border-radius: 8px;
+  margin: 0 0.5rem;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.sidebar ul li.active > a,
+.sidebar ul li a.is-active-link {
+  color: #fff !important;
+  background: rgba(255, 255, 255, 0.1);
+  font-weight: 600;
+}
+
+.sidebar ul li a:hover {
+  color: #fff !important;
+  background: rgba(255, 255, 255, 0.08);
+  text-decoration: none !important;
+}
+
+.sidebar .sidebar-nav > ul > li > p,
+.sidebar .sidebar-nav > ul > li > strong,
+.sidebar .sidebar-nav li p strong,
+.sidebar .sidebar-nav > ul > li > a.section {
+  font-family: var(--brain-font-sans);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--brain-highlight) !important;
+  padding: 1rem 1.25rem 0.35rem;
+  margin: 0;
+}
+
+.sidebar ul li ul {
+  margin-left: 0 !important;
+}
+
+.sidebar-nav {
+  padding-bottom: 3rem;
+}
+
+/* Search */
+.search {
+  margin: 0.5rem 0.85rem 1rem !important;
+  padding: 0 !important;
+  border-bottom: none !important;
+}
+
+.search .input-wrap {
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.22);
+}
+
+.search input {
+  font-family: var(--brain-font-sans) !important;
+  color: #f3f7f4 !important;
+  background: transparent !important;
+  font-size: 0.9rem !important;
+  padding: 0.65rem 0.85rem !important;
+}
+
+.search input::placeholder {
+  color: rgba(243, 247, 244, 0.55);
+}
+
+.search .results-panel {
+  background: #0f221d;
+  border-radius: 10px;
+  margin-top: 0.4rem;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.search .matching-post {
+  border-bottom-color: rgba(255, 255, 255, 0.08) !important;
+}
+
+.search h2, .search a, .matching-post h2 {
+  color: #e8efe9 !important;
+  font-family: var(--brain-font-sans);
+}
+
+/* Close button (mobile) */
+.sidebar-close-btn {
+  display: none;
+  position: absolute;
+  top: 0.65rem;
+  right: 0.65rem;
+  z-index: 20;
+  width: 2.5rem;
+  height: 2.5rem;
+  border: none;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+  font-size: 1.6rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.sidebar-close-btn:hover,
+.sidebar-close-btn:focus {
+  background: rgba(255, 255, 255, 0.22);
+}
+
+/* ——— Main content ——— */
+main {
+  background: var(--brain-paper);
+}
+
+.content {
+  left: var(--brain-sidebar-w) !important;
+  padding-top: 0 !important;
+}
+
+.markdown-section {
+  max-width: 740px;
+  padding: 2.25rem 1.75rem 4rem;
+  color: var(--brain-ink);
+}
+
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4 {
+  font-family: var(--brain-font-sans);
+  font-weight: 650;
+  letter-spacing: -0.02em;
+  color: var(--brain-ink);
+  line-height: 1.25;
+}
+
+.markdown-section h1 {
+  font-size: clamp(1.75rem, 4vw, 2.25rem);
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid var(--brain-line);
+}
+
+.markdown-section h2 {
+  font-size: 1.35rem;
+  margin-top: 2.25rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--brain-line);
+}
+
+.markdown-section h3 {
+  font-size: 1.1rem;
+  color: var(--brain-accent-soft);
+}
+
+.markdown-section p,
+.markdown-section li {
+  font-size: 1.02rem;
+}
+
+.markdown-section a {
+  color: var(--brain-accent-soft);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  font-weight: 500;
+}
+
+.markdown-section a:hover {
+  color: var(--brain-accent);
+}
+
+.markdown-section blockquote {
+  border-left: 3px solid var(--brain-highlight);
+  background: var(--brain-paper-2);
+  color: var(--brain-muted);
+  margin: 1.25rem 0;
+  padding: 0.85rem 1.1rem;
+  border-radius: 0 10px 10px 0;
+}
+
+.markdown-section code {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  background: var(--brain-paper-2);
+  color: var(--brain-accent);
+  padding: 0.12em 0.35em;
+  border-radius: 4px;
+  font-size: 0.88em;
+}
+
+.markdown-section pre {
+  border-radius: 12px;
+  background: #14241f !important;
+  border: 1px solid #1f3830;
+}
+
+.markdown-section table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.markdown-section th,
+.markdown-section td {
+  border-color: var(--brain-line) !important;
+  padding: 0.65rem 0.75rem !important;
+}
+
+.markdown-section th {
+  background: var(--brain-paper-2);
+  font-family: var(--brain-font-sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.markdown-section tr:nth-child(2n) {
+  background: rgba(26, 58, 50, 0.04);
+}
+
+/* GitHub corner */
+.github-corner svg {
+  fill: var(--brain-accent) !important;
+  color: var(--brain-paper) !important;
+}
+
+/* Pagination */
+.content .pagination-item a {
+  font-family: var(--brain-font-sans);
+  color: var(--brain-accent-soft);
+  border-top: 1px solid var(--brain-line);
+  padding-top: 1rem;
+}
+
+/* Overlay : masqué par défaut ; affiché seulement en mobile (voir media query) */
+.sidebar-overlay {
+  display: none;
+}
+
+/* ——— Mobile ——— */
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+
+  .sidebar {
+    width: min(86vw, 320px) !important;
+    transform: translateX(0);
+    box-shadow: 8px 0 32px rgba(0, 0, 0, 0.28);
+  }
+
+  body.close .sidebar {
+    transform: translateX(-110%);
+  }
+
+  .sidebar-close-btn {
+    display: block;
+  }
+
+  .sidebar .app-name {
+    padding-right: 3.25rem;
+  }
+
+  .content {
+    left: 0 !important;
+  }
+
+  .markdown-section {
+    max-width: 100%;
+    padding: 4.25rem 1.15rem 3.5rem;
+  }
+
+  .markdown-section h1 {
+    font-size: 1.55rem;
+  }
+
+  .markdown-section h2 {
+    font-size: 1.2rem;
+    margin-top: 1.75rem;
+  }
+
+  .markdown-section table {
+    font-size: 0.88rem;
+  }
+
+  /* Toggle hamburger — zone tactile plus large */
+  .sidebar-toggle {
+    width: 3.25rem !important;
+    height: 3.25rem !important;
+    padding: 0.85rem !important;
+    background: rgba(247, 244, 239, 0.92) !important;
+    border-radius: 0 0 12px 0;
+    box-shadow: 0 2px 10px rgba(20, 36, 31, 0.12);
+    top: 0 !important;
+    left: 0 !important;
+  }
+
+  .sidebar-toggle span {
+    background-color: var(--brain-accent) !important;
+    height: 2px !important;
+  }
+
+  body.close .sidebar-toggle {
+    background: rgba(247, 244, 239, 0.95) !important;
+  }
+
+  /* Overlay quand le menu est ouvert */
+  .sidebar-overlay {
+    display: block;
+    position: fixed;
+    inset: 0;
+    background: rgba(10, 20, 16, 0.45);
+    z-index: 20;
+    opacity: 1;
+    pointer-events: auto;
+    transition: opacity 0.2s ease;
+  }
+
+  body.close .sidebar-overlay {
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .sidebar {
+    z-index: 30;
+  }
+
+  .sidebar-toggle {
+    z-index: 40;
+  }
+
+  .github-corner {
+    display: none !important;
+  }
+
+  .search input {
+    font-size: 16px !important; /* évite le zoom iOS */
+  }
+}
+
+/* ——— Desktop comfort ——— */
+@media screen and (min-width: 769px) {
+  .sidebar-toggle {
+    display: none !important;
+  }
+
+  body.close .sidebar {
+    transform: none !important;
+  }
+
+  body.close .content {
+    left: var(--brain-sidebar-w) !important;
+  }
+}
+
+/* Réduit le mouvement pour qui le préfère */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+}
