@@ -9,12 +9,16 @@ Dernière mise à jour : **2026-07-24**
 
 ## En une phrase
 
-On construit un **outil de démocratie** centré sur les **slogans** : un [atlas critique](idees/2026-07-24-atlas-critique-des-slogans.md) (« machine à ralentir les slogans sans les tuer »), une [fiche à 7 niveaux](idees/2026-07-24-fiche-slogan-sept-niveaux.md), et un [noyau minimal d'axiomes](slogans/noyau/) — penser *par* formules, sans être pensé *par* elles. Rien n'est figé.
+On explore une **machine à penser** — forme **ouverte**. Slogans = brique majeure. Vertu cardinale : **peu de verbalisation** — comprendre vite par phrases courtes (« Dsl, j'ai pas eu le temps de faire simple. »).
 
 ## Grands sujets en cours
 
 | Chantier | Ce qu'on cherche | Étape actuelle | Pour avancer |
 |----------|------------------|----------------|--------------|
+| **IA + UX/UI** | Interface nouvelle ; LLM intégrés, pas collés | Idée | [ouvrir](idees/2026-07-24-ia-interface-matiere-premiere.md) ; relire [IA atelier (archive)](archive/idees/2026-07-24-ia-atelier-pas-juge.md) |
+| **Forme ouverte** | Ne pas réduire le projet à « un truc slogans » | Idée + décision proposée | Relire [porte ≠ maison](idees/2026-07-24-slogans-porte-pas-maison.md) ; trancher [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md) |
+| **Simplicité / anti-blabla** | Peu de verbalisation ; solutions simples | Idée + 0004 + candidat noyau | [simple](idees/2026-07-24-chercher-solutions-simples.md) · [0004](decisions/0004-peu-de-verbalisation.md) · [formule](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md) |
+| **Science incrémentale** | Wikipédia du savoir scientifique ; moins de PDF jetables | Idée (graine de thèse) | Préciser champ (maths vs expérimental) ; [ouvrir](idees/2026-07-24-science-incremental-wikipedia.md) |
 | **Atlas / slogans** | Machine à ralentir ; fiche à 7 niveaux ; MVP curaté | Idées + débat ouvert | Trancher [atlas vs réseau social](points-de-vue/2026-07-24-atlas-vs-reseau-social.md) ; première synthèse |
 | **Noyau d'axiomes** | Ensemble minimal de formules-boussole | Idée + débat ouvert | Critères d'admission ; premier axiome `adopté` ? |
 | **Spectacle du désaccord** | Rendre le désaccord de qualité désirable | Débat ouvert | Synthèse quand le débat a assez de matière |
@@ -24,9 +28,11 @@ Satellites mis de côté (miroir, jeu, gouvernance…) → [`archive/idees/`](ar
 
 ## Comment avancer
 
-1. **Poursuivre** le débat [noyau minimal vs catalogue](points-de-vue/2026-07-24-noyau-minimal-vs-catalogue.md) — taille et critères.
-2. **Viser une première synthèse** sur *atlas vs réseau social* (trou actuel du cycle : `syntheses/` vide).
-3. **Admettre** (ou non) un premier axiome dans [`slogans/noyau/`](slogans/noyau/).
+1. **Clarifier** la place des slogans (brique majeure vs projet entier) — décision [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md).
+2. **Garder le simple** comme critère de relecture — [« Dsl, j'ai pas eu le temps de faire simple. »](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md).
+3. **Poursuivre** le débat [noyau minimal vs catalogue](points-de-vue/2026-07-24-noyau-minimal-vs-catalogue.md).
+4. **Viser une première synthèse** sur *atlas vs réseau social* (trou actuel : `syntheses/` vide).
+5. **Admettre** (ou non) un premier axiome dans [`slogans/noyau/`](slogans/noyau/).
 
 ## Noyau de slogans (axiomes)
 
@@ -34,8 +40,10 @@ _Aucun axiome **adopté** encore._ Candidats → [`slogans/noyau/`](slogans/noya
 
 | Formule candidate | Statut | Origine |
 |-------------------|--------|---------|
+| « Dsl, j'ai pas eu le temps de faire simple. » | candidat (fichier noyau) | [slogan](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md) · [idée](idees/2026-07-24-chercher-solutions-simples.md) |
 | « Penser par formules, sans être pensé par elles. » | candidat | [idée noyau](idees/2026-07-24-noyau-axiomes-de-slogans.md) |
 | « Une machine à ralentir les slogans sans les tuer. » | candidat | [idée atlas](idees/2026-07-24-atlas-critique-des-slogans.md) |
+| « Les slogans sont une porte, pas la maison. » | candidat | [cadrage](idees/2026-07-24-slogans-porte-pas-maison.md) |
 
 ## Décisions
 
@@ -43,11 +51,14 @@ _Aucun axiome **adopté** encore._ Candidats → [`slogans/noyau/`](slogans/noya
 |---|----------|--------|
 | [0001](decisions/0001-langue-et-methode-de-travail.md) | Langue (français) et méthode (cycle en 5 temps) | **adoptée** |
 | [0002](decisions/0002-archivage-vues-et-noyau-slogans.md) | Archivage, vues par étape, noyau de slogans | **adoptée** |
+| [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md) | Slogans = brique majeure (pas le projet entier) ; accroche obligatoire | **proposée** |
+| [0004](decisions/0004-peu-de-verbalisation.md) | Peu de verbalisation (slogan d'abord) | **proposée** |
 
 ## Grandes questions ouvertes
 
+- Quelle **forme** pour la machine à penser (encore inconnue) — et quelle place exacte pour les slogans / expressions ?
 - Quelle **taille** et quels **critères** pour le noyau d'axiomes-slogans ?
-- Comment **déplier un slogan** sans faux équilibre ni guerre de labels ?
+- Comment **déplier** une phrase qui circule sans faux équilibre ni guerre de labels ?
 - Comment articuler **atlas lent** et **spectacle du désaccord** sans trahir le manifeste ?
 - (En pause) Quand rouvrir la porte **miroir / bulles** ? → [`archive/idees/`](archive/idees/)
 

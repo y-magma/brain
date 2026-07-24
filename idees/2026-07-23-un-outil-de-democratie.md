@@ -4,37 +4,40 @@
 - **Proposé par** : y-magma
 - **Statut** : graine
 - **Échelle(s)** : individu · communauté · société · humanité
+- **Thème(s)** : forme-outil · démocratie
+- **Slogan / expression associée** : « Penser ensemble, agir ensemble »
+- **Prochaine étape** : débattre
+- **Priorité** : haute
 
 ## La graine
 
-Créer un nouvel outil pour **penser les idées, entrer en action, créer et avancer ensemble comme humanité**. La forme reste ouverte. Deux pistes évoquées :
+Nouvel outil pour **penser, agir, créer ensemble**. Forme **ouverte**. Pistes non exclusives :
 
-- un « **Twitter de slogans** » multi-échelle et multi-points-de-vue ;
-- une « **Wikipédia 2.0** » qui permet de créer réellement de la connaissance de manière collaborative, en assumant dissonances, convergences et divergences de points de vue.
+- phrases courtes / « Twitter de slogans » multi-points-de-vue ;
+- « Wikipédia 2.0 » collaborative (dissonances assumées) — dont [science incrémentale](2026-07-24-science-incremental-wikipedia.md) ;
+- spectacle, miroir, micro-communautés…
 
-C'est un **outil de démocratie**, pour celles et ceux qui créent (une minorité) comme pour celles et ceux qui veulent s'informer et réfléchir.
+Slogans = **brique majeure**, pas le projet entier → [`2026-07-24-slogans-porte-pas-maison.md`](2026-07-24-slogans-porte-pas-maison.md).
 
 ## Pourquoi ça compte
 
-Retrouver le goût de discuter avec un point de vue opposé, sortir des slogans creux et du populisme, et faire émerger des idées fortes de consensus sur ce que l'outil devrait — utopiquement — faire.
+Désaccord fécond ; sortir du populisme ; idées fortes traçables.
 
 ## Ce qu'on ne sait pas encore
 
-- Quelle forme concrète l'outil prend-il ?
-- Comment représenter une idée « multi-échelle, multi-points-de-vue » sans la figer ?
-- Comment valoriser un débat de qualité sans récompenser le clash ?
-- Comment inclure les non-créateurs autrement que comme spectateurs ?
+Forme concrète ? Qualité sans clash ? Inclure les non-créateurs ?
 
-## Nature des énoncés (à préciser)
+## Nature des énoncés
 
-- **Faits** : le populisme et la polarisation sont des phénomènes documentés (à sourcer dans un débat dédié).
-- **Valeurs** : la démocratie, le pluralisme des points de vue et le désaccord fécond sont désirables.
-- **Hypothèses** : un « wiki-LLM » collaboratif peut améliorer la qualité de la délibération collective.
+- **Faits** : polarisation / populisme documentés (à sourcer).
+- **Valeurs** : pluralisme, démocratie, désaccord fécond.
+- **Hypothèses** : wiki-LLM collaboratif peut aider.
 
 ## Liens
 
-- Vision : [`../vision/manifeste.md`](../vision/manifeste.md)
-- Précision de la piste « Twitter de slogans » : [`2026-07-24-atlas-critique-des-slogans.md`](2026-07-24-atlas-critique-des-slogans.md) (recentrage vers un atlas critique, pas un réseau social)
-- Porte d'entrée « miroir » : [`../archive/idees/2026-07-24-miroir-des-bulles.md`](../archive/idees/2026-07-24-miroir-des-bulles.md) ; cadrage désir : [`../archive/idees/2026-07-24-plaisir-sain-competitif.md`](../archive/idees/2026-07-24-plaisir-sain-competitif.md)
-- Débats ouverts : [`../points-de-vue/2026-07-24-atlas-vs-reseau-social.md`](../points-de-vue/2026-07-24-atlas-vs-reseau-social.md), [`../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md`](../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md), [`../archive/points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md`](../archive/points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md)
-- Prochaine étape suggérée : synthétiser les portes d'entrée (atlas / spectacle / miroir / pédagogie / micro-communauté) une fois les débats mûrs.
+- Manifeste : [`../vision/manifeste.md`](../vision/manifeste.md)
+- Atlas : [`2026-07-24-atlas-critique-des-slogans.md`](2026-07-24-atlas-critique-des-slogans.md)
+- Science wiki : [`2026-07-24-science-incremental-wikipedia.md`](2026-07-24-science-incremental-wikipedia.md)
+- IA + UX : [`2026-07-24-ia-interface-matiere-premiere.md`](2026-07-24-ia-interface-matiere-premiere.md)
+- Simplicité : [`2026-07-24-chercher-solutions-simples.md`](2026-07-24-chercher-solutions-simples.md)
+- Débats : [`../points-de-vue/`](../points-de-vue/)

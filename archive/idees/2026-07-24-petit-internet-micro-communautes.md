@@ -6,6 +6,7 @@
 - **Archivée le** : 2026-07-24
 - **Motif** : hors focus vision produit immédiat (atlas / slogans / outil de démocratie) — satellite ou porte d'entrée alternative
 - **Échelle(s)** : communauté · société
+- **Slogan / expression associée** : « Savoir à qui parler »
 
 ## La graine
 

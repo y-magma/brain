@@ -2,7 +2,10 @@
 
 Les **idées fortes** distillées d'un consensus. Mémorables, oui — mais **jamais orphelines** : chaque slogan reste relié à son raisonnement et aux points de vue qu'il réconcilie.
 
-> **Deux sens du mot « slogan » dans ce dépôt.** Ici (`slogans/`) : formules distillées *par* le collectif `brain`. Ailleurs (piste produit) : phrases qui circulent *dans* la société, à déplier dans un atlas critique — voir [`../idees/2026-07-24-atlas-critique-des-slogans.md`](../idees/2026-07-24-atlas-critique-des-slogans.md) et le glossaire.
+> **Trois usages du mot « slogan » dans ce dépôt.**
+> 1. **Accroche d'idée** (`idees/`) : formule obligatoire sur chaque graine (candidate, expression, phrase qui circule).
+> 2. **Slogan distillé** (ici, `slogans/`) : consensus du collectif `brain`, avec raisonnement.
+> 3. **Slogan-objet** (piste produit) : phrase qui circule dans la société, à déplier — une *brique* de la machine à penser, pas sa définition (voir [`../idees/2026-07-24-slogans-porte-pas-maison.md`](../idees/2026-07-24-slogans-porte-pas-maison.md)).
 
 ## Le noyau (axiomes)
 
@@ -16,7 +19,7 @@ Le sous-dossier [`noyau/`](noyau/) accueille l'ensemble **minimal** de formules 
 
 ## Index (hors noyau)
 
-_Aucun slogan dérivé actif pour l'instant._
+_Aucun slogan dérivé actif pour l'instant._ Candidats au noyau → [`noyau/`](noyau/) (dont « Dsl, j'ai pas eu le temps de faire simple. »).
 
 Archivés → [`../archive/slogans/`](../archive/slogans/).
 

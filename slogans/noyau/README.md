@@ -27,8 +27,10 @@ Candidats en discussion :
 
 | Formule | Statut | Lien |
 |---------|--------|------|
+| « Dsl, j'ai pas eu le temps de faire simple. » | candidat | [`dsl-pas-eu-le-temps-de-faire-simple.md`](dsl-pas-eu-le-temps-de-faire-simple.md) |
 | « Penser par formules, sans être pensé par elles. » | candidat (idée) | [`../../idees/2026-07-24-noyau-axiomes-de-slogans.md`](../../idees/2026-07-24-noyau-axiomes-de-slogans.md) |
 | « Une machine à ralentir les slogans sans les tuer. » | candidat (idée atlas) | [`../../idees/2026-07-24-atlas-critique-des-slogans.md`](../../idees/2026-07-24-atlas-critique-des-slogans.md) |
+| « Les slogans sont une porte, pas la maison. » | candidat (idée cadrage) | [`../../idees/2026-07-24-slogans-porte-pas-maison.md`](../../idees/2026-07-24-slogans-porte-pas-maison.md) |
 
 ## Comment ajouter
 

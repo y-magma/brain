@@ -2,7 +2,8 @@
 
 > Un vocabulaire commun pour éviter les malentendus. On l'enrichit par Pull Request au fil des débats.
 
-- **Idée (graine)** — Une intuition, un problème ou une proposition déposé dans [`../idees/`](../idees/). Point de départ, pas conclusion.
+- **Idée (graine)** — Une intuition, un problème ou une proposition déposé dans [`../idees/`](../idees/). Point de départ, pas conclusion. Chaque idée porte un **slogan / expression associée** (accroche obligatoire).
+- **Slogan / expression associée** (syn. *slogan candidat*) — Formule courte accrochée à une graine : candidate du collectif, expression courante, proverbe, ou phrase qui circule déjà (même un peu stupide ou toxique). Hypothèse de travail, **pas** un axiome du noyau. Voir [`../idees/README.md`](../idees/README.md) et [`../decisions/0003-slogans-brique-et-accroche-des-idees.md`](../decisions/0003-slogans-brique-et-accroche-des-idees.md).
 - **Point de vue / Débat** — Un document de [`../points-de-vue/`](../points-de-vue/) qui confronte une thèse : arguments pour, arguments contre, nuances, questions ouvertes.
 - **Steelman** — La formulation la plus forte et honnête d'une position, y compris celle qu'on ne partage pas. Obligatoire avant toute critique. Opposé de l'*homme de paille*.
 - **Homme de paille (*strawman*)** — Version affaiblie ou caricaturale d'une position, réfutée à la place de la vraie. Proscrit ici.
@@ -10,9 +11,9 @@
 - **Divergence assumée** — Un désaccord qui subsiste après clarification, souvent parce qu'il repose sur des valeurs différentes (et non sur un malentendu factuel).
 - **Angle mort** — Une dimension du problème qu'aucun point de vue n'a encore traitée.
 - **Synthèse** — Une carte, produite avec l'IA dans [`../syntheses/`](../syntheses/), des convergences, divergences et angles morts.
-- **Slogan** — Une idée forte et mémorable, distillée d'un consensus, consignée dans [`../slogans/`](../slogans/) avec le raisonnement et les points de vue qu'elle réconcilie. Un slogan sans raisonnement traçable n'est pas admis. *Sens élargi (piste produit)* : toute phrase courte qui circule comme unité de mobilisation psychique et sociale — objet potentiel d'une *fiche* dans un atlas critique (voir [`../idees/2026-07-24-atlas-critique-des-slogans.md`](../idees/2026-07-24-atlas-critique-des-slogans.md)).
-- **Atlas critique (des slogans)** — Piste de produit : transformer les phrases qui circulent en objets navigables (arguments, objections, présupposés, effets psychiques, connexions), sans en faire un réseau social. Formule directrice candidate : « machine à ralentir les slogans sans les tuer ».
-- **Fiche de slogan** — Objet central proposé de l'atlas : structure à plusieurs niveaux (phrase → affirmation → défense → objection → présupposés → effet psychique → connexions). Voir [`../idees/2026-07-24-fiche-slogan-sept-niveaux.md`](../idees/2026-07-24-fiche-slogan-sept-niveaux.md).
+- **Slogan** — Mot à plusieurs usages dans ce dépôt : (1) *accroche d'idée* / expression associée ; (2) *slogan distillé* dans [`../slogans/`](../slogans/), avec raisonnement traçable ; (3) *axiome* du [`../slogans/noyau/`](../slogans/noyau/) ; (4) *slogan-objet* d'enquête (piste atlas). Un slogan distillé ou un axiome sans raisonnement n'est pas admis. Les slogans sont une **brique majeure** de la machine à penser, pas sa définition fermée (voir [`../idees/2026-07-24-slogans-porte-pas-maison.md`](../idees/2026-07-24-slogans-porte-pas-maison.md)).
+- **Atlas critique (des slogans)** — *Une* piste de produit parmi d'autres : transformer les phrases qui circulent en objets navigables. Formule candidate de la piste : « machine à ralentir les slogans sans les tuer ». Ne définit pas à elle seule le projet.
+- **Fiche de slogan** — Objet proposé de la piste atlas : structure à plusieurs niveaux autour d'une phrase courte. Voir [`../idees/2026-07-24-fiche-slogan-sept-niveaux.md`](../idees/2026-07-24-fiche-slogan-sept-niveaux.md).
 - **Décision** — Un choix structurant consigné dans [`../decisions/`](../decisions/) (format ADR léger).
 - **Échelle** — Le niveau auquel on juge une idée : individu, communauté, société, humanité.
 - **Faits / Valeurs / Hypothèses** — Trois natures d'énoncés à toujours distinguer : vérifiable / choix moral ou politique / pari incertain.
@@ -23,6 +24,5 @@
 - **Petit internet** — Pari que la qualité relationnelle revient à petite échelle (micro-communautés interconnectées, réputation réelle, réseau de confiance) plutôt que via un feed global unique. Voir [`../archive/idees/2026-07-24-petit-internet-micro-communautes.md`](../archive/idees/2026-07-24-petit-internet-micro-communautes.md) — archivée.
 - **Miroir des bulles** — Porte d'entrée produit type « Spotify Wrapped de ton cerveau numérique » : rendre visible l'univers mental / algorithmique de chacun par curiosité et partage, sans sermon. Voir [`../archive/idees/2026-07-24-miroir-des-bulles.md`](../archive/idees/2026-07-24-miroir-des-bulles.md) — archivée (pause).
 - **Archive** — Zone du dépôt ([`../archive/`](../archive/)) pour les contributions hors circuit actif (abandonnées, fusionnées, remplacées) **sans les effacer**. Procédure dans le README du dossier.
-- **Slogan candidat** — Formule provisoire attachée à une *idée* pour la rendre transportable. Ce n'est **pas** un axiome adopté. Voir gabarit [`../idees/_gabarit-idee.md`](../idees/_gabarit-idee.md).
 - **Noyau (d'axiomes-slogans)** — Ensemble **minimal** de slogans *adoptés* par le collectif comme boussole, dans [`../slogans/noyau/`](../slogans/noyau/). Enrichissable en multi-échelle et multi-granularité, pas en catalogue infini. Voir [`../idees/2026-07-24-noyau-axiomes-de-slogans.md`](../idees/2026-07-24-noyau-axiomes-de-slogans.md).
-- **Granularité** — Niveau de condensation d'une idée : axiome / formule / reformulation d'échelle / raisonnement / fiche / débat / synthèse. On empile plutôt que de choisir une seule maille.
+- **Peu de verbalisation** — Vertu cardinale : slogan / phrase courte d'abord ; profondeur par liens ; budgets de longueur dans [`../AGENTS.md`](../AGENTS.md). Voir [`../decisions/0004-peu-de-verbalisation.md`](../decisions/0004-peu-de-verbalisation.md).

@@ -12,6 +12,10 @@
 - **Idées**
   - [Index (vision produit)](/idees/README.md)
   - [Outil de démocratie](/idees/2026-07-23-un-outil-de-democratie.md)
+  - [IA + interface](/idees/2026-07-24-ia-interface-matiere-premiere.md)
+  - [Chercher des solutions simples](/idees/2026-07-24-chercher-solutions-simples.md)
+  - [Science incrémentale (wiki)](/idees/2026-07-24-science-incremental-wikipedia.md)
+  - [Slogans = porte, pas maison](/idees/2026-07-24-slogans-porte-pas-maison.md)
   - [Atlas critique des slogans](/idees/2026-07-24-atlas-critique-des-slogans.md)
   - [Fiche slogan à 7 niveaux](/idees/2026-07-24-fiche-slogan-sept-niveaux.md)
   - [MVP atlas curaté](/idees/2026-07-24-mvp-atlas-curate.md)
@@ -29,11 +33,14 @@
 - **Slogans**
   - [Index](/slogans/README.md)
   - [Noyau (axiomes)](/slogans/noyau/README.md)
+  - [« Dsl, pas le temps de faire simple »](/slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md)
 
 - **Décisions**
   - [Index](/decisions/README.md)
   - [0001 — français & méthode (adoptée)](/decisions/0001-langue-et-methode-de-travail.md)
   - [0002 — archive, vues, noyau (adoptée)](/decisions/0002-archivage-vues-et-noyau-slogans.md)
+  - [0003 — slogans = brique + accroche (proposée)](/decisions/0003-slogans-brique-et-accroche-des-idees.md)
+  - [0004 — peu de verbalisation (proposée)](/decisions/0004-peu-de-verbalisation.md)
 
 - **Archive**
   - [Comment archiver](/archive/README.md)
