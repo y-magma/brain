@@ -9,67 +9,60 @@ Dernière mise à jour : **2026-07-24**
 
 ## En une phrase
 
-On explore la forme d'un **outil de démocratie**. Trois portes d'entrée se dessinent — **atlas critique des slogans**, **spectacle du désaccord**, **miroir viral des bulles** — reliées par une même exigence : un **plaisir plus sain** (appartenir, jouer, comprendre) plutôt que l'outrage. Rien n'est figé.
+On construit un **outil de démocratie** centré sur les **slogans** : un [atlas critique](idees/2026-07-24-atlas-critique-des-slogans.md) (« machine à ralentir les slogans sans les tuer »), une [fiche à 7 niveaux](idees/2026-07-24-fiche-slogan-sept-niveaux.md), et un [noyau minimal d'axiomes](slogans/noyau/) — penser *par* formules, sans être pensé *par* elles. Rien n'est figé.
 
-## Là où ça chauffe en ce moment
+## Grands sujets en cours
 
-### Forme de l'outil / portes d'entrée
+| Chantier | Ce qu'on cherche | Étape actuelle | Pour avancer |
+|----------|------------------|----------------|--------------|
+| **Atlas / slogans** | Machine à ralentir ; fiche à 7 niveaux ; MVP curaté | Idées + débat ouvert | Trancher [atlas vs réseau social](points-de-vue/2026-07-24-atlas-vs-reseau-social.md) ; première synthèse |
+| **Noyau d'axiomes** | Ensemble minimal de formules-boussole | Idée + débat ouvert | Critères d'admission ; premier axiome `adopté` ? |
+| **Spectacle du désaccord** | Rendre le désaccord de qualité désirable | Débat ouvert | Synthèse quand le débat a assez de matière |
 
-| Sujet | Étape | Statut | Lien |
-|-------|-------|--------|------|
-| Un outil de démocratie (idée fondatrice) | Idée | graine | [ouvrir](idees/2026-07-23-un-outil-de-democratie.md) |
-| Atlas critique des slogans | Idée | graine | [ouvrir](idees/2026-07-24-atlas-critique-des-slogans.md) |
-| Fiche de slogan à 7 niveaux | Idée | graine | [ouvrir](idees/2026-07-24-fiche-slogan-sept-niveaux.md) |
-| MVP atlas curaté (pas réseau social) | Idée | graine | [ouvrir](idees/2026-07-24-mvp-atlas-curate.md) |
-| Miroir des bulles (Wrapped mental) | Idée | graine | [ouvrir](idees/2026-07-24-miroir-des-bulles.md) |
-| Score nutritionnel du feed | Idée | graine | [ouvrir](idees/2026-07-24-score-nutritionnel-du-feed.md) |
-| MVP satellites (anti-rage, cartes, défis) | Idée | graine | [ouvrir](idees/2026-07-24-mvp-miroirs-et-defis.md) |
+Détail des graines actives → [`idees/`](idees/).  
+Satellites mis de côté (miroir, jeu, gouvernance…) → [`archive/idees/`](archive/idees/).
 
-### Désir, jeu, gouvernance
+## Comment avancer
 
-| Sujet | Étape | Statut | Lien |
-|-------|-------|--------|------|
-| Plaisir sain et compétitif | Idée | graine | [ouvrir](idees/2026-07-24-plaisir-sain-competitif.md) |
-| Missions sociales / jeu collectif | Idée | graine | [ouvrir](idees/2026-07-24-missions-sociales-jeu-collectif.md) |
-| Débat comme sport coopératif | Idée | graine | [ouvrir](idees/2026-07-24-debat-sport-cooperatif.md) |
-| Statuts / rôles constructifs | Idée | graine | [ouvrir](idees/2026-07-24-statuts-roles-constructifs.md) |
-| Petit internet / micro-communautés | Idée | graine | [ouvrir](idees/2026-07-24-petit-internet-micro-communautes.md) |
-| Gouvernance sans ego social | Idée | graine | [ouvrir](idees/2026-07-24-gouvernance-sans-ego-social.md) |
-| IA atelier, pas juge | Idée | graine | [ouvrir](idees/2026-07-24-ia-atelier-pas-juge.md) |
+1. **Poursuivre** le débat [noyau minimal vs catalogue](points-de-vue/2026-07-24-noyau-minimal-vs-catalogue.md) — taille et critères.
+2. **Viser une première synthèse** sur *atlas vs réseau social* (trou actuel du cycle : `syntheses/` vide).
+3. **Admettre** (ou non) un premier axiome dans [`slogans/noyau/`](slogans/noyau/).
 
-### Débats ouverts
+## Noyau de slogans (axiomes)
 
-| Sujet | Étape | Statut | Lien |
-|-------|-------|--------|------|
-| Le « spectacle du désaccord intelligent » | Point de vue | ouvert | [ouvrir](points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md) |
-| Atlas vs réseau social (et vs spectacle) | Point de vue | ouvert | [ouvrir](points-de-vue/2026-07-24-atlas-vs-reseau-social.md) |
-| Miroir viral vs outil de démocratie | Point de vue | ouvert | [ouvrir](points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md) |
+_Aucun axiome **adopté** encore._ Candidats → [`slogans/noyau/`](slogans/noyau/).
 
-## Consensus émergents (slogans)
+| Formule candidate | Statut | Origine |
+|-------------------|--------|---------|
+| « Penser par formules, sans être pensé par elles. » | candidat | [idée noyau](idees/2026-07-24-noyau-axiomes-de-slogans.md) |
+| « Une machine à ralentir les slogans sans les tuer. » | candidat | [idée atlas](idees/2026-07-24-atlas-critique-des-slogans.md) |
 
-_Aucun encore. Les idées fortes distillées apparaîtront ici →_ [`slogans/`](slogans/)
-
-Formules candidates (pas encore distillées) : « une machine à ralentir les slogans sans les tuer » ; « atlas des phrases qui nous gouvernent » ; « ne pas retirer : remplacer » ; « Spotify Wrapped de ton cerveau numérique ».
-
-## Décisions prises
+## Décisions
 
 | # | Décision | Statut |
 |---|----------|--------|
-| [0001](decisions/0001-langue-et-methode-de-travail.md) | Langue (français) et méthode (cycle en 5 temps) | proposée |
+| [0001](decisions/0001-langue-et-methode-de-travail.md) | Langue (français) et méthode (cycle en 5 temps) | **adoptée** |
+| [0002](decisions/0002-archivage-vues-et-noyau-slogans.md) | Archivage, vues par étape, noyau de slogans | **adoptée** |
 
 ## Grandes questions ouvertes
 
-- Quelle **porte d'entrée** en premier : miroir viral, atlas lent, spectacle du duel, pédagogie, micro-communauté — et dans quel ordre ?
-- Comment créer un **plaisir plus sain et compétitif** (rôles, missions, sport coopératif) sans retomber dans l'outrage ?
+- Quelle **taille** et quels **critères** pour le noyau d'axiomes-slogans ?
 - Comment **déplier un slogan** sans faux équilibre ni guerre de labels ?
-- Comment **rendre visible** bulles et feeds sans moraliser ni renforcer l'identité de tribu ?
+- Comment articuler **atlas lent** et **spectacle du désaccord** sans trahir le manifeste ?
+- (En pause) Quand rouvrir la porte **miroir / bulles** ? → [`archive/idees/`](archive/idees/)
 
 ---
 
-## Comment lire ce dépôt (les 3 niveaux)
+## Naviguer par étape
 
-1. **Le plus simple — cette page.** `CARTE.md` résume l'état de la pensée. Commence ici.
-2. **Naviguer par thème.** Chaque dossier a un `README.md` qui sert d'index : [`vision/`](vision/) · [`idees/`](idees/) · [`points-de-vue/`](points-de-vue/) · [`syntheses/`](syntheses/) · [`slogans/`](slogans/) · [`decisions/`](decisions/).
-3. **Le mouvement des idées.** L'historique Git et les Pull Requests montrent *comment* la pensée a évolué (rien n'est effacé).
+| Étape | Dossier | Rôle |
+|-------|---------|------|
+| Idées | [`idees/`](idees/) | Graines vision produit |
+| Points de vue | [`points-de-vue/`](points-de-vue/) | Débats steelman |
+| Synthèses | [`syntheses/`](syntheses/) | Cartes (encore vide) |
+| Slogans | [`slogans/`](slogans/) · [`noyau/`](slogans/noyau/) | Formules + axiomes |
+| Décisions | [`decisions/`](decisions/) | ADR adoptées / proposées |
+| Archive | [`archive/`](archive/) | Hors circuit, pas effacé |
+| Vision | [`vision/`](vision/) | Manifeste, glossaire |
 
-> Astuce : sur GitHub, tout ce Markdown s'affiche déjà proprement. Pour une vraie « vue site » (barre latérale, recherche), voir la note de rendu dans [`workflow/voir-simplement.md`](workflow/voir-simplement.md).
+> Vue site (sidebar, recherche) : [`workflow/voir-simplement.md`](workflow/voir-simplement.md).

@@ -2,7 +2,9 @@
 
 - **Date** : 2026-07-24
 - **Proposé par** : IA (à partir d'un document de travail de y-magma / Vincent)
-- **Statut** : graine
+- **Statut** : archivée
+- **Archivée le** : 2026-07-24
+- **Motif** : hors focus vision produit immédiat (atlas / slogans / outil de démocratie) — satellite ou porte d'entrée alternative
 - **Échelle(s)** : individu · communauté
 
 ## La graine

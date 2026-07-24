@@ -9,32 +9,36 @@
   - [Manifeste](/vision/manifeste.md)
   - [Glossaire](/vision/glossaire.md)
 
-- **Le cycle**
-  - [Idées](/idees/README.md)
-  - [Points de vue](/points-de-vue/README.md)
-  - [Synthèses](/syntheses/README.md)
-  - [Slogans](/slogans/README.md)
-  - [Décisions](/decisions/README.md)
+- **Idées**
+  - [Index (vision produit)](/idees/README.md)
+  - [Outil de démocratie](/idees/2026-07-23-un-outil-de-democratie.md)
+  - [Atlas critique des slogans](/idees/2026-07-24-atlas-critique-des-slogans.md)
+  - [Fiche slogan à 7 niveaux](/idees/2026-07-24-fiche-slogan-sept-niveaux.md)
+  - [MVP atlas curaté](/idees/2026-07-24-mvp-atlas-curate.md)
+  - [Noyau d'axiomes-slogans](/idees/2026-07-24-noyau-axiomes-de-slogans.md)
 
-- **Contributions en cours**
-  - [Idée : un outil de démocratie](/idees/2026-07-23-un-outil-de-democratie.md)
-  - [Idée : atlas critique des slogans](/idees/2026-07-24-atlas-critique-des-slogans.md)
-  - [Idée : fiche slogan à 7 niveaux](/idees/2026-07-24-fiche-slogan-sept-niveaux.md)
-  - [Idée : MVP atlas curaté](/idees/2026-07-24-mvp-atlas-curate.md)
-  - [Idée : plaisir sain et compétitif](/idees/2026-07-24-plaisir-sain-competitif.md)
-  - [Idée : missions sociales / jeu collectif](/idees/2026-07-24-missions-sociales-jeu-collectif.md)
-  - [Idée : débat sport coopératif](/idees/2026-07-24-debat-sport-cooperatif.md)
-  - [Idée : statuts / rôles constructifs](/idees/2026-07-24-statuts-roles-constructifs.md)
-  - [Idée : petit internet](/idees/2026-07-24-petit-internet-micro-communautes.md)
-  - [Idée : miroir des bulles](/idees/2026-07-24-miroir-des-bulles.md)
-  - [Idée : score nutritionnel du feed](/idees/2026-07-24-score-nutritionnel-du-feed.md)
-  - [Idée : MVP satellites miroirs](/idees/2026-07-24-mvp-miroirs-et-defis.md)
-  - [Idée : gouvernance sans ego social](/idees/2026-07-24-gouvernance-sans-ego-social.md)
-  - [Idée : IA atelier, pas juge](/idees/2026-07-24-ia-atelier-pas-juge.md)
-  - [Débat : le spectacle du désaccord](/points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md)
-  - [Débat : atlas vs réseau social](/points-de-vue/2026-07-24-atlas-vs-reseau-social.md)
-  - [Débat : miroir viral vs démocratie](/points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md)
-  - [Décision 0001 : langue & méthode](/decisions/0001-langue-et-methode-de-travail.md)
+- **Points de vue**
+  - [Index des débats](/points-de-vue/README.md)
+  - [Spectacle du désaccord](/points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md)
+  - [Atlas vs réseau social](/points-de-vue/2026-07-24-atlas-vs-reseau-social.md)
+  - [Noyau minimal vs catalogue](/points-de-vue/2026-07-24-noyau-minimal-vs-catalogue.md)
+
+- **Synthèses**
+  - [Index des cartes](/syntheses/README.md)
+
+- **Slogans**
+  - [Index](/slogans/README.md)
+  - [Noyau (axiomes)](/slogans/noyau/README.md)
+
+- **Décisions**
+  - [Index](/decisions/README.md)
+  - [0001 — français & méthode (adoptée)](/decisions/0001-langue-et-methode-de-travail.md)
+  - [0002 — archive, vues, noyau (adoptée)](/decisions/0002-archivage-vues-et-noyau-slogans.md)
+
+- **Archive**
+  - [Comment archiver](/archive/README.md)
+  - [Idées archivées](/archive/idees/README.md)
+  - [Débats archivés](/archive/points-de-vue/README.md)
 
 - **Collaborer**
   - [Workflow — le processus](/workflow/processus.md)

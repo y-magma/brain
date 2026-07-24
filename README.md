@@ -38,8 +38,9 @@ vision/        # Le pourquoi : manifeste, valeurs, glossaire commun
 idees/         # Les graines d'idées
 points-de-vue/ # Les débats structurés (thèse, pour, contre, nuances)
 syntheses/     # Les cartes convergence/divergence produites avec l'IA
-slogans/       # Les idées fortes distillées des consensus
+slogans/       # Les idées fortes distillées (+ noyau/ d'axiomes)
 decisions/     # Le journal des décisions structurantes (ADR light)
+archive/       # Hors circuit actif, sans effacer
 workflow/      # Le processus et les rôles
 AGENTS.md      # Les règles de collaboration avec l'IA
 ```

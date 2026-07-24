@@ -1,7 +1,8 @@
 # 0001 — Langue et méthode de travail
 
 - **Date** : 2026-07-23
-- **Statut** : proposée
+- **Statut** : adoptée
+- **Adoptée le** : 2026-07-24
 - **Décideurs** : y-magma, Vincent
 - **Sources** : [`../vision/manifeste.md`](../vision/manifeste.md), [`../workflow/processus.md`](../workflow/processus.md)
 
@@ -19,6 +20,8 @@ Le projet démarre. Il faut fixer quelques conventions minimales pour collaborer
 
 - **Langue de travail : le français** par défaut (option 1), avec traduction ponctuelle si un contenu gagne à être partagé plus largement.
 - **Méthode : le cycle en cinq temps** (idées → points de vue → synthèses → slogans → décisions), toute contribution passant par une **Pull Request** relue par au moins un humain.
+
+> Tranché le 2026-07-24 : le collectif travaille déjà entièrement en français ; maintenir « proposée » n'apportait plus rien.
 
 ## Conséquences
 

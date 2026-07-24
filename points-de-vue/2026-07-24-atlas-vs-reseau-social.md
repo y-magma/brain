@@ -82,10 +82,10 @@ Repères conceptuels (à lire avec prudence) : Dawkins (mème) ; Lakoff (framing
 
 ## Liens connexes
 
-- Troisième porte d'entrée : [`2026-07-24-miroir-viral-vs-outil-democratie.md`](2026-07-24-miroir-viral-vs-outil-democratie.md) (miroir viral / Wrapped mental)
-- Plaisir sain : [`../idees/2026-07-24-plaisir-sain-competitif.md`](../idees/2026-07-24-plaisir-sain-competitif.md)
-- Petit internet : [`../idees/2026-07-24-petit-internet-micro-communautes.md`](../idees/2026-07-24-petit-internet-micro-communautes.md)
+- Troisième porte d'entrée : [`../archive/points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md`](../archive/points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md) (miroir viral / Wrapped mental)
+- Plaisir sain : [`../archive/idees/2026-07-24-plaisir-sain-competitif.md`](../archive/idees/2026-07-24-plaisir-sain-competitif.md)
+- Petit internet : [`../archive/idees/2026-07-24-petit-internet-micro-communautes.md`](../archive/idees/2026-07-24-petit-internet-micro-communautes.md)
 
 ## Vers la synthèse
 
-Quand ce débat, celui du [spectacle du désaccord](2026-07-23-le-spectacle-du-desaccord-intelligent.md) et celui du [miroir viral](2026-07-24-miroir-viral-vs-outil-democratie.md) auront mûri, produire une synthèse dans [`../syntheses/`](../syntheses/) sur : **« Quelle porte d'entrée pour l'outil — atlas lent, spectacle du duel, miroir de bulle, session Pol.is, pédagogie, micro-communauté — et comment les articuler sans trahir le manifeste ? »**
+Quand ce débat, celui du [spectacle du désaccord](2026-07-23-le-spectacle-du-desaccord-intelligent.md) et celui du [miroir viral](../archive/points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md) auront mûri, produire une synthèse dans [`../syntheses/`](../syntheses/) sur : **« Quelle porte d'entrée pour l'outil — atlas lent, spectacle du duel, miroir de bulle, session Pol.is, pédagogie, micro-communauté — et comment les articuler sans trahir le manifeste ? »**

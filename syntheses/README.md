@@ -14,4 +14,8 @@ Les **cartes**. À partir d'un ou plusieurs débats, on distingue clairement ce 
 - **Divergences assumées** — les désaccords qui subsistent après clarification (souvent des différences de valeurs, pas des malentendus).
 - **Angles morts** — ce que personne n'a encore traité.
 
-C'est le **livrable principal de l'IA** ; un humain relit et corrige. Une synthèse solide peut ensuite nourrir un [`slogan`](../slogans/) ou une [`décision`](../decisions/).
+C'est le **livrable principal de l'IA** ; un humain relit et corrige. Une synthèse solide peut ensuite nourrir un [`slogan`](../slogans/) (voire le [`noyau`](../slogans/noyau/)) ou une [`décision`](../decisions/). Cartes retirées → [`../archive/syntheses/`](../archive/syntheses/).
+
+## Index
+
+_Aucune synthèse active pour l'instant._ Prochains candidats naturels : atlas vs réseau social ; noyau minimal vs catalogue ; miroir viral vs démocratie.

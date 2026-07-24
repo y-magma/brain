@@ -2,8 +2,10 @@
 
 - **Date** : 2026-07-24
 - **Animé par** : IA (à partir d'un document de travail de y-magma / Vincent)
-- **Idée(s) source** : [`../idees/2026-07-24-miroir-des-bulles.md`](../idees/2026-07-24-miroir-des-bulles.md), [`../idees/2026-07-24-plaisir-sain-competitif.md`](../idees/2026-07-24-plaisir-sain-competitif.md), [`../idees/2026-07-23-un-outil-de-democratie.md`](../idees/2026-07-23-un-outil-de-democratie.md), [`../idees/2026-07-24-mvp-atlas-curate.md`](../idees/2026-07-24-mvp-atlas-curate.md)
-- **Statut** : ouvert
+- **Idée(s) source** : [`../idees/2026-07-24-miroir-des-bulles.md`](../idees/2026-07-24-miroir-des-bulles.md), [`../idees/2026-07-24-plaisir-sain-competitif.md`](../idees/2026-07-24-plaisir-sain-competitif.md), [`../../idees/2026-07-23-un-outil-de-democratie.md`](../../idees/2026-07-23-un-outil-de-democratie.md), [`../../idees/2026-07-24-mvp-atlas-curate.md`](../../idees/2026-07-24-mvp-atlas-curate.md)
+- **Statut** : archivé
+- **Archivé le** : 2026-07-24
+- **Motif** : débat lié à une porte d'entrée (miroir) mise en pause pour recentrer le produit sur l'atlas / les slogans
 
 ## La thèse en débat
 
