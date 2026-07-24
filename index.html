@@ -3,37 +3,160 @@
 <head>
   <meta charset="UTF-8" />
   <title>brain — atelier collaboratif humain + IA</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <meta name="description" content="brain : un atelier de pensée collaboratif humain + IA (wiki-LLM)." />
+  <meta name="theme-color" content="#1a3a32" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400&family=Sora:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
-  <style>
-    :root { --theme-color: #5b6ee1; }
-    .app-name-link img, .sidebar-nav img { max-width: 100%; }
-    .markdown-section { max-width: 860px; }
-  </style>
+  <link rel="stylesheet" href="assets/site.css" />
 </head>
 <body>
   <div id="app">Chargement de la Carte…</div>
   <script>
+    // Détecte le sous-chemin GitHub Pages (/brain/) vs racine locale.
+    (function () {
+      var path = location.pathname;
+      // Docsify : chaîne vide en local ; '/brain/' sur GitHub Pages projet.
+      var base = '';
+      var m = path.match(/^(\/brain(?=\/|$))/);
+      if (m) base = m[1] + '/';
+      window.__BRAIN_BASE__ = base;
+    })();
+
     window.$docsify = {
       name: 'brain',
+      nameLink: window.__BRAIN_BASE__ || '#/',
       repo: 'https://github.com/y-magma/brain',
       loadSidebar: true,
-      subMaxLevel: 2,
+      subMaxLevel: 3,
       homepage: 'CARTE.md',
       auto2top: true,
       relativePath: true,
+      basePath: window.__BRAIN_BASE__,
+      maxLevel: 4,
+      themeColor: '#1a3a32',
       alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
+        '/.*/_sidebar.md': '/_sidebar.md',
+        // Liens dossier → README (ex. idees/, ../vision/)
+        '/idees/?': '/idees/README.md',
+        '/points-de-vue/?': '/points-de-vue/README.md',
+        '/syntheses/?': '/syntheses/README.md',
+        '/slogans/?': '/slogans/README.md',
+        '/decisions/?': '/decisions/README.md',
+        '/vision/?': '/vision/manifeste.md',
+        '/workflow/?': '/workflow/processus.md'
       },
       search: {
-        placeholder: 'Rechercher…',
+        placeholder: 'Rechercher dans brain…',
         noData: 'Aucun résultat.',
-        depth: 3
-      }
+        path: 'auto',
+        depth: 4,
+        hideOtherSidebarContent: true
+      },
+      pagination: {
+        previousText: 'Précédent',
+        nextText: 'Suivant',
+        crossChapter: true,
+        crossChapterText: true
+      },
+      plugins: [
+        function (hook, vm) {
+          var MQ = 768;
+
+          function isMobile() {
+            return window.innerWidth <= MQ;
+          }
+
+          function closeMenu() {
+            document.body.classList.remove('menu-open');
+            // Garde Docsify « close » aligné (desktop) ; sur mobile on ignore sa sémantique.
+            document.body.classList.add('close');
+          }
+
+          function openMenu() {
+            document.body.classList.add('menu-open');
+            document.body.classList.remove('close');
+          }
+
+          function toggleMenu(e) {
+            if (!isMobile()) return;
+            if (e) {
+              e.preventDefault();
+              e.stopPropagation();
+            }
+            if (document.body.classList.contains('menu-open')) closeMenu();
+            else openMenu();
+          }
+
+          hook.doneEach(function () {
+            if (isMobile()) closeMenu();
+
+            var links = document.querySelectorAll('.sidebar-nav a');
+            var current = (vm.route.path || '').replace(/^\//, '').replace(/\.md$/, '');
+            links.forEach(function (a) {
+              var href = (a.getAttribute('href') || '').replace(/^#\//, '').replace(/\.md$/, '');
+              var active =
+                href === current ||
+                href === current + '/README' ||
+                current === href + '/README';
+              a.classList.toggle('is-active-link', active);
+            });
+          });
+
+          hook.ready(function () {
+            var sidebar = document.querySelector('.sidebar');
+            if (sidebar && !sidebar.querySelector('.sidebar-close-btn')) {
+              var btn = document.createElement('button');
+              btn.type = 'button';
+              btn.className = 'sidebar-close-btn';
+              btn.setAttribute('aria-label', 'Fermer le menu');
+              btn.textContent = '×';
+              btn.addEventListener('click', function (e) {
+                e.preventDefault();
+                e.stopPropagation();
+                closeMenu();
+              });
+              sidebar.insertBefore(btn, sidebar.firstChild);
+            }
+
+            var overlay = document.querySelector('.sidebar-overlay');
+            if (!overlay) {
+              overlay = document.createElement('div');
+              overlay.className = 'sidebar-overlay';
+              overlay.setAttribute('aria-hidden', 'true');
+              overlay.addEventListener('click', function (e) {
+                e.preventDefault();
+                closeMenu();
+              });
+              document.body.appendChild(overlay);
+            }
+
+            // Remplace le comportement Docsify du hamburger sur mobile.
+            var toggle = document.querySelector('.sidebar-toggle');
+            if (toggle && !toggle.dataset.brainBound) {
+              toggle.dataset.brainBound = '1';
+              toggle.addEventListener('click', toggleMenu, true);
+            }
+
+            if (isMobile()) closeMenu();
+
+            window.addEventListener('resize', function () {
+              if (!isMobile()) {
+                document.body.classList.remove('menu-open');
+                document.body.classList.remove('close');
+              } else if (!document.body.classList.contains('menu-open')) {
+                closeMenu();
+              }
+            });
+          });
+        }
+      ]
     };
   </script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
 </body>
 </html>

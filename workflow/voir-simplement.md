@@ -50,6 +50,8 @@ Le plus simple, gratuit et lié au dépôt. Une fois cette branche fusionnée da
 
 Aucune compilation : GitHub sert juste les fichiers, Docsify fait le rendu côté navigateur. Le fichier `.nojekyll` (à la racine) est indispensable pour que `_sidebar.md` soit bien servi.
 
+> **Sidebar :** les liens de [`_sidebar.md`](../_sidebar.md) doivent rester en **chemins absolus** (préfixe `/`, ex. `/idees/README.md`). Le site active `relativePath` pour que les liens `../` *dans* les pages marchent ; sans `/` en tête, la sidebar résoudrait depuis la page courante et produirait des 404.
+
 > Alternatives tout aussi simples pour une URL : déposer le dossier sur [Netlify Drop](https://app.netlify.com/drop) (glisser-déposer), ou `npx serve` en local.
 
 ## Niveau 2 — Vue « cerveau » : Obsidian
