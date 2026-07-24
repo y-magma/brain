@@ -4,7 +4,10 @@
 - **Proposé par** : y-magma
 - **Statut** : graine
 - **Échelle(s)** : individu · communauté · société · humanité
+- **Thème(s)** : forme-outil · démocratie
 - **Slogan / expression associée** : « Penser ensemble, agir ensemble »
+- **Prochaine étape** : débattre
+- **Priorité** : haute
 
 ## La graine
 
@@ -38,8 +41,8 @@ Retrouver le goût de discuter avec un point de vue opposé, sortir des slogans 
 ## Liens
 
 - Vision : [`../vision/manifeste.md`](../vision/manifeste.md)
-- Cadrage slogans = brique : [`2026-07-24-slogans-porte-pas-maison.md`](2026-07-24-slogans-porte-pas-maison.md), [`../decisions/0002-slogans-brique-et-accroche-des-idees.md`](../decisions/0002-slogans-brique-et-accroche-des-idees.md)
+- Cadrage slogans = brique : [`2026-07-24-slogans-porte-pas-maison.md`](2026-07-24-slogans-porte-pas-maison.md), [`../decisions/0003-slogans-brique-et-accroche-des-idees.md`](../decisions/0003-slogans-brique-et-accroche-des-idees.md)
 - Précision de la piste « Twitter de slogans » : [`2026-07-24-atlas-critique-des-slogans.md`](2026-07-24-atlas-critique-des-slogans.md) (*une* porte parmi d'autres)
-- Porte d'entrée « miroir » : [`2026-07-24-miroir-des-bulles.md`](2026-07-24-miroir-des-bulles.md) ; cadrage désir : [`2026-07-24-plaisir-sain-competitif.md`](2026-07-24-plaisir-sain-competitif.md)
-- Débats ouverts : [`../points-de-vue/2026-07-24-atlas-vs-reseau-social.md`](../points-de-vue/2026-07-24-atlas-vs-reseau-social.md), [`../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md`](../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md), [`../points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md`](../points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md)
+- Porte d'entrée « miroir » (archivée) : [`../archive/idees/2026-07-24-miroir-des-bulles.md`](../archive/idees/2026-07-24-miroir-des-bulles.md) ; cadrage désir : [`../archive/idees/2026-07-24-plaisir-sain-competitif.md`](../archive/idees/2026-07-24-plaisir-sain-competitif.md)
+- Débats ouverts : [`../points-de-vue/2026-07-24-atlas-vs-reseau-social.md`](../points-de-vue/2026-07-24-atlas-vs-reseau-social.md), [`../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md`](../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md), [`../archive/points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md`](../archive/points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md)
 - Prochaine étape suggérée : synthétiser les portes d'entrée une fois les débats mûrs — sans figer « slogans = le produit ».

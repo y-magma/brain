@@ -4,7 +4,10 @@
 - **Proposé par** : IA (reformulation d'une clarification de y-magma / Vincent)
 - **Statut** : graine
 - **Échelle(s)** : communauté · société
+- **Thème(s)** : forme-outil · slogans · cadrage
 - **Slogan / expression associée** : « Les slogans sont une porte, pas la maison »
+- **Prochaine étape** : décider
+- **Priorité** : haute
 
 ## La graine
 
@@ -31,7 +34,7 @@ Sans ce garde-fou, chaque exploration fertile (atlas, fiches, Wrapped mental…)
 
 ## Liens
 
-- Décision proposée : [`../decisions/0002-slogans-brique-et-accroche-des-idees.md`](../decisions/0002-slogans-brique-et-accroche-des-idees.md)
+- Décision proposée : [`../decisions/0003-slogans-brique-et-accroche-des-idees.md`](../decisions/0003-slogans-brique-et-accroche-des-idees.md)
 - Idée fondatrice : [`2026-07-23-un-outil-de-democratie.md`](2026-07-23-un-outil-de-democratie.md)
 - Piste atlas (une porte parmi d'autres) : [`2026-07-24-atlas-critique-des-slogans.md`](2026-07-24-atlas-critique-des-slogans.md)
 - Manifeste : [`../vision/manifeste.md`](../vision/manifeste.md)

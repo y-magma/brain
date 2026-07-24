@@ -4,7 +4,10 @@
 - **Proposé par** : IA (à partir d'un document de travail de y-magma / Vincent)
 - **Statut** : graine
 - **Échelle(s)** : individu · communauté · société · humanité
+- **Thème(s)** : slogans · atlas · forme-outil
 - **Slogan / expression associée** : « Machine à ralentir les slogans sans les tuer »
+- **Prochaine étape** : débattre
+- **Priorité** : haute
 
 ## La graine
 
@@ -49,8 +52,9 @@ Les humains ne pensent pas seulement avec des articles, des livres ou des raison
 - Idée fondatrice : [`2026-07-23-un-outil-de-democratie.md`](2026-07-23-un-outil-de-democratie.md) (cette graine *précise* la piste « Twitter de slogans » en atlas critique — sans en faire *le* projet)
 - Objet central de *cette* piste : [`2026-07-24-fiche-slogan-sept-niveaux.md`](2026-07-24-fiche-slogan-sept-niveaux.md)
 - Chemin produit : [`2026-07-24-mvp-atlas-curate.md`](2026-07-24-mvp-atlas-curate.md)
-- Gouvernance : [`2026-07-24-gouvernance-sans-ego-social.md`](2026-07-24-gouvernance-sans-ego-social.md)
-- Rôle de l'IA : [`2026-07-24-ia-atelier-pas-juge.md`](2026-07-24-ia-atelier-pas-juge.md)
+- Gouvernance : [`../archive/idees/2026-07-24-gouvernance-sans-ego-social.md`](../archive/idees/2026-07-24-gouvernance-sans-ego-social.md)
+- Rôle de l'IA : [`../archive/idees/2026-07-24-ia-atelier-pas-juge.md`](../archive/idees/2026-07-24-ia-atelier-pas-juge.md)
 - Débat ouvert : [`../points-de-vue/2026-07-24-atlas-vs-reseau-social.md`](../points-de-vue/2026-07-24-atlas-vs-reseau-social.md)
 - Tension avec : [`../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md`](../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md)
+- Noyau d'axiomes (complément méthode) : [`2026-07-24-noyau-axiomes-de-slogans.md`](2026-07-24-noyau-axiomes-de-slogans.md)
 - Vision : [`../vision/manifeste.md`](../vision/manifeste.md)

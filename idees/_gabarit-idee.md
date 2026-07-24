@@ -2,9 +2,12 @@
 
 - **Date** : AAAA-MM-JJ
 - **Proposé par** : <nom / pseudo / IA>
-- **Statut** : graine · en débat · synthétisée · abandonnée
+- **Statut** : graine · en débat · synthétisée · abandonnée · archivée
 - **Échelle(s)** : individu · communauté · société · humanité
-- **Slogan / expression associée** : « <formule courte — candidate, expression courante, proverbe, ou slogan qui circule ; peut être un peu stupide ou provocante> »
+- **Thème(s)** : <ex. slogans · miroirs · gouvernance · plaisir · forme-outil>
+- **Slogan / expression associée** : « <formule obligatoire — candidate, expression courante, proverbe, ou slogan qui circule ; peut être un peu stupide ou provocante ; hypothèse de travail, pas axiome du noyau> »
+- **Prochaine étape** : préciser · débattre · synthétiser · distiller · décider · archiver
+- **Priorité** : haute · moyenne · basse · pause
 
 ## La graine
 

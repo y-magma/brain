@@ -2,7 +2,11 @@
 
 - **Date** : AAAA-MM-JJ
 - **Distillé par** : <nom / IA> — **Validé par** : <humain>
-- **Synthèse(s) source** : <lien vers `../syntheses/...`>
+- **Rôle** : noyau · dérivé · candidat libre
+- **Granularité** : axiome · formule · reformulation d'échelle
+- **Échelle(s)** : individu · communauté · société · humanité
+- **Idée(s) source** : <lien vers `../idees/...`>
+- **Synthèse(s) source** : <lien vers `../syntheses/...` — idéal avant adoption au noyau>
 - **Statut** : candidat · adopté · retiré
 
 ## La formule
@@ -14,9 +18,18 @@
 - « <variante 1> »
 - « <variante 2> »
 
+### Reformulations multi-échelle (optionnel)
+
+| Échelle | Formulation |
+|---------|-------------|
+| Individu | « … » |
+| Communauté | « … » |
+| Société | « … » |
+| Humanité | « … » |
+
 ## Le raisonnement derrière (dézipper le slogan)
 
-<Le chemin qui mène de la synthèse à cette formule. Pourquoi elle tient.>
+<Le chemin qui mène de la synthèse / du débat à cette formule. Pourquoi elle tient.>
 
 ## Points de vue réconciliés
 
@@ -25,3 +38,8 @@
 ## Ce que le slogan ne dit PAS
 
 <Les limites, les nuances sacrifiées par la concision, les désaccords qu'il ne clôt pas.>
+
+## Granularité — où aller plus loin
+
+- Plus fin : <lien débat / synthèse / fiche atlas>
+- Voisins (proche / opposé) : <liens>

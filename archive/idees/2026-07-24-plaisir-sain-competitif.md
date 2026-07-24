@@ -2,7 +2,9 @@
 
 - **Date** : 2026-07-24
 - **Proposé par** : IA (à partir d'un document de travail de y-magma / Vincent)
-- **Statut** : graine
+- **Statut** : archivée
+- **Archivée le** : 2026-07-24
+- **Motif** : hors focus vision produit immédiat (atlas / slogans / outil de démocratie) — satellite ou porte d'entrée alternative
 - **Échelle(s)** : individu · communauté · société
 - **Slogan / expression associée** : « Ne pas retirer : remplacer »
 
@@ -24,7 +26,7 @@ Et surtout : ne pas essayer de « réparer Internet » (trop gros, trop abstrait
 
 ## Pourquoi ça compte
 
-Sans ce cadrage, tout projet « responsable » se positionne contre le désir et perd d'avance face aux géants. Avec lui, on peut concilier les mécaniques d'engagement (micro-récompenses, progression, surprise) et des fins non toxiques — pont entre le [spectacle du désaccord](../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md) et la [gouvernance sans ego social](2026-07-24-gouvernance-sans-ego-social.md).
+Sans ce cadrage, tout projet « responsable » se positionne contre le désir et perd d'avance face aux géants. Avec lui, on peut concilier les mécaniques d'engagement (micro-récompenses, progression, surprise) et des fins non toxiques — pont entre le [spectacle du désaccord](../../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md) et la [gouvernance sans ego social](2026-07-24-gouvernance-sans-ego-social.md).
 
 ## Ce qu'on ne sait pas encore
 
@@ -46,5 +48,5 @@ Sans ce cadrage, tout projet « responsable » se positionne contre le désir et
 - Petit internet : [`2026-07-24-petit-internet-micro-communautes.md`](2026-07-24-petit-internet-micro-communautes.md)
 - Miroir des bulles (MVP viral) : [`2026-07-24-miroir-des-bulles.md`](2026-07-24-miroir-des-bulles.md)
 - Débat : [`../points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md`](../points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md)
-- Spectacle : [`../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md`](../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md)
+- Spectacle : [`../../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md`](../../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md)
 - Gouvernance : [`2026-07-24-gouvernance-sans-ego-social.md`](2026-07-24-gouvernance-sans-ego-social.md)

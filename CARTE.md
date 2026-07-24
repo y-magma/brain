@@ -9,73 +9,65 @@ Dernière mise à jour : **2026-07-24**
 
 ## En une phrase
 
-On explore une **machine à penser** / outil de démocratie — **forme encore inconnue**. Les slogans et expressions courtes en sont une **brique majeure** (accroche de chaque idée, matériau culturel, piste d'atlas), pas le projet entier. Plusieurs portes d'entrée coexistent ; rien n'est figé.
+On explore une **machine à penser** / outil de démocratie — **forme encore inconnue**. Les slogans et expressions courtes en sont une **brique majeure** (accroche obligatoire de chaque idée, matériau culturel, piste d'atlas, [noyau d'axiomes](slogans/noyau/)) — pas la définition fermée du projet. Rien n'est figé.
 
-## Là où ça chauffe en ce moment
+## Grands sujets en cours
 
-### Cadrage
+| Chantier | Ce qu'on cherche | Étape actuelle | Pour avancer |
+|----------|------------------|----------------|--------------|
+| **Forme ouverte** | Ne pas réduire le projet à « un truc slogans » | Idée + décision proposée | Relire [porte ≠ maison](idees/2026-07-24-slogans-porte-pas-maison.md) ; trancher [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md) |
+| **Atlas / slogans** | Machine à ralentir ; fiche à 7 niveaux ; MVP curaté | Idées + débat ouvert | Trancher [atlas vs réseau social](points-de-vue/2026-07-24-atlas-vs-reseau-social.md) ; première synthèse |
+| **Noyau d'axiomes** | Ensemble minimal de formules-boussole | Idée + débat ouvert | Critères d'admission ; premier axiome `adopté` ? |
+| **Spectacle du désaccord** | Rendre le désaccord de qualité désirable | Débat ouvert | Synthèse quand le débat a assez de matière |
 
-| Sujet | Étape | Statut | Slogan / expression | Lien |
-|-------|-------|--------|---------------------|------|
-| Un outil de démocratie (idée fondatrice) | Idée | graine | « Penser ensemble, agir ensemble » | [ouvrir](idees/2026-07-23-un-outil-de-democratie.md) |
-| Les slogans sont une porte, pas la maison | Idée | graine | « Les slogans sont une porte, pas la maison » | [ouvrir](idees/2026-07-24-slogans-porte-pas-maison.md) |
-| Slogans = brique + accroche des idées | Décision | proposée | — | [ouvrir](decisions/0002-slogans-brique-et-accroche-des-idees.md) |
+Détail des graines actives → [`idees/`](idees/).  
+Satellites mis de côté (miroir, jeu, gouvernance…) → [`archive/idees/`](archive/idees/).
 
-### Forme de l'outil / portes d'entrée
+## Comment avancer
 
-| Sujet | Étape | Statut | Slogan / expression | Lien |
-|-------|-------|--------|---------------------|------|
-| Atlas critique des slogans *(une piste)* | Idée | graine | « Machine à ralentir les slogans sans les tuer » | [ouvrir](idees/2026-07-24-atlas-critique-des-slogans.md) |
-| Fiche de slogan à 7 niveaux | Idée | graine | « Travailler plus pour gagner plus » | [ouvrir](idees/2026-07-24-fiche-slogan-sept-niveaux.md) |
-| MVP atlas curaté (pas réseau social) | Idée | graine | « Lis ça, ça déplie enfin cette phrase » | [ouvrir](idees/2026-07-24-mvp-atlas-curate.md) |
-| Miroir des bulles (Wrapped mental) | Idée | graine | « Tu vis dans quelle bulle ? » | [ouvrir](idees/2026-07-24-miroir-des-bulles.md) |
-| Score nutritionnel du feed | Idée | graine | « Yuka du cerveau » | [ouvrir](idees/2026-07-24-score-nutritionnel-du-feed.md) |
-| MVP satellites (anti-rage, cartes, défis) | Idée | graine | « La nuance devient cool » | [ouvrir](idees/2026-07-24-mvp-miroirs-et-defis.md) |
+1. **Clarifier** la place des slogans (brique majeure vs projet entier) — décision [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md).
+2. **Poursuivre** le débat [noyau minimal vs catalogue](points-de-vue/2026-07-24-noyau-minimal-vs-catalogue.md).
+3. **Viser une première synthèse** sur *atlas vs réseau social* (trou actuel : `syntheses/` vide).
+4. **Admettre** (ou non) un premier axiome dans [`slogans/noyau/`](slogans/noyau/).
 
-### Désir, jeu, gouvernance
+## Noyau de slogans (axiomes)
 
-| Sujet | Étape | Statut | Slogan / expression | Lien |
-|-------|-------|--------|---------------------|------|
-| Plaisir sain et compétitif | Idée | graine | « Ne pas retirer : remplacer » | [ouvrir](idees/2026-07-24-plaisir-sain-competitif.md) |
-| Missions sociales / jeu collectif | Idée | graine | « Ensemble, on construit » | [ouvrir](idees/2026-07-24-missions-sociales-jeu-collectif.md) |
-| Débat comme sport coopératif | Idée | graine | « Gagner, c'est comprendre » | [ouvrir](idees/2026-07-24-debat-sport-cooperatif.md) |
-| Statuts / rôles constructifs | Idée | graine | « Constructeur, pas influenceur » | [ouvrir](idees/2026-07-24-statuts-roles-constructifs.md) |
-| Petit internet / micro-communautés | Idée | graine | « Savoir à qui parler » | [ouvrir](idees/2026-07-24-petit-internet-micro-communautes.md) |
-| Gouvernance sans ego social | Idée | graine | « Responsabilité sans personal branding » | [ouvrir](idees/2026-07-24-gouvernance-sans-ego-social.md) |
-| IA atelier, pas juge | Idée | graine | « L'IA propose, l'humain dispose » | [ouvrir](idees/2026-07-24-ia-atelier-pas-juge.md) |
+_Aucun axiome **adopté** encore._ Candidats → [`slogans/noyau/`](slogans/noyau/).
 
-### Débats ouverts
+| Formule candidate | Statut | Origine |
+|-------------------|--------|---------|
+| « Penser par formules, sans être pensé par elles. » | candidat | [idée noyau](idees/2026-07-24-noyau-axiomes-de-slogans.md) |
+| « Une machine à ralentir les slogans sans les tuer. » | candidat | [idée atlas](idees/2026-07-24-atlas-critique-des-slogans.md) |
+| « Les slogans sont une porte, pas la maison. » | candidat | [cadrage](idees/2026-07-24-slogans-porte-pas-maison.md) |
 
-| Sujet | Étape | Statut | Lien |
-|-------|-------|--------|------|
-| Le « spectacle du désaccord intelligent » | Point de vue | ouvert | [ouvrir](points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md) |
-| Atlas vs réseau social (et vs spectacle) | Point de vue | ouvert | [ouvrir](points-de-vue/2026-07-24-atlas-vs-reseau-social.md) |
-| Miroir viral vs outil de démocratie | Point de vue | ouvert | [ouvrir](points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md) |
-
-## Consensus émergents (slogans distillés)
-
-_Aucun encore dans [`slogans/`](slogans/)._ Les accroches ci-dessus sont des **slogans / expressions associés aux idées**, pas des consensus adoptés.
-
-## Décisions prises
+## Décisions
 
 | # | Décision | Statut |
 |---|----------|--------|
-| [0001](decisions/0001-langue-et-methode-de-travail.md) | Langue (français) et méthode (cycle en 5 temps) | proposée |
-| [0002](decisions/0002-slogans-brique-et-accroche-des-idees.md) | Slogans = brique majeure (pas le projet entier) ; accroche obligatoire des idées | proposée |
+| [0001](decisions/0001-langue-et-methode-de-travail.md) | Langue (français) et méthode (cycle en 5 temps) | **adoptée** |
+| [0002](decisions/0002-archivage-vues-et-noyau-slogans.md) | Archivage, vues par étape, noyau de slogans | **adoptée** |
+| [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md) | Slogans = brique majeure (pas le projet entier) ; accroche obligatoire | **proposée** |
 
 ## Grandes questions ouvertes
 
 - Quelle **forme** pour la machine à penser (encore inconnue) — et quelle place exacte pour les slogans / expressions ?
-- Quelle **porte d'entrée** en premier : miroir, atlas, spectacle, pédagogie, micro-communauté — et dans quel ordre ?
-- Comment créer un **plaisir plus sain et compétitif** sans retomber dans l'outrage ?
+- Quelle **taille** et quels **critères** pour le noyau d'axiomes-slogans ?
 - Comment **déplier** une phrase qui circule sans faux équilibre ni guerre de labels ?
+- Comment articuler **atlas lent** et **spectacle du désaccord** sans trahir le manifeste ?
+- (En pause) Quand rouvrir la porte **miroir / bulles** ? → [`archive/idees/`](archive/idees/)
 
 ---
 
-## Comment lire ce dépôt (les 3 niveaux)
+## Naviguer par étape
 
-1. **Le plus simple — cette page.** `CARTE.md` résume l'état de la pensée. Commence ici.
-2. **Naviguer par thème.** Chaque dossier a un `README.md` qui sert d'index : [`vision/`](vision/) · [`idees/`](idees/) · [`points-de-vue/`](points-de-vue/) · [`syntheses/`](syntheses/) · [`slogans/`](slogans/) · [`decisions/`](decisions/).
-3. **Le mouvement des idées.** L'historique Git et les Pull Requests montrent *comment* la pensée a évolué (rien n'est effacé).
+| Étape | Dossier | Rôle |
+|-------|---------|------|
+| Idées | [`idees/`](idees/) | Graines vision produit |
+| Points de vue | [`points-de-vue/`](points-de-vue/) | Débats steelman |
+| Synthèses | [`syntheses/`](syntheses/) | Cartes (encore vide) |
+| Slogans | [`slogans/`](slogans/) · [`noyau/`](slogans/noyau/) | Formules + axiomes |
+| Décisions | [`decisions/`](decisions/) | ADR adoptées / proposées |
+| Archive | [`archive/`](archive/) | Hors circuit, pas effacé |
+| Vision | [`vision/`](vision/) | Manifeste, glossaire |
 
-> Astuce : sur GitHub, tout ce Markdown s'affiche déjà proprement. Pour une vraie « vue site » (barre latérale, recherche), voir la note de rendu dans [`workflow/voir-simplement.md`](workflow/voir-simplement.md).
+> Vue site (sidebar, recherche) : [`workflow/voir-simplement.md`](workflow/voir-simplement.md).

@@ -4,7 +4,10 @@
 - **Proposé par** : IA (à partir d'un document de travail de y-magma / Vincent)
 - **Statut** : graine
 - **Échelle(s)** : individu · communauté
+- **Thème(s)** : slogans · atlas · MVP
 - **Slogan / expression associée** : « Lis ça, ça déplie enfin cette phrase »
+- **Prochaine étape** : décider
+- **Priorité** : haute
 
 ## La graine
 
@@ -59,6 +62,6 @@ Un bon MVP ne résout pas le débat public. Il résout une **micro-situation**. 
 
 - Idée parente : [`2026-07-24-atlas-critique-des-slogans.md`](2026-07-24-atlas-critique-des-slogans.md)
 - Objet : [`2026-07-24-fiche-slogan-sept-niveaux.md`](2026-07-24-fiche-slogan-sept-niveaux.md)
-- Gouvernance : [`2026-07-24-gouvernance-sans-ego-social.md`](2026-07-24-gouvernance-sans-ego-social.md)
+- Gouvernance : [`../archive/idees/2026-07-24-gouvernance-sans-ego-social.md`](../archive/idees/2026-07-24-gouvernance-sans-ego-social.md)
 - Débat : [`../points-de-vue/2026-07-24-atlas-vs-reseau-social.md`](../points-de-vue/2026-07-24-atlas-vs-reseau-social.md)
 - Tension : [`../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md`](../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md)
