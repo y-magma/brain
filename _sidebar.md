@@ -39,6 +39,7 @@
   - [0001 — français & méthode (adoptée)](/decisions/0001-langue-et-methode-de-travail.md)
   - [0002 — archive, vues, noyau (adoptée)](/decisions/0002-archivage-vues-et-noyau-slogans.md)
   - [0003 — slogans = brique + accroche (proposée)](/decisions/0003-slogans-brique-et-accroche-des-idees.md)
+  - [0004 — peu de verbalisation (proposée)](/decisions/0004-peu-de-verbalisation.md)
 
 - **Archive**
   - [Comment archiver](/archive/README.md)

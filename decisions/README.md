@@ -21,3 +21,4 @@ Les décisions **adoptées** restent ici (visibles) — on n'archive que celles 
 | 0001 | Langue (français) et méthode (cycle en 5 temps) | **adoptée** | [ouvrir](0001-langue-et-methode-de-travail.md) |
 | 0002 | Archivage, vues par étape, noyau de slogans | **adoptée** | [ouvrir](0002-archivage-vues-et-noyau-slogans.md) |
 | 0003 | Slogans = brique majeure ; accroche obligatoire des idées | **proposée** | [ouvrir](0003-slogans-brique-et-accroche-des-idees.md) |
+| 0004 | Peu de verbalisation (slogan d'abord) | **proposée** | [ouvrir](0004-peu-de-verbalisation.md) |

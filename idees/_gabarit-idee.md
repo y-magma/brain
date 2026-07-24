@@ -4,29 +4,29 @@
 - **Proposé par** : <nom / pseudo / IA>
 - **Statut** : graine · en débat · synthétisée · abandonnée · archivée
 - **Échelle(s)** : individu · communauté · société · humanité
-- **Thème(s)** : <ex. slogans · miroirs · gouvernance · plaisir · forme-outil>
-- **Slogan / expression associée** : « <formule obligatoire — candidate, expression courante, proverbe, ou slogan qui circule ; peut être un peu stupide ou provocante ; hypothèse de travail, pas axiome du noyau> »
+- **Thème(s)** : <ex. slogans · science · méthode>
+- **Slogan / expression associée** : « <1 phrase — obligatoire> »
 - **Prochaine étape** : préciser · débattre · synthétiser · distiller · décider · archiver
 - **Priorité** : haute · moyenne · basse · pause
 
 ## La graine
 
-<En quelques phrases : le problème, l'intuition ou la proposition. Écrire simplement.>
+<5–10 lignes max. Puces bienvenues.>
 
 ## Pourquoi ça compte
 
-<Ce que ça change, pour qui, à quelle échelle.>
+<3–5 lignes ou puces.>
 
 ## Ce qu'on ne sait pas encore
 
-<Questions ouvertes, zones floues, hypothèses à vérifier.>
+<- Questions en puces.>
 
-## Nature des énoncés (à préciser)
+## Nature des énoncés
 
-- **Faits** (vérifiables) :
-- **Valeurs** (choix moraux/politiques) :
-- **Hypothèses** (paris incertains) :
+- **Faits** :
+- **Valeurs** :
+- **Hypothèses** :
 
 ## Liens
 
-<Idées, débats ou synthèses reliés (liens Markdown relatifs).>
+<Liens relatifs, une ligne chacun.>

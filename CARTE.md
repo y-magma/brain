@@ -9,14 +9,14 @@ Dernière mise à jour : **2026-07-24**
 
 ## En une phrase
 
-On explore une **machine à penser** / outil de démocratie — **forme encore inconnue**. Les slogans et expressions courtes en sont une **brique majeure** (accroche obligatoire de chaque idée, matériau culturel, piste d'atlas, [noyau d'axiomes](slogans/noyau/)) — pas la définition fermée du projet. Rien n'est figé.
+On explore une **machine à penser** — forme **ouverte**. Slogans = brique majeure. Vertu cardinale : **peu de verbalisation** — comprendre vite par phrases courtes (« Dsl, j'ai pas eu le temps de faire simple. »).
 
 ## Grands sujets en cours
 
 | Chantier | Ce qu'on cherche | Étape actuelle | Pour avancer |
 |----------|------------------|----------------|--------------|
 | **Forme ouverte** | Ne pas réduire le projet à « un truc slogans » | Idée + décision proposée | Relire [porte ≠ maison](idees/2026-07-24-slogans-porte-pas-maison.md) ; trancher [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md) |
-| **Simplicité** | Chercher vraiment des solutions simples | Idée + candidat noyau | Relire [chercher simple](idees/2026-07-24-chercher-solutions-simples.md) ; [formule](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md) |
+| **Simplicité / anti-blabla** | Peu de verbalisation ; solutions simples | Idée + 0004 + candidat noyau | [simple](idees/2026-07-24-chercher-solutions-simples.md) · [0004](decisions/0004-peu-de-verbalisation.md) · [formule](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md) |
 | **Science incrémentale** | Wikipédia du savoir scientifique ; moins de PDF jetables | Idée (graine de thèse) | Préciser champ (maths vs expérimental) ; [ouvrir](idees/2026-07-24-science-incremental-wikipedia.md) |
 | **Atlas / slogans** | Machine à ralentir ; fiche à 7 niveaux ; MVP curaté | Idées + débat ouvert | Trancher [atlas vs réseau social](points-de-vue/2026-07-24-atlas-vs-reseau-social.md) ; première synthèse |
 | **Noyau d'axiomes** | Ensemble minimal de formules-boussole | Idée + débat ouvert | Critères d'admission ; premier axiome `adopté` ? |
@@ -51,6 +51,7 @@ _Aucun axiome **adopté** encore._ Candidats → [`slogans/noyau/`](slogans/noya
 | [0001](decisions/0001-langue-et-methode-de-travail.md) | Langue (français) et méthode (cycle en 5 temps) | **adoptée** |
 | [0002](decisions/0002-archivage-vues-et-noyau-slogans.md) | Archivage, vues par étape, noyau de slogans | **adoptée** |
 | [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md) | Slogans = brique majeure (pas le projet entier) ; accroche obligatoire | **proposée** |
+| [0004](decisions/0004-peu-de-verbalisation.md) | Peu de verbalisation (slogan d'abord) | **proposée** |
 
 ## Grandes questions ouvertes
 

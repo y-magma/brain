@@ -8,7 +8,7 @@ Les **graines** : problèmes, intuitions, propositions. C'est le point d'entrée
 2. Renommer en `AAAA-MM-JJ-titre-court.md` (ex. `2026-07-23-wikipedia-2-0.md`).
 3. Remplir (dont **slogan / expression associée**, **thème**, **prochaine étape**), ouvrir une Pull Request.
 
-Une idée n'est pas une conclusion : elle a le droit d'être floue, partielle, provocante. Elle mûrira dans [`../points-de-vue/`](../points-de-vue/). Pour la retirer du circuit actif sans l'effacer → [`../archive/idees/`](../archive/idees/).
+Une idée n'est pas une conclusion. **Court** : slogan d'abord, puis puces (voir budgets dans [`../AGENTS.md`](../AGENTS.md)).
 
 ## Slogan / expression associée (obligatoire)
 

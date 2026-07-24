@@ -11,39 +11,32 @@
 
 ## La graine
 
-Créer un nouvel outil pour **penser les idées, entrer en action, créer et avancer ensemble comme humanité**. La forme reste **ouverte** : nous ne savons pas encore ce que sera cette machine à penser. Des pistes évoquées (non exclusives) :
+Nouvel outil pour **penser, agir, créer ensemble**. Forme **ouverte**. Pistes non exclusives :
 
-- un « **Twitter de slogans** » multi-échelle et multi-points-de-vue — ou plus largement une place importante pour les phrases courtes / expressions qui circulent ;
-- une « **Wikipédia 2.0** » qui permet de créer réellement de la connaissance de manière collaborative, en assumant dissonances, convergences et divergences de points de vue ;
-- d'autres portes : spectacle du désaccord, miroir des bulles, micro-communautés, pédagogie…
+- phrases courtes / « Twitter de slogans » multi-points-de-vue ;
+- « Wikipédia 2.0 » collaborative (dissonances assumées) — dont [science incrémentale](2026-07-24-science-incremental-wikipedia.md) ;
+- spectacle, miroir, micro-communautés…
 
-Les slogans sont une **brique majeure**, pas le projet entier (voir [`2026-07-24-slogans-porte-pas-maison.md`](2026-07-24-slogans-porte-pas-maison.md)).
-
-C'est un **outil de démocratie**, pour celles et ceux qui créent (une minorité) comme pour celles et ceux qui veulent s'informer et réfléchir.
+Slogans = **brique majeure**, pas le projet entier → [`2026-07-24-slogans-porte-pas-maison.md`](2026-07-24-slogans-porte-pas-maison.md).
 
 ## Pourquoi ça compte
 
-Retrouver le goût de discuter avec un point de vue opposé, sortir des slogans creux et du populisme, et faire émerger des idées fortes de consensus sur ce que l'outil devrait — utopiquement — faire.
+Désaccord fécond ; sortir du populisme ; idées fortes traçables.
 
 ## Ce qu'on ne sait pas encore
 
-- Quelle forme concrète l'outil prend-il ?
-- Comment représenter une idée « multi-échelle, multi-points-de-vue » sans la figer ?
-- Comment valoriser un débat de qualité sans récompenser le clash ?
-- Comment inclure les non-créateurs autrement que comme spectateurs ?
+Forme concrète ? Qualité sans clash ? Inclure les non-créateurs ?
 
-## Nature des énoncés (à préciser)
+## Nature des énoncés
 
-- **Faits** : le populisme et la polarisation sont des phénomènes documentés (à sourcer dans un débat dédié).
-- **Valeurs** : la démocratie, le pluralisme des points de vue et le désaccord fécond sont désirables.
-- **Hypothèses** : un « wiki-LLM » collaboratif peut améliorer la qualité de la délibération collective.
+- **Faits** : polarisation / populisme documentés (à sourcer).
+- **Valeurs** : pluralisme, démocratie, désaccord fécond.
+- **Hypothèses** : wiki-LLM collaboratif peut aider.
 
 ## Liens
 
-- Vision : [`../vision/manifeste.md`](../vision/manifeste.md)
-- Cadrage slogans = brique : [`2026-07-24-slogans-porte-pas-maison.md`](2026-07-24-slogans-porte-pas-maison.md), [`../decisions/0003-slogans-brique-et-accroche-des-idees.md`](../decisions/0003-slogans-brique-et-accroche-des-idees.md)
-- Précision de la piste « Twitter de slogans » : [`2026-07-24-atlas-critique-des-slogans.md`](2026-07-24-atlas-critique-des-slogans.md) (*une* porte parmi d'autres)
-- Précision de la piste « Wikipédia 2.0 » (science) : [`2026-07-24-science-incremental-wikipedia.md`](2026-07-24-science-incremental-wikipedia.md)
-- Porte d'entrée « miroir » (archivée) : [`../archive/idees/2026-07-24-miroir-des-bulles.md`](../archive/idees/2026-07-24-miroir-des-bulles.md) ; cadrage désir : [`../archive/idees/2026-07-24-plaisir-sain-competitif.md`](../archive/idees/2026-07-24-plaisir-sain-competitif.md)
-- Débats ouverts : [`../points-de-vue/2026-07-24-atlas-vs-reseau-social.md`](../points-de-vue/2026-07-24-atlas-vs-reseau-social.md), [`../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md`](../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md), [`../archive/points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md`](../archive/points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md)
-- Prochaine étape suggérée : synthétiser les portes d'entrée une fois les débats mûrs — sans figer « slogans = le produit ».
+- Manifeste : [`../vision/manifeste.md`](../vision/manifeste.md)
+- Atlas : [`2026-07-24-atlas-critique-des-slogans.md`](2026-07-24-atlas-critique-des-slogans.md)
+- Science wiki : [`2026-07-24-science-incremental-wikipedia.md`](2026-07-24-science-incremental-wikipedia.md)
+- Simplicité : [`2026-07-24-chercher-solutions-simples.md`](2026-07-24-chercher-solutions-simples.md)
+- Débats : [`../points-de-vue/`](../points-de-vue/)

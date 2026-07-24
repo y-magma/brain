@@ -1,47 +1,38 @@
 # Idée : chercher vraiment des solutions simples
 
 - **Date** : 2026-07-24
-- **Proposé par** : y-magma / Vincent (formule aimée) + IA (mise en graine)
+- **Proposé par** : y-magma / Vincent + IA
 - **Statut** : graine
 - **Échelle(s)** : individu · communauté · société
-- **Thème(s)** : méthode · simplicité · forme-outil · slogans
+- **Thème(s)** : méthode · simplicité
 - **Slogan / expression associée** : « Dsl, j'ai pas eu le temps de faire simple. »
-- **Prochaine étape** : débattre · distiller (candidat noyau)
+- **Prochaine étape** : distiller (noyau) · décider (0004)
 - **Priorité** : haute
 
 ## La graine
 
-Il faut **vraiment** chercher des solutions simples — pour la machine à penser, pour les fiches, pour les MVP, pour la gouvernance du dépôt.
+Le simple est un **travail**. Le manque de temps produit le **compliqué**.
 
-La formule aimée :
-
-> « Dsl, j'ai pas eu le temps de faire simple. »
-
-Elle dit deux choses à la fois : (1) le simple est un **travail** (pas le défaut du bâclé) ; (2) l'excuse du manque de temps produit souvent le **compliqué**. Cousine humoristique de l'adage classique (*je n'ai fait cette lettre plus longue que parce que je n'ai pas eu le loisir de la faire plus courte*).
-
-Conséquence pratique pour `brain` : préférer le petit pas clair (une fiche, un miroir, une règle) à l'empilement « Wikipedia + Twitter + Reddit + graphe + IA ». La complexité peut venir ensuite — si elle est méritée.
+Pour `brain` et le produit : petit pas clair > empilement (wiki + réseau + graphe + IA…).
 
 ## Pourquoi ça compte
 
-Sans cette boussole, chaque piste fertile grossit jusqu'à l'illisibilité. Avec elle, on juge les propositions à l'aune : *peut-on le dire et le faire plus simplement sans trahir ?*
+Sans cette boussole, chaque piste grossit jusqu'à l'illisibilité.
 
 ## Ce qu'on ne sait pas encore
 
-- Comment distinguer simplicité féconde et simplification malhonnête (déjà refusée par le manifeste) ?
-- Le slogan doit-il entrer au **noyau** comme axiome de méthode, ou rester accroche d'idée / candidat libre ?
-- À quelle échelle l'appliquer d'abord : rédaction des graines ? design produit ? gouvernance ?
+- Simple fécond vs simplification malhonnête ?
+- Axiome du noyau ou seulement accroche ?
 
-## Nature des énoncés (à préciser)
+## Nature des énoncés
 
-- **Faits** : des formulations proches existent depuis longtemps (Pascal, etc.) ; les produits trop larges échouent souvent par surcharge (à illustrer au cas par cas).
-- **Valeurs** : le simple bien fait vaut mieux que le complexe impressionnant ; l'humour désamorce la posture moralisante.
-- **Hypothèses** : tenir cette formule comme critère de relecture améliore la qualité des contributions et du futur outil.
+- **Faits** : formules proches existent (ex. adage de la lettre trop longue).
+- **Valeurs** : clarté > impression de profondeur.
+- **Hypothèses** : budgets de longueur améliorent le dépôt et le produit.
 
 ## Liens
 
-- Idée fondatrice (piste Wikipédia 2.0) : [`2026-07-23-un-outil-de-democratie.md`](2026-07-23-un-outil-de-democratie.md)
-- Science incrémentale (autre face du « wiki de connaissance ») : [`2026-07-24-science-incremental-wikipedia.md`](2026-07-24-science-incremental-wikipedia.md)
-- Slogan candidat (noyau) : [`../slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md`](../slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md)
-- MVP atlas (commencer petit) : [`2026-07-24-mvp-atlas-curate.md`](2026-07-24-mvp-atlas-curate.md)
-- Porte ≠ maison : [`2026-07-24-slogans-porte-pas-maison.md`](2026-07-24-slogans-porte-pas-maison.md)
-- Manifeste (ni complexité gratuite, ni simplification malhonnête) : [`../vision/manifeste.md`](../vision/manifeste.md)
+- Slogan : [`../slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md`](../slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md)
+- Décision : [`../decisions/0004-peu-de-verbalisation.md`](../decisions/0004-peu-de-verbalisation.md)
+- Fondatrice : [`2026-07-23-un-outil-de-democratie.md`](2026-07-23-un-outil-de-democratie.md)
+- Science incrémentale : [`2026-07-24-science-incremental-wikipedia.md`](2026-07-24-science-incremental-wikipedia.md)

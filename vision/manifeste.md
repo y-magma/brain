@@ -15,11 +15,12 @@ C'est un **outil de démocratie** que nous cherchons à développer : pour celle
 
 ## Ce que nous cherchons
 
-- **Des idées fortes, pas des slogans creux.** Distiller sans appauvrir. Les slogans et expressions restent une **brique majeure** de la démarche — accroche, matériau, distillation — pas l'identité fermée du produit.
-- **Le goût du désaccord fécond.** Retrouver le plaisir de discuter avec un point de vue opposé.
-- **Sortir du populisme.** Séparer les faits, les valeurs et les hypothèses ; nommer les incertitudes.
-- **Le mouvement plutôt que la statue.** Les idées évoluent ; le dépôt garde la trace de leur mouvement.
-- **La multi-échelle.** Une idée se juge à l'échelle de l'individu, de la communauté, de la société, de l'humanité.
+- **Des idées fortes, pas des slogans creux.** Distiller sans appauvrir. Slogans = **brique majeure**, pas identité fermée du produit.
+- **Peu de verbalisation.** Comprendre vite via phrases courtes ; profondeur par liens. (« Dsl, j'ai pas eu le temps de faire simple. »)
+- **Le goût du désaccord fécond.**
+- **Sortir du populisme.** Faits / valeurs / hypothèses ; incertitudes nommées.
+- **Le mouvement plutôt que la statue.**
+- **La multi-échelle.** Individu · communauté · société · humanité.
 
 ## Nos principes de travail
 
@@ -32,10 +33,11 @@ C'est un **outil de démocratie** que nous cherchons à développer : pour celle
 
 ## Ce que nous refusons
 
-- Les hommes de paille et les procès d'intention.
-- L'illusion du consensus par effacement des désaccords.
-- La complexité gratuite comme la simplification malhonnête.
-- La confusion entre popularité d'une idée et sa solidité.
+- Hommes de paille et procès d'intention.
+- Consensus par effacement des désaccords.
+- Complexité gratuite **et** simplification malhonnête.
+- Blabla : prose longue là où une formule + liens suffisent.
+- Confusion popularité ≠ solidité.
 
 ## Questions ouvertes (toujours en mouvement)
 
