@@ -16,6 +16,7 @@ On explore une **machine à penser** / outil de démocratie — **forme encore i
 | Chantier | Ce qu'on cherche | Étape actuelle | Pour avancer |
 |----------|------------------|----------------|--------------|
 | **Forme ouverte** | Ne pas réduire le projet à « un truc slogans » | Idée + décision proposée | Relire [porte ≠ maison](idees/2026-07-24-slogans-porte-pas-maison.md) ; trancher [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md) |
+| **Simplicité** | Chercher vraiment des solutions simples | Idée + candidat noyau | Relire [chercher simple](idees/2026-07-24-chercher-solutions-simples.md) ; [formule](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md) |
 | **Atlas / slogans** | Machine à ralentir ; fiche à 7 niveaux ; MVP curaté | Idées + débat ouvert | Trancher [atlas vs réseau social](points-de-vue/2026-07-24-atlas-vs-reseau-social.md) ; première synthèse |
 | **Noyau d'axiomes** | Ensemble minimal de formules-boussole | Idée + débat ouvert | Critères d'admission ; premier axiome `adopté` ? |
 | **Spectacle du désaccord** | Rendre le désaccord de qualité désirable | Débat ouvert | Synthèse quand le débat a assez de matière |
@@ -26,9 +27,10 @@ Satellites mis de côté (miroir, jeu, gouvernance…) → [`archive/idees/`](ar
 ## Comment avancer
 
 1. **Clarifier** la place des slogans (brique majeure vs projet entier) — décision [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md).
-2. **Poursuivre** le débat [noyau minimal vs catalogue](points-de-vue/2026-07-24-noyau-minimal-vs-catalogue.md).
-3. **Viser une première synthèse** sur *atlas vs réseau social* (trou actuel : `syntheses/` vide).
-4. **Admettre** (ou non) un premier axiome dans [`slogans/noyau/`](slogans/noyau/).
+2. **Garder le simple** comme critère de relecture — [« Dsl, j'ai pas eu le temps de faire simple. »](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md).
+3. **Poursuivre** le débat [noyau minimal vs catalogue](points-de-vue/2026-07-24-noyau-minimal-vs-catalogue.md).
+4. **Viser une première synthèse** sur *atlas vs réseau social* (trou actuel : `syntheses/` vide).
+5. **Admettre** (ou non) un premier axiome dans [`slogans/noyau/`](slogans/noyau/).
 
 ## Noyau de slogans (axiomes)
 
@@ -36,6 +38,7 @@ _Aucun axiome **adopté** encore._ Candidats → [`slogans/noyau/`](slogans/noya
 
 | Formule candidate | Statut | Origine |
 |-------------------|--------|---------|
+| « Dsl, j'ai pas eu le temps de faire simple. » | candidat (fichier noyau) | [slogan](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md) · [idée](idees/2026-07-24-chercher-solutions-simples.md) |
 | « Penser par formules, sans être pensé par elles. » | candidat | [idée noyau](idees/2026-07-24-noyau-axiomes-de-slogans.md) |
 | « Une machine à ralentir les slogans sans les tuer. » | candidat | [idée atlas](idees/2026-07-24-atlas-critique-des-slogans.md) |
 | « Les slogans sont une porte, pas la maison. » | candidat | [cadrage](idees/2026-07-24-slogans-porte-pas-maison.md) |

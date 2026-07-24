@@ -19,7 +19,7 @@ Le sous-dossier [`noyau/`](noyau/) accueille l'ensemble **minimal** de formules 
 
 ## Index (hors noyau)
 
-_Aucun slogan dérivé actif pour l'instant._
+_Aucun slogan dérivé actif pour l'instant._ Candidats au noyau → [`noyau/`](noyau/) (dont « Dsl, j'ai pas eu le temps de faire simple. »).
 
 Archivés → [`../archive/slogans/`](../archive/slogans/).
 
