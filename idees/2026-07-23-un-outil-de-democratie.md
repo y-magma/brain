@@ -38,5 +38,6 @@ Forme concrète ? Qualité sans clash ? Inclure les non-créateurs ?
 - Manifeste : [`../vision/manifeste.md`](../vision/manifeste.md)
 - Atlas : [`2026-07-24-atlas-critique-des-slogans.md`](2026-07-24-atlas-critique-des-slogans.md)
 - Science wiki : [`2026-07-24-science-incremental-wikipedia.md`](2026-07-24-science-incremental-wikipedia.md)
+- IA + UX : [`2026-07-24-ia-interface-matiere-premiere.md`](2026-07-24-ia-interface-matiere-premiere.md)
 - Simplicité : [`2026-07-24-chercher-solutions-simples.md`](2026-07-24-chercher-solutions-simples.md)
 - Débats : [`../points-de-vue/`](../points-de-vue/)

@@ -23,6 +23,7 @@ Ce n'est **pas** un axiome du [`../slogans/noyau/`](../slogans/noyau/) ni un slo
 | Idée | Slogan / expression | Prochaine étape | Lien |
 |------|---------------------|-----------------|------|
 | Outil de démocratie | « Penser ensemble, agir ensemble » | débattre | [ouvrir](2026-07-23-un-outil-de-democratie.md) |
+| IA + interface (matière première) | « IA intégrée, pas collée. » | débattre | [ouvrir](2026-07-24-ia-interface-matiere-premiere.md) |
 | Chercher des solutions simples | « Dsl, j'ai pas eu le temps de faire simple. » | distiller / noyau | [ouvrir](2026-07-24-chercher-solutions-simples.md) |
 | Science incrémentale (wiki scientifique) | « Moins de papiers, plus de pages vivantes. » | préciser / débattre | [ouvrir](2026-07-24-science-incremental-wikipedia.md) |
 | Slogans = porte, pas maison | « Les slogans sont une porte, pas la maison » | décider (0003) | [ouvrir](2026-07-24-slogans-porte-pas-maison.md) |

@@ -42,6 +42,7 @@ Si c'est plus long : **couper** ou **scinder** en plusieurs fichiers. La profond
 - **Synthèses** : convergences / divergences / angles morts (livrable principal).
 - **Slogans** : formules candidates + dézippage court. Brique majeure, pas le projet entier.
 - **Décisions** : brouillon ADR ; ne pas trancher à la place des humains.
+- **Produit / UX** : quand on parle forme d'outil, traiter **IA intégrée + UX/UI** comme matières premières (voir [`idees/2026-07-24-ia-interface-matiere-premiere.md`](idees/2026-07-24-ia-interface-matiere-premiere.md)) — pas un plugin après coup.
 
 ## Méthode
 

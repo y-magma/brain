@@ -42,6 +42,7 @@ C'est un **outil de démocratie** que nous cherchons à développer : pour celle
 ## Questions ouvertes (toujours en mouvement)
 
 - Quelle forme concrète pour la machine à penser ? (**encore inconnue** — atlas ? spectacle ? miroir ? wiki ? micro-communautés ? articulation ?)
+- Quelle **interface** (UX/UI + IA/LLM intégrés) pour des outils *nouveaux*, pas une copie de forum/wiki plat ?
 - Quelle place exacte pour les slogans et expressions (brique majeure assumée — cœur produit, couche, méthode de travail, ou tout à la fois) ?
 - Comment représenter une idée « multi-échelle, multi-points-de-vue » ?
 - Comment mesurer la qualité d'un débat sans récompenser le clash ?

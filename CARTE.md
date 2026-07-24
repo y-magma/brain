@@ -15,6 +15,7 @@ On explore une **machine à penser** — forme **ouverte**. Slogans = brique maj
 
 | Chantier | Ce qu'on cherche | Étape actuelle | Pour avancer |
 |----------|------------------|----------------|--------------|
+| **IA + UX/UI** | Interface nouvelle ; LLM intégrés, pas collés | Idée | [ouvrir](idees/2026-07-24-ia-interface-matiere-premiere.md) ; relire [IA atelier (archive)](archive/idees/2026-07-24-ia-atelier-pas-juge.md) |
 | **Forme ouverte** | Ne pas réduire le projet à « un truc slogans » | Idée + décision proposée | Relire [porte ≠ maison](idees/2026-07-24-slogans-porte-pas-maison.md) ; trancher [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md) |
 | **Simplicité / anti-blabla** | Peu de verbalisation ; solutions simples | Idée + 0004 + candidat noyau | [simple](idees/2026-07-24-chercher-solutions-simples.md) · [0004](decisions/0004-peu-de-verbalisation.md) · [formule](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md) |
 | **Science incrémentale** | Wikipédia du savoir scientifique ; moins de PDF jetables | Idée (graine de thèse) | Préciser champ (maths vs expérimental) ; [ouvrir](idees/2026-07-24-science-incremental-wikipedia.md) |
