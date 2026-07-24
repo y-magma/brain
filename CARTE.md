@@ -17,6 +17,7 @@ On explore une **machine à penser** / outil de démocratie — **forme encore i
 |----------|------------------|----------------|--------------|
 | **Forme ouverte** | Ne pas réduire le projet à « un truc slogans » | Idée + décision proposée | Relire [porte ≠ maison](idees/2026-07-24-slogans-porte-pas-maison.md) ; trancher [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md) |
 | **Simplicité** | Chercher vraiment des solutions simples | Idée + candidat noyau | Relire [chercher simple](idees/2026-07-24-chercher-solutions-simples.md) ; [formule](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md) |
+| **Science incrémentale** | Wikipédia du savoir scientifique ; moins de PDF jetables | Idée (graine de thèse) | Préciser champ (maths vs expérimental) ; [ouvrir](idees/2026-07-24-science-incremental-wikipedia.md) |
 | **Atlas / slogans** | Machine à ralentir ; fiche à 7 niveaux ; MVP curaté | Idées + débat ouvert | Trancher [atlas vs réseau social](points-de-vue/2026-07-24-atlas-vs-reseau-social.md) ; première synthèse |
 | **Noyau d'axiomes** | Ensemble minimal de formules-boussole | Idée + débat ouvert | Critères d'admission ; premier axiome `adopté` ? |
 | **Spectacle du désaccord** | Rendre le désaccord de qualité désirable | Débat ouvert | Synthèse quand le débat a assez de matière |

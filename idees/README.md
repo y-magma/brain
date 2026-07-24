@@ -24,6 +24,7 @@ Ce n'est **pas** un axiome du [`../slogans/noyau/`](../slogans/noyau/) ni un slo
 |------|---------------------|-----------------|------|
 | Outil de démocratie | « Penser ensemble, agir ensemble » | débattre | [ouvrir](2026-07-23-un-outil-de-democratie.md) |
 | Chercher des solutions simples | « Dsl, j'ai pas eu le temps de faire simple. » | distiller / noyau | [ouvrir](2026-07-24-chercher-solutions-simples.md) |
+| Science incrémentale (wiki scientifique) | « Moins de papiers, plus de pages vivantes. » | préciser / débattre | [ouvrir](2026-07-24-science-incremental-wikipedia.md) |
 | Slogans = porte, pas maison | « Les slogans sont une porte, pas la maison » | décider (0003) | [ouvrir](2026-07-24-slogans-porte-pas-maison.md) |
 | Atlas critique des slogans | « Machine à ralentir les slogans sans les tuer » | débattre (déjà ouvert) | [ouvrir](2026-07-24-atlas-critique-des-slogans.md) |
 | Fiche slogan à 7 niveaux | « Travailler plus pour gagner plus » | préciser / MVP | [ouvrir](2026-07-24-fiche-slogan-sept-niveaux.md) |

@@ -39,6 +39,8 @@ Sans cette boussole, chaque piste fertile grossit jusqu'à l'illisibilité. Avec
 
 ## Liens
 
+- Idée fondatrice (piste Wikipédia 2.0) : [`2026-07-23-un-outil-de-democratie.md`](2026-07-23-un-outil-de-democratie.md)
+- Science incrémentale (autre face du « wiki de connaissance ») : [`2026-07-24-science-incremental-wikipedia.md`](2026-07-24-science-incremental-wikipedia.md)
 - Slogan candidat (noyau) : [`../slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md`](../slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md)
 - MVP atlas (commencer petit) : [`2026-07-24-mvp-atlas-curate.md`](2026-07-24-mvp-atlas-curate.md)
 - Porte ≠ maison : [`2026-07-24-slogans-porte-pas-maison.md`](2026-07-24-slogans-porte-pas-maison.md)
