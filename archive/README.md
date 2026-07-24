@@ -36,5 +36,5 @@ Ce n'est **pas** une poubelle morale : une graine archivée peut être rouverte 
 
 ## Voir aussi
 
-- Décision proposée : [`../decisions/0002-archivage-vues-et-noyau-slogans.md`](../decisions/0002-archivage-vues-et-noyau-slogans.md)
+- Décision : [`../decisions/0002-archivage-vues-et-noyau-slogans.md`](../decisions/0002-archivage-vues-et-noyau-slogans.md)
 - Processus : [`../workflow/processus.md`](../workflow/processus.md)

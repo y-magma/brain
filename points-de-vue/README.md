@@ -20,5 +20,10 @@ L'objectif n'est pas de gagner, mais de **cartographier** (étape suivante : [`.
 |-------|--------|------|
 | Le spectacle du désaccord intelligent | ouvert | [ouvrir](2026-07-23-le-spectacle-du-desaccord-intelligent.md) |
 | Atlas vs réseau social | ouvert | [ouvrir](2026-07-24-atlas-vs-reseau-social.md) |
-| Miroir viral vs outil de démocratie | ouvert | [ouvrir](2026-07-24-miroir-viral-vs-outil-democratie.md) |
 | Noyau minimal vs catalogue de slogans | ouvert | [ouvrir](2026-07-24-noyau-minimal-vs-catalogue.md) |
+
+## Archivés
+
+| Débat | Motif | Lien |
+|-------|-------|------|
+| Miroir viral vs outil de démocratie | porte miroir en pause | [archive](../archive/points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md) |

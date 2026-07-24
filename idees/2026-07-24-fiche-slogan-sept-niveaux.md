@@ -52,6 +52,6 @@ Le niveau « effet psychique » est l'angle mort fréquent des outils de débat 
 
 - Idée parente : [`2026-07-24-atlas-critique-des-slogans.md`](2026-07-24-atlas-critique-des-slogans.md)
 - MVP : [`2026-07-24-mvp-atlas-curate.md`](2026-07-24-mvp-atlas-curate.md)
-- IA comme atelier : [`2026-07-24-ia-atelier-pas-juge.md`](2026-07-24-ia-atelier-pas-juge.md)
+- IA comme atelier : [`../archive/idees/2026-07-24-ia-atelier-pas-juge.md`](../archive/idees/2026-07-24-ia-atelier-pas-juge.md)
 - Principe steelman : [`../vision/glossaire.md`](../vision/glossaire.md)
 - Dossier slogans du dépôt (autre sens : slogans *distillés* du collectif) : [`../slogans/`](../slogans/)

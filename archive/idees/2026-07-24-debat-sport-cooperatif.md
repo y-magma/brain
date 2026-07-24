@@ -2,7 +2,9 @@
 
 - **Date** : 2026-07-24
 - **Proposé par** : IA (à partir d'un document de travail de y-magma / Vincent)
-- **Statut** : graine
+- **Statut** : archivée
+- **Archivée le** : 2026-07-24
+- **Motif** : hors focus vision produit immédiat (atlas / slogans / outil de démocratie) — satellite ou porte d'entrée alternative
 - **Échelle(s)** : individu · communauté · société
 
 ## La graine
@@ -18,7 +20,7 @@ On rend la **nuance gratifiante**. C'est une mécanique de statut et de plaisir,
 
 ## Pourquoi ça compte
 
-Pont direct entre le principe steelman du manifeste et le désir de jeu/compétition. Ça répond à la critique du [spectacle du désaccord](../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md) (« le vote mesure la persuasion, pas la rigueur ») en changeant *ce qui est scoré*. Ça complète aussi l'atlas : déplier une phrase devient un sport de compréhension, pas un tribunal.
+Pont direct entre le principe steelman du manifeste et le désir de jeu/compétition. Ça répond à la critique du [spectacle du désaccord](../../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md) (« le vote mesure la persuasion, pas la rigueur ») en changeant *ce qui est scoré*. Ça complète aussi l'atlas : déplier une phrase devient un sport de compréhension, pas un tribunal.
 
 ## Ce qu'on ne sait pas encore
 
@@ -38,5 +40,5 @@ Pont direct entre le principe steelman du manifeste et le désir de jeu/compéti
 - Plaisir sain : [`2026-07-24-plaisir-sain-competitif.md`](2026-07-24-plaisir-sain-competitif.md)
 - Statuts : [`2026-07-24-statuts-roles-constructifs.md`](2026-07-24-statuts-roles-constructifs.md) (rôle Médiateur / Passeur)
 - Atlas / fiches : [`2026-07-24-fiche-slogan-sept-niveaux.md`](2026-07-24-fiche-slogan-sept-niveaux.md)
-- Spectacle : [`../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md`](../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md)
+- Spectacle : [`../../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md`](../../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md)
 - Glossaire (steelman) : [`../vision/glossaire.md`](../vision/glossaire.md)

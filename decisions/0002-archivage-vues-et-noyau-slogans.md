@@ -1,7 +1,8 @@
 # 0002 — Archivage, vues par étape, et noyau de slogans
 
 - **Date** : 2026-07-24
-- **Statut** : proposée
+- **Statut** : adoptée
+- **Adoptée le** : 2026-07-24
 - **Décideurs** : y-magma, Vincent
 - **Sources** : [`../archive/README.md`](../archive/README.md), [`../slogans/noyau/README.md`](../slogans/noyau/README.md), [`../idees/2026-07-24-noyau-axiomes-de-slogans.md`](../idees/2026-07-24-noyau-axiomes-de-slogans.md), [`../CARTE.md`](../CARTE.md)
 
@@ -33,11 +34,13 @@ Le dépôt grossit : beaucoup de graines dans `idees/`, une sidebar qui liste to
 2. **Un seul dossier plat** avec un label `noyau` dans le front-matter Markdown.
 3. **Reporter** jusqu'à ce qu'une synthèse existe (cycle strict actuel) — plus sûr anti-populisme, plus lent à rendre les slogans visibles.
 
-## Décision (proposition — les humains tranchent)
+## Décision
 
 - **Archivage** : option A.1 — dossier [`../archive/`](../archive/) miroir, procédure dans son README.
 - **Navigation** : option B.1 — sidebar et README **par étape** ; la Carte montre les *grands sujets* et *comment avancer*, pas la liste exhaustive.
 - **Slogans** : option C.1 — instaurer un **noyau** ; autoriser un *slogan candidat* dès l'idée (hypothèse de travail, pas axiome adopté) ; enrichir gabarits (échelle, granularité). Le garde-fou reste : pas de formule orpheline de raisonnement.
+
+> Tranché le 2026-07-24 : la structure est déjà en place et utilisée (premier passage d'archivage des graines hors vision produit).
 
 ## Conséquences
 

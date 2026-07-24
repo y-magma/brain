@@ -10,20 +10,17 @@
   - [Glossaire](/vision/glossaire.md)
 
 - **Idées**
-  - [Index des graines](/idees/README.md)
+  - [Index (vision produit)](/idees/README.md)
   - [Outil de démocratie](/idees/2026-07-23-un-outil-de-democratie.md)
   - [Atlas critique des slogans](/idees/2026-07-24-atlas-critique-des-slogans.md)
   - [Fiche slogan à 7 niveaux](/idees/2026-07-24-fiche-slogan-sept-niveaux.md)
+  - [MVP atlas curaté](/idees/2026-07-24-mvp-atlas-curate.md)
   - [Noyau d'axiomes-slogans](/idees/2026-07-24-noyau-axiomes-de-slogans.md)
-  - [Miroir des bulles](/idees/2026-07-24-miroir-des-bulles.md)
-  - [Plaisir sain](/idees/2026-07-24-plaisir-sain-competitif.md)
-  - [→ toutes les idées (index)](/idees/README.md)
 
 - **Points de vue**
   - [Index des débats](/points-de-vue/README.md)
   - [Spectacle du désaccord](/points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md)
   - [Atlas vs réseau social](/points-de-vue/2026-07-24-atlas-vs-reseau-social.md)
-  - [Miroir viral vs démocratie](/points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md)
   - [Noyau minimal vs catalogue](/points-de-vue/2026-07-24-noyau-minimal-vs-catalogue.md)
 
 - **Synthèses**
@@ -35,8 +32,8 @@
 
 - **Décisions**
   - [Index](/decisions/README.md)
-  - [0001 — langue & méthode](/decisions/0001-langue-et-methode-de-travail.md)
-  - [0002 — archive, vues, noyau](/decisions/0002-archivage-vues-et-noyau-slogans.md)
+  - [0001 — français & méthode (adoptée)](/decisions/0001-langue-et-methode-de-travail.md)
+  - [0002 — archive, vues, noyau (adoptée)](/decisions/0002-archivage-vues-et-noyau-slogans.md)
 
 - **Archive**
   - [Comment archiver](/archive/README.md)
