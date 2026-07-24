@@ -9,33 +9,40 @@ Dernière mise à jour : **2026-07-24**
 
 ## En une phrase
 
-On explore la forme d'un **outil de démocratie**. Trois portes d'entrée se dessinent — **atlas critique des slogans**, **spectacle du désaccord**, **miroir viral des bulles** — reliées par une même exigence : un **plaisir plus sain** (appartenir, jouer, comprendre) plutôt que l'outrage. Rien n'est figé.
+On explore une **machine à penser** / outil de démocratie — **forme encore inconnue**. Les slogans et expressions courtes en sont une **brique majeure** (accroche de chaque idée, matériau culturel, piste d'atlas), pas le projet entier. Plusieurs portes d'entrée coexistent ; rien n'est figé.
 
 ## Là où ça chauffe en ce moment
 
+### Cadrage
+
+| Sujet | Étape | Statut | Slogan / expression | Lien |
+|-------|-------|--------|---------------------|------|
+| Un outil de démocratie (idée fondatrice) | Idée | graine | « Penser ensemble, agir ensemble » | [ouvrir](idees/2026-07-23-un-outil-de-democratie.md) |
+| Les slogans sont une porte, pas la maison | Idée | graine | « Les slogans sont une porte, pas la maison » | [ouvrir](idees/2026-07-24-slogans-porte-pas-maison.md) |
+| Slogans = brique + accroche des idées | Décision | proposée | — | [ouvrir](decisions/0002-slogans-brique-et-accroche-des-idees.md) |
+
 ### Forme de l'outil / portes d'entrée
 
-| Sujet | Étape | Statut | Lien |
-|-------|-------|--------|------|
-| Un outil de démocratie (idée fondatrice) | Idée | graine | [ouvrir](idees/2026-07-23-un-outil-de-democratie.md) |
-| Atlas critique des slogans | Idée | graine | [ouvrir](idees/2026-07-24-atlas-critique-des-slogans.md) |
-| Fiche de slogan à 7 niveaux | Idée | graine | [ouvrir](idees/2026-07-24-fiche-slogan-sept-niveaux.md) |
-| MVP atlas curaté (pas réseau social) | Idée | graine | [ouvrir](idees/2026-07-24-mvp-atlas-curate.md) |
-| Miroir des bulles (Wrapped mental) | Idée | graine | [ouvrir](idees/2026-07-24-miroir-des-bulles.md) |
-| Score nutritionnel du feed | Idée | graine | [ouvrir](idees/2026-07-24-score-nutritionnel-du-feed.md) |
-| MVP satellites (anti-rage, cartes, défis) | Idée | graine | [ouvrir](idees/2026-07-24-mvp-miroirs-et-defis.md) |
+| Sujet | Étape | Statut | Slogan / expression | Lien |
+|-------|-------|--------|---------------------|------|
+| Atlas critique des slogans *(une piste)* | Idée | graine | « Machine à ralentir les slogans sans les tuer » | [ouvrir](idees/2026-07-24-atlas-critique-des-slogans.md) |
+| Fiche de slogan à 7 niveaux | Idée | graine | « Travailler plus pour gagner plus » | [ouvrir](idees/2026-07-24-fiche-slogan-sept-niveaux.md) |
+| MVP atlas curaté (pas réseau social) | Idée | graine | « Lis ça, ça déplie enfin cette phrase » | [ouvrir](idees/2026-07-24-mvp-atlas-curate.md) |
+| Miroir des bulles (Wrapped mental) | Idée | graine | « Tu vis dans quelle bulle ? » | [ouvrir](idees/2026-07-24-miroir-des-bulles.md) |
+| Score nutritionnel du feed | Idée | graine | « Yuka du cerveau » | [ouvrir](idees/2026-07-24-score-nutritionnel-du-feed.md) |
+| MVP satellites (anti-rage, cartes, défis) | Idée | graine | « La nuance devient cool » | [ouvrir](idees/2026-07-24-mvp-miroirs-et-defis.md) |
 
 ### Désir, jeu, gouvernance
 
-| Sujet | Étape | Statut | Lien |
-|-------|-------|--------|------|
-| Plaisir sain et compétitif | Idée | graine | [ouvrir](idees/2026-07-24-plaisir-sain-competitif.md) |
-| Missions sociales / jeu collectif | Idée | graine | [ouvrir](idees/2026-07-24-missions-sociales-jeu-collectif.md) |
-| Débat comme sport coopératif | Idée | graine | [ouvrir](idees/2026-07-24-debat-sport-cooperatif.md) |
-| Statuts / rôles constructifs | Idée | graine | [ouvrir](idees/2026-07-24-statuts-roles-constructifs.md) |
-| Petit internet / micro-communautés | Idée | graine | [ouvrir](idees/2026-07-24-petit-internet-micro-communautes.md) |
-| Gouvernance sans ego social | Idée | graine | [ouvrir](idees/2026-07-24-gouvernance-sans-ego-social.md) |
-| IA atelier, pas juge | Idée | graine | [ouvrir](idees/2026-07-24-ia-atelier-pas-juge.md) |
+| Sujet | Étape | Statut | Slogan / expression | Lien |
+|-------|-------|--------|---------------------|------|
+| Plaisir sain et compétitif | Idée | graine | « Ne pas retirer : remplacer » | [ouvrir](idees/2026-07-24-plaisir-sain-competitif.md) |
+| Missions sociales / jeu collectif | Idée | graine | « Ensemble, on construit » | [ouvrir](idees/2026-07-24-missions-sociales-jeu-collectif.md) |
+| Débat comme sport coopératif | Idée | graine | « Gagner, c'est comprendre » | [ouvrir](idees/2026-07-24-debat-sport-cooperatif.md) |
+| Statuts / rôles constructifs | Idée | graine | « Constructeur, pas influenceur » | [ouvrir](idees/2026-07-24-statuts-roles-constructifs.md) |
+| Petit internet / micro-communautés | Idée | graine | « Savoir à qui parler » | [ouvrir](idees/2026-07-24-petit-internet-micro-communautes.md) |
+| Gouvernance sans ego social | Idée | graine | « Responsabilité sans personal branding » | [ouvrir](idees/2026-07-24-gouvernance-sans-ego-social.md) |
+| IA atelier, pas juge | Idée | graine | « L'IA propose, l'humain dispose » | [ouvrir](idees/2026-07-24-ia-atelier-pas-juge.md) |
 
 ### Débats ouverts
 
@@ -45,24 +52,23 @@ On explore la forme d'un **outil de démocratie**. Trois portes d'entrée se des
 | Atlas vs réseau social (et vs spectacle) | Point de vue | ouvert | [ouvrir](points-de-vue/2026-07-24-atlas-vs-reseau-social.md) |
 | Miroir viral vs outil de démocratie | Point de vue | ouvert | [ouvrir](points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md) |
 
-## Consensus émergents (slogans)
+## Consensus émergents (slogans distillés)
 
-_Aucun encore. Les idées fortes distillées apparaîtront ici →_ [`slogans/`](slogans/)
-
-Formules candidates (pas encore distillées) : « une machine à ralentir les slogans sans les tuer » ; « atlas des phrases qui nous gouvernent » ; « ne pas retirer : remplacer » ; « Spotify Wrapped de ton cerveau numérique ».
+_Aucun encore dans [`slogans/`](slogans/)._ Les accroches ci-dessus sont des **slogans / expressions associés aux idées**, pas des consensus adoptés.
 
 ## Décisions prises
 
 | # | Décision | Statut |
 |---|----------|--------|
 | [0001](decisions/0001-langue-et-methode-de-travail.md) | Langue (français) et méthode (cycle en 5 temps) | proposée |
+| [0002](decisions/0002-slogans-brique-et-accroche-des-idees.md) | Slogans = brique majeure (pas le projet entier) ; accroche obligatoire des idées | proposée |
 
 ## Grandes questions ouvertes
 
-- Quelle **porte d'entrée** en premier : miroir viral, atlas lent, spectacle du duel, pédagogie, micro-communauté — et dans quel ordre ?
-- Comment créer un **plaisir plus sain et compétitif** (rôles, missions, sport coopératif) sans retomber dans l'outrage ?
-- Comment **déplier un slogan** sans faux équilibre ni guerre de labels ?
-- Comment **rendre visible** bulles et feeds sans moraliser ni renforcer l'identité de tribu ?
+- Quelle **forme** pour la machine à penser (encore inconnue) — et quelle place exacte pour les slogans / expressions ?
+- Quelle **porte d'entrée** en premier : miroir, atlas, spectacle, pédagogie, micro-communauté — et dans quel ordre ?
+- Comment créer un **plaisir plus sain et compétitif** sans retomber dans l'outrage ?
+- Comment **déplier** une phrase qui circule sans faux équilibre ni guerre de labels ?
 
 ---
 

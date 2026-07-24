@@ -18,6 +18,7 @@
 
 - **Contributions en cours**
   - [Idée : un outil de démocratie](/idees/2026-07-23-un-outil-de-democratie.md)
+  - [Idée : slogans = porte, pas maison](/idees/2026-07-24-slogans-porte-pas-maison.md)
   - [Idée : atlas critique des slogans](/idees/2026-07-24-atlas-critique-des-slogans.md)
   - [Idée : fiche slogan à 7 niveaux](/idees/2026-07-24-fiche-slogan-sept-niveaux.md)
   - [Idée : MVP atlas curaté](/idees/2026-07-24-mvp-atlas-curate.md)
@@ -35,6 +36,7 @@
   - [Débat : atlas vs réseau social](/points-de-vue/2026-07-24-atlas-vs-reseau-social.md)
   - [Débat : miroir viral vs démocratie](/points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md)
   - [Décision 0001 : langue & méthode](/decisions/0001-langue-et-methode-de-travail.md)
+  - [Décision 0002 : slogans = brique + accroche](/decisions/0002-slogans-brique-et-accroche-des-idees.md)
 
 - **Collaborer**
   - [Workflow — le processus](/workflow/processus.md)

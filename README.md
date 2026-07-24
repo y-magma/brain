@@ -2,7 +2,7 @@
 
 **Un atelier collaboratif humain + IA pour penser, confronter et faire émerger des idées — ensemble.**
 
-`brain` n'est pas (encore) un logiciel. C'est un espace de travail sur GitHub, à la manière d'un « wiki-LLM », où l'on brainstorme et où l'on avance concrètement sur des idées **toujours en mouvement**. On y explore la forme que pourrait prendre un nouvel outil de démocratie : un lieu multi-échelle et multi-points-de-vue pour penser, entrer en action et créer ensemble comme humanité.
+`brain` n'est pas (encore) un logiciel. C'est un espace de travail sur GitHub, à la manière d'un « wiki-LLM », où l'on brainstorme et où l'on avance concrètement sur des idées **toujours en mouvement**. On y explore la forme — **encore inconnue** — que pourrait prendre une machine à penser / un outil de démocratie. Les slogans et expressions courtes y jouent un **grand rôle** (accroche de chaque idée, matériau, distillation), sans définir à eux seuls le projet.
 
 ## Pourquoi
 
@@ -17,7 +17,7 @@ Voir la vision complète dans [`vision/manifeste.md`](vision/manifeste.md).
 
 Le dépôt est un cycle vivant. Chaque étape est un dossier, chaque contribution est un fichier Markdown versionné par Git (la mémoire du mouvement des idées) :
 
-1. **Idées** → [`idees/`](idees/) : on dépose une graine (problème, intuition, proposition).
+1. **Idées** → [`idees/`](idees/) : on dépose une graine (problème, intuition, proposition) **avec un slogan / expression associée**.
 2. **Points de vue** → [`points-de-vue/`](points-de-vue/) : on confronte, avec l'obligation de défendre honnêtement (*steelman*) la position adverse.
 3. **Synthèses** → [`syntheses/`](syntheses/) : l'IA cartographie convergences, divergences et angles morts, à plusieurs échelles.
 4. **Slogans** → [`slogans/`](slogans/) : on distille les consensus en idées fortes, avec le raisonnement derrière.

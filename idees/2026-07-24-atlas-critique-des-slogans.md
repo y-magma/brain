@@ -4,12 +4,15 @@
 - **Proposé par** : IA (à partir d'un document de travail de y-magma / Vincent)
 - **Statut** : graine
 - **Échelle(s)** : individu · communauté · société · humanité
+- **Slogan / expression associée** : « Machine à ralentir les slogans sans les tuer »
 
 ## La graine
 
-Construire un **atlas interactif** de slogans, thèses et assertions courtes, où chaque phrase devient une porte d'entrée vers ses arguments, ses objections, ses sources, ses présupposés, ses effets psychiques et ses connexions avec d'autres idées.
+> **Cadrage** : ceci est une **piste / brique** pour la machine à penser — pas la définition du projet. La forme globale reste ouverte (voir [`2026-07-24-slogans-porte-pas-maison.md`](2026-07-24-slogans-porte-pas-maison.md)).
 
-Ce n'est ni un Wikipédia, ni un Twitter, ni un Reddit. La meilleure formulation serait plutôt :
+Construire un **atlas interactif** de slogans, thèses, expressions et assertions courtes, où chaque phrase devient une porte d'entrée vers ses arguments, ses objections, ses sources, ses présupposés, ses effets psychiques et ses connexions avec d'autres idées.
+
+Ce n'est ni un Wikipédia, ni un Twitter, ni un Reddit. Une formulation forte de *cette* piste serait plutôt :
 
 > **une machine à ralentir les slogans sans les tuer.**
 
@@ -42,8 +45,9 @@ Les humains ne pensent pas seulement avec des articles, des livres ou des raison
 
 ## Liens
 
-- Idée fondatrice : [`2026-07-23-un-outil-de-democratie.md`](2026-07-23-un-outil-de-democratie.md) (cette graine *précise* la piste « Twitter de slogans » en la recentrant sur l'atlas critique)
-- Objet central : [`2026-07-24-fiche-slogan-sept-niveaux.md`](2026-07-24-fiche-slogan-sept-niveaux.md)
+- Cadrage : [`2026-07-24-slogans-porte-pas-maison.md`](2026-07-24-slogans-porte-pas-maison.md)
+- Idée fondatrice : [`2026-07-23-un-outil-de-democratie.md`](2026-07-23-un-outil-de-democratie.md) (cette graine *précise* la piste « Twitter de slogans » en atlas critique — sans en faire *le* projet)
+- Objet central de *cette* piste : [`2026-07-24-fiche-slogan-sept-niveaux.md`](2026-07-24-fiche-slogan-sept-niveaux.md)
 - Chemin produit : [`2026-07-24-mvp-atlas-curate.md`](2026-07-24-mvp-atlas-curate.md)
 - Gouvernance : [`2026-07-24-gouvernance-sans-ego-social.md`](2026-07-24-gouvernance-sans-ego-social.md)
 - Rôle de l'IA : [`2026-07-24-ia-atelier-pas-juge.md`](2026-07-24-ia-atelier-pas-juge.md)

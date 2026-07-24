@@ -4,6 +4,7 @@
 - **Proposé par** : IA (à partir d'un document de travail de y-magma / Vincent)
 - **Statut** : graine
 - **Échelle(s)** : individu · communauté
+- **Slogan / expression associée** : « L'IA propose, l'humain dispose »
 
 ## La graine
 

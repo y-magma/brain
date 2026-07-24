@@ -4,6 +4,7 @@
 - **Proposé par** : <nom / pseudo / IA>
 - **Statut** : graine · en débat · synthétisée · abandonnée
 - **Échelle(s)** : individu · communauté · société · humanité
+- **Slogan / expression associée** : « <formule courte — candidate, expression courante, proverbe, ou slogan qui circule ; peut être un peu stupide ou provocante> »
 
 ## La graine
 

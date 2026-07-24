@@ -16,7 +16,8 @@ Un cycle vivant en cinq temps. Il n'est pas strictement linéaire : on peut bouc
 N'importe qui (ou l'IA) dépose une **graine** : un problème, une intuition, une proposition.
 - Copier [`../idees/_gabarit-idee.md`](../idees/_gabarit-idee.md).
 - Nommer le fichier `AAAA-MM-JJ-titre-court.md`.
-- Rôle de l'IA : reformuler, repérer les doublons, poser les bonnes questions.
+- Renseigner le **slogan / expression associée** (formule courte obligatoire : candidate, expression courante, ou slogan qui circule).
+- Rôle de l'IA : reformuler, repérer les doublons, poser les bonnes questions, proposer des accroches.
 
 ## 2. Confronter — `points-de-vue/`
 

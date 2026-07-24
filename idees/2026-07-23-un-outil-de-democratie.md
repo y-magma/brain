@@ -4,13 +4,17 @@
 - **Proposé par** : y-magma
 - **Statut** : graine
 - **Échelle(s)** : individu · communauté · société · humanité
+- **Slogan / expression associée** : « Penser ensemble, agir ensemble »
 
 ## La graine
 
-Créer un nouvel outil pour **penser les idées, entrer en action, créer et avancer ensemble comme humanité**. La forme reste ouverte. Deux pistes évoquées :
+Créer un nouvel outil pour **penser les idées, entrer en action, créer et avancer ensemble comme humanité**. La forme reste **ouverte** : nous ne savons pas encore ce que sera cette machine à penser. Des pistes évoquées (non exclusives) :
 
-- un « **Twitter de slogans** » multi-échelle et multi-points-de-vue ;
-- une « **Wikipédia 2.0** » qui permet de créer réellement de la connaissance de manière collaborative, en assumant dissonances, convergences et divergences de points de vue.
+- un « **Twitter de slogans** » multi-échelle et multi-points-de-vue — ou plus largement une place importante pour les phrases courtes / expressions qui circulent ;
+- une « **Wikipédia 2.0** » qui permet de créer réellement de la connaissance de manière collaborative, en assumant dissonances, convergences et divergences de points de vue ;
+- d'autres portes : spectacle du désaccord, miroir des bulles, micro-communautés, pédagogie…
+
+Les slogans sont une **brique majeure**, pas le projet entier (voir [`2026-07-24-slogans-porte-pas-maison.md`](2026-07-24-slogans-porte-pas-maison.md)).
 
 C'est un **outil de démocratie**, pour celles et ceux qui créent (une minorité) comme pour celles et ceux qui veulent s'informer et réfléchir.
 
@@ -34,7 +38,8 @@ Retrouver le goût de discuter avec un point de vue opposé, sortir des slogans 
 ## Liens
 
 - Vision : [`../vision/manifeste.md`](../vision/manifeste.md)
-- Précision de la piste « Twitter de slogans » : [`2026-07-24-atlas-critique-des-slogans.md`](2026-07-24-atlas-critique-des-slogans.md) (recentrage vers un atlas critique, pas un réseau social)
+- Cadrage slogans = brique : [`2026-07-24-slogans-porte-pas-maison.md`](2026-07-24-slogans-porte-pas-maison.md), [`../decisions/0002-slogans-brique-et-accroche-des-idees.md`](../decisions/0002-slogans-brique-et-accroche-des-idees.md)
+- Précision de la piste « Twitter de slogans » : [`2026-07-24-atlas-critique-des-slogans.md`](2026-07-24-atlas-critique-des-slogans.md) (*une* porte parmi d'autres)
 - Porte d'entrée « miroir » : [`2026-07-24-miroir-des-bulles.md`](2026-07-24-miroir-des-bulles.md) ; cadrage désir : [`2026-07-24-plaisir-sain-competitif.md`](2026-07-24-plaisir-sain-competitif.md)
 - Débats ouverts : [`../points-de-vue/2026-07-24-atlas-vs-reseau-social.md`](../points-de-vue/2026-07-24-atlas-vs-reseau-social.md), [`../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md`](../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md), [`../points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md`](../points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md)
-- Prochaine étape suggérée : synthétiser les portes d'entrée (atlas / spectacle / miroir / pédagogie / micro-communauté) une fois les débats mûrs.
+- Prochaine étape suggérée : synthétiser les portes d'entrée une fois les débats mûrs — sans figer « slogans = le produit ».

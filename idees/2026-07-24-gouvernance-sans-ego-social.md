@@ -4,6 +4,7 @@
 - **Proposé par** : IA (à partir d'un document de travail de y-magma / Vincent)
 - **Statut** : graine
 - **Échelle(s)** : communauté · société
+- **Slogan / expression associée** : « Responsabilité sans personal branding »
 
 ## La graine
 

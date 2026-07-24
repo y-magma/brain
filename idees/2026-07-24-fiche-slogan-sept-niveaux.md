@@ -4,12 +4,15 @@
 - **Proposé par** : IA (à partir d'un document de travail de y-magma / Vincent)
 - **Statut** : graine
 - **Échelle(s)** : individu · communauté · société
+- **Slogan / expression associée** : « Travailler plus pour gagner plus »
 
 ## La graine
 
-L'objet central de l'atlas n'est pas le fil, ni le graphe, ni le profil : c'est une **fiche de slogan**. Chaque fiche fait passer de la phrase brute à plusieurs niveaux de lecture, progressivement — le multi-échelle doit être progressif, pas spectaculaire.
+Si l'on explore la piste « atlas », l'objet central n'est pas le fil, ni le graphe, ni le profil : c'est une **fiche** autour d'une phrase courte (slogan, expression, assertion). Chaque fiche fait passer de la phrase brute à plusieurs niveaux de lecture, progressivement — le multi-échelle doit être progressif, pas spectaculaire.
 
-Exemples de phrases à déplier : « Il n'y a que les entreprises qui créent de la richesse. » ; « I have a dream. » ; « On ne peut pas contrarier les lois du marché. » ; « Les étrangers dehors. » ; « Il faut écouter la science. » ; « La croissance verte est possible. » ; « Tout est politique. » ; « Les faits ne se soucient pas de tes sentiments. »
+L'accroche de cette idée — « Travailler plus pour gagner plus » — est volontairement un slogan *qui circule* (pas une formule « noble ») : c'est exactement le genre de matériau à déplier.
+
+Autres exemples : « Il n'y a que les entreprises qui créent de la richesse. » ; « I have a dream. » ; « On ne peut pas contrarier les lois du marché. » ; « Les étrangers dehors. » ; « Il faut écouter la science. » ; « La croissance verte est possible. » ; « Tout est politique. » ; « Les faits ne se soucient pas de tes sentiments. » ; « Le travail rend libre ».
 
 ### Les sept niveaux
 
