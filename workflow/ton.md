@@ -1,6 +1,7 @@
-# Ton de `brain`
+# Ton du Brain de Magma
 
 > Apprendre en s'amusant. Titiller sans pute à clic. Empêcher de tourner en rond.
+> Magma = le projet. Ce dépôt = son Brain.
 
 ## En une phrase
 

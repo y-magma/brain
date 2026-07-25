@@ -23,11 +23,9 @@ Un dossier = un sujet :
 
 ## Faits / valeurs / hypothèses
 
-- **Faits** : avant migration, archive > idées actives ; `syntheses/` vide.
 - **Valeurs** : boucles fermées > dossiers impeccables.
 - **Hypothèses** : un lieu unique réduit la friction sans tuer l’anti-populisme.
 
 ## Liens
 
-- Décision : [`../../decisions/0005-structure-par-chantiers.md`](../../decisions/0005-structure-par-chantiers.md)
-- Ancienne graine (legacy) : [`../../idees/2026-07-25-structure-par-chantiers.md`](../../idees/2026-07-25-structure-par-chantiers.md)
+- Décision : [`../../decisions/0001-conventions-brain-magma.md`](../../decisions/0001-conventions-brain-magma.md)

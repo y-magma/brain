@@ -4,7 +4,7 @@
 - **Date** : 2026-07-25
 - **Échelle** : communauté (atelier) · produit
 - **Chantier** : [`../../chantiers/ton-empecheur/`](../../chantiers/ton-empecheur/)
-- **Décision** : [`../../decisions/0006-ton-fun-anti-clickbait.md`](../../decisions/0006-ton-fun-anti-clickbait.md)
+- **Décision** : [`../../decisions/0003-ton-empecheur.md`](../../decisions/0003-ton-empecheur.md)
 
 ## Dézippage
 

@@ -25,4 +25,3 @@ On pense déjà par formules. Les cartographier = reprise de pouvoir sur le popu
 ## Liens
 
 - Débat : [`debate.md`](debate.md)
-- Legacy : [`../../idees/2026-07-24-atlas-critique-des-slogans.md`](../../idees/2026-07-24-atlas-critique-des-slogans.md)

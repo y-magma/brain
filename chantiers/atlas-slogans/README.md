@@ -10,4 +10,4 @@
 | Carte | [`map.md`](map.md) ← **à écrire** |
 | Formule | [`formula.md`](formula.md) |
 
-Connexe : fiche 7 niveaux, MVP curaté (legacy `idees/` — à absorber ici).
+Connexe : fiche 7 niveaux, MVP curaté (voir [`notes.md`](notes.md)).

@@ -5,8 +5,8 @@
 - **Rôle** : noyau · dérivé · candidat libre
 - **Granularité** : axiome · formule · reformulation d'échelle
 - **Échelle(s)** : individu · communauté · société · humanité
-- **Idée(s) source** : <lien vers `../idees/...`>
-- **Synthèse(s) source** : <lien vers `../syntheses/...` — idéal avant adoption au noyau>
+- **Idée(s) source** : <lien vers chantier `seed.md`>
+- **Synthèse(s) source** : <lien vers chantier `map.md` — idéal avant adoption>
 - **Statut** : candidat · adopté · retiré
 
 ## La formule

@@ -4,7 +4,7 @@
 
 - **Date** : 2026-07-24
 - **Animé par** : IA (à partir d'un document de travail de y-magma / Vincent)
-- **Idée(s) source** : [`../../idees/2026-07-24-atlas-critique-des-slogans.md`](../../idees/2026-07-24-atlas-critique-des-slogans.md), [`../../idees/2026-07-24-mvp-atlas-curate.md`](../../idees/2026-07-24-mvp-atlas-curate.md), [`../../idees/2026-07-23-un-outil-de-democratie.md`](../../idees/2026-07-23-un-outil-de-democratie.md)
+- **Idée(s) source** : [`seed.md`](seed.md), [`notes.md`](notes.md), [`../machine-a-penser/seed.md`](../machine-a-penser/seed.md)
 - **Statut** : ouvert
 
 ## La thèse en débat
@@ -84,10 +84,10 @@ Repères conceptuels (à lire avec prudence) : Dawkins (mème) ; Lakoff (framing
 
 ## Liens connexes
 
-- Troisième porte d'entrée : [`../../archive/points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md`](../../archive/points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md) (miroir viral / Wrapped mental)
-- Plaisir sain : [`../../archive/idees/2026-07-24-plaisir-sain-competitif.md`](../../archive/idees/2026-07-24-plaisir-sain-competitif.md)
-- Petit internet : [`../../archive/idees/2026-07-24-petit-internet-micro-communautes.md`](../../archive/idees/2026-07-24-petit-internet-micro-communautes.md)
+- Troisième porte d'entrée : [`../../archive/graines/debat-miroir-viral-vs-outil-democratie.md`](../../archive/graines/debat-miroir-viral-vs-outil-democratie.md) (miroir viral / Wrapped mental)
+- Plaisir sain : [`../../archive/graines/2026-07-24-plaisir-sain-competitif.md`](../../archive/graines/2026-07-24-plaisir-sain-competitif.md)
+- Petit internet : [`../../archive/graines/2026-07-24-petit-internet-micro-communautes.md`](../../archive/graines/2026-07-24-petit-internet-micro-communautes.md)
 
 ## Vers la synthèse
 
-Quand ce débat, celui du [spectacle du désaccord](2026-07-23-le-spectacle-du-desaccord-intelligent.md) et celui du [miroir viral](../../archive/points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md) auront mûri, produire une synthèse dans [`../syntheses/`](../syntheses/) sur : **« Quelle porte d'entrée pour l'outil — atlas lent, spectacle du duel, miroir de bulle, session Pol.is, pédagogie, micro-communauté — et comment les articuler sans trahir le manifeste ? »**
+Quand ce débat, celui du [spectacle du désaccord](../spectacle-desaccord/debate.md) et celui du [miroir viral](../../archive/graines/debat-miroir-viral-vs-outil-democratie.md) auront mûri, produire une synthèse dans [`map.md`](map.md) sur : **« Quelle porte d'entrée pour l'outil — atlas lent, spectacle du duel, miroir de bulle, session Pol.is, pédagogie, micro-communauté — et comment les articuler sans trahir le manifeste ? »**

@@ -1,66 +1,63 @@
-# La Carte — vue humaine de `brain`
+# La Carte — Brain de Magma
 
 ![Portes-chantiers](assets/illustrations/chantiers-portes.jpg)
 
-> **Un coup d’œil. Pas un dashboard.** Le reste du dépôt est le substrat ; cette page est la vitrine.
+> Vitrine humaine. Le reste = substrat.
 
-Dernière mise à jour : **2026-07-25**
+**Magma** = le projet. **Brain** = cet atelier.  
+Ton : *empêcheur de tourner en rond — titiller, pas cliquer.*  
+Nerf : *se poser toutes les questions — surtout celles qu’on refuse.*
+
+Dernière maj : **2026-07-25**
 
 ---
 
-## En une phrase
+## Comment avancer
 
-Machine à penser — forme ouverte. Slogans = brique. **Peu de verbalisation.** Ton : *empêcheur de tourner en rond — titiller, pas cliquer.*
+1. Ancrer [`questions-sans-dogme`](chantiers/questions-sans-dogme/) dans tout le reste.
+2. Écrire la map manquante d’[`atlas-slogans`](chantiers/atlas-slogans/).
+3. Adopter (ou non) des axiomes du [`noyau`](slogans/noyau/).
+4. Croiser [`spectacle-desaccord`](chantiers/spectacle-desaccord/) ↔ atlas.
 
-## Comment avancer (maintenant)
+## Chantiers
 
-1. **Lire / croiser** les chantiers pilotes — surtout [`ton-empecheur`](chantiers/ton-empecheur/) et [`structure-cerveau`](chantiers/structure-cerveau/).
-2. **Écrire la map manquante** de [`atlas-slogans`](chantiers/atlas-slogans/) (trou visible exprès).
-3. **Adopter ou non** les candidats noyau (« Dsl… », « Empêcheur… »).
-4. Migrer le reste des graines legacy → nouveaux chantiers.
+| Chantier | Slogan | Boucle |
+|----------|--------|--------|
+| [questions-sans-dogme](chantiers/questions-sans-dogme/) | Se poser toutes les questions… | map ✓ |
+| [machine-a-penser](chantiers/machine-a-penser/) | Penser ensemble, agir ensemble | map ✓ |
+| [structure-cerveau](chantiers/structure-cerveau/) | Fermer des boucles… | map ✓ |
+| [ton-empecheur](chantiers/ton-empecheur/) | Titiller, pas cliquer | map ✓ |
+| [simplicite](chantiers/simplicite/) | Dsl, pas le temps de faire simple | map ✓ |
+| [atlas-slogans](chantiers/atlas-slogans/) | Ralentir les slogans sans les tuer | map ✗ |
+| [noyau-axiomes](chantiers/noyau-axiomes/) | Penser par formules… | map ✓ |
+| [ia-interface](chantiers/ia-interface/) | IA intégrée, pas collée | map ✓ |
+| [science-wiki](chantiers/science-wiki/) | Moins de papiers, plus de pages vivantes | map ✓ |
+| [spectacle-desaccord](chantiers/spectacle-desaccord/) | Plaisir avant l’effort | map ~ |
 
-## Chantiers actifs
+Pause / satellites → [`archive/graines/`](archive/graines/).
 
-| Chantier | Slogan | Boucle | Lien |
-|----------|--------|--------|------|
-| **Structure** | Fermer des boucles, pas ouvrir des dossiers | map ✓ · 0005 | [ouvrir](chantiers/structure-cerveau/) |
-| **Ton empêcheur** | Titiller, pas cliquer | map ~ · 0006 | [ouvrir](chantiers/ton-empecheur/) |
-| **Simplicité** | Dsl, j'ai pas eu le temps de faire simple | map ~ | [ouvrir](chantiers/simplicite/) |
-| **Atlas slogans** | Ralentir les slogans sans les tuer | map ✗ | [ouvrir](chantiers/atlas-slogans/) |
+## Noyau (candidats)
 
-À créer (depuis legacy) : IA+UX · science wiki · noyau axiomes · spectacle du désaccord · porte≠maison…
-
-## Noyau (axiomes)
-
-_Aucun **adopté** encore._ Candidats → [`slogans/noyau/`](slogans/noyau/)
-
-| Formule | Statut |
-|---------|--------|
-| « Dsl, j'ai pas eu le temps de faire simple. » | candidat |
-| « Empêcheur de tourner en rond — titiller, pas cliquer. » | candidat |
-| « Fermer des boucles, pas ouvrir des dossiers. » | formule chantier |
-| « Les slogans sont une porte, pas la maison. » | candidat |
-| « Machine à ralentir les slogans sans les tuer. » | candidat |
+| Formule | Lien |
+|---------|------|
+| Dsl, j'ai pas eu le temps de faire simple | [noyau](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md) |
+| Empêcheur de tourner en rond — titiller, pas cliquer | [noyau](slogans/noyau/empecheur-de-tourner-en-rond.md) |
+| Se poser toutes les questions — surtout celles qu’on refuse | [chantier](chantiers/questions-sans-dogme/formula.md) |
 
 ## Décisions
 
-| # | Décision | Statut |
-|---|----------|--------|
-| [0001](decisions/0001-langue-et-methode-de-travail.md) | Français | **adoptée** (organisation → 0005) |
-| [0002](decisions/0002-archivage-vues-et-noyau-slogans.md) | Archive, vues, noyau | **adoptée** |
-| [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md) | Slogans = brique + accroche | **proposée** |
-| [0004](decisions/0004-peu-de-verbalisation.md) | Peu de verbalisation | **proposée** |
-| [0005](decisions/0005-structure-par-chantiers.md) | Structure par chantiers | **adoptée** |
-| [0006](decisions/0006-ton-fun-anti-clickbait.md) | Ton fun anti-clickbait | **adoptée** |
+| # | Contenu |
+|---|--------|
+| [0001](decisions/0001-conventions-brain-magma.md) | Conventions Brain Magma (chantiers, pas de code, tout casser OK) |
+| [0002](decisions/0002-slogans-et-verbalisation.md) | Slogans = brique + peu de verbalisation |
+| [0003](decisions/0003-ton-empecheur.md) | Ton fun anti-clic |
+| [0004](decisions/0004-questions-sans-dogme.md) | Questions sans dogme |
 
 ## Grandes questions
 
-- Quelle forme pour la machine à penser ?
-- Quelle interface (UX + IA intégrée) — nouvelle, pas forum plat ?
-- Comment scaler le ton empêcheur sans entre-soi ?
-- Atlas lent ↔ spectacle du désaccord ?
+- Quelle forme pour Magma (produit) ?
+- Quelle UX + IA intégrée ?
+- Comment tout questionner sans tout relativiser ?
+- Atlas lent ↔ spectacle ?
 
----
-
-Legacy (écriture déconseillée) : [`idees/`](idees/) · [`points-de-vue/`](points-de-vue/) · [`syntheses/`](syntheses/)  
-Rendu site : [`workflow/voir-simplement.md`](workflow/voir-simplement.md) · Ton : [`workflow/ton.md`](workflow/ton.md)
+Ton : [`workflow/ton.md`](workflow/ton.md) · Processus : [`workflow/processus.md`](workflow/processus.md)

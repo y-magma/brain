@@ -12,7 +12,7 @@
 Manque de temps → on livre le **compliqué**.  
 Avoir le temps → on doit encore **travailler** le simple.
 
-Pour `brain` et le produit : un petit pas clair bat l’empilement wiki+réseau+graphe+IA.
+Pour le Brain et le produit : un petit pas clair bat l’empilement wiki+réseau+graphe+IA.
 
 ## Faits / valeurs / hypothèses
 
@@ -22,5 +22,5 @@ Pour `brain` et le produit : un petit pas clair bat l’empilement wiki+réseau+
 
 ## Liens
 
-- Décision : [`../../decisions/0004-peu-de-verbalisation.md`](../../decisions/0004-peu-de-verbalisation.md)
+- Décision : [`../../decisions/0002-slogans-et-verbalisation.md`](../../decisions/0002-slogans-et-verbalisation.md)
 - Noyau : [`../../slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md`](../../slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md)

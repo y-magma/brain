@@ -25,5 +25,5 @@ L’outrage comme carburant.
 
 ## Liens
 
-- Décision : [`../../decisions/0006-ton-fun-anti-clickbait.md`](../../decisions/0006-ton-fun-anti-clickbait.md)
+- Décision : [`../../decisions/0003-ton-empecheur.md`](../../decisions/0003-ton-empecheur.md)
 - Guide : [`../../workflow/ton.md`](../../workflow/ton.md)

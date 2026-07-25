@@ -22,4 +22,4 @@
 
 ## Suite
 
-Tranché → [`../../decisions/0005-structure-par-chantiers.md`](../../decisions/0005-structure-par-chantiers.md). Carte détaillée → [`map.md`](map.md).
+Tranché → [`../../decisions/0001-conventions-brain-magma.md`](../../decisions/0001-conventions-brain-magma.md). Carte détaillée → [`map.md`](map.md).

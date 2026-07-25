@@ -1,11 +1,11 @@
-# Map — critique de la structure de `brain`
+# Map — critique de la structure de le Brain
 
 > Migrée ici depuis `syntheses/` (chantier = lieu unique). Ton : on garde le fond, on assume le tranchant.
 
 
 - **Date** : 2026-07-25
 - **Rédigée par** : IA — **Relue par** : _(en attente)_
-- **Débat(s) source** : observation du dépôt (états des dossiers) ; [`../../workflow/processus.md`](../../workflow/processus.md) ; [`../../decisions/0001-langue-et-methode-de-travail.md`](../../decisions/0001-langue-et-methode-de-travail.md) ; [`../../decisions/0002-archivage-vues-et-noyau-slogans.md`](../../decisions/0002-archivage-vues-et-noyau-slogans.md) ; graine [`seed.md`](seed.md) · décision [`../../decisions/0005-structure-par-chantiers.md`](../../decisions/0005-structure-par-chantiers.md)
+- **Débat(s) source** : observation du dépôt (états des dossiers) ; [`../../workflow/processus.md`](../../workflow/processus.md) ; [`../../decisions/0001-conventions-brain-magma.md`](../../decisions/0001-conventions-brain-magma.md) ; [`../../decisions/0001-conventions-brain-magma.md`](../../decisions/0001-conventions-brain-magma.md) ; graine [`seed.md`](seed.md) · décision [`../../decisions/0001-conventions-brain-magma.md`](../../decisions/0001-conventions-brain-magma.md)
 
 ## En une phrase
 
@@ -73,9 +73,9 @@ La structure actuelle privilégie *(2)* au détriment de *(1)* : on a un **proce
 
 ## Familles d'outils proches (littérature & projets)
 
-| Famille | Exemples | Ce qu'ils font bien | Ce que `brain` a en plus / en moins |
+| Famille | Exemples | Ce qu'ils font bien | Ce que le Brain a en plus / en moins |
 |---------|----------|---------------------|-------------------------------------|
-| **IBIS** (Issue / Position / Argument) | Kunz & Rittel ; MIT Deliberatorium ; DebateGraph | Graphe typé, pas pipeline linéaire | `brain` a steelman + slogans + Git ; pas de nœuds typés |
+| **IBIS** (Issue / Position / Argument) | Kunz & Rittel ; MIT Deliberatorium ; DebateGraph | Graphe typé, pas pipeline linéaire | le Brain a steelman + slogans + Git ; pas de nœuds typés |
 | **Argument mapping** | Kialo, Argdown, Rationale | Pour/contre arborescent, pédagogique | Moins de distillation / axiomes ; UI dédiée |
 | **Opinion clustering** | [Pol.is](https://pol.is) | Consensus & fractures *sans* fil toxique | Pas d'encyclopédie permanente ; scale crowds |
 | **Démocratie participative** | Loomio, Decidim, Consul | Propositions + votes + gouvernance | Moins « pensée » / slogans ; plus « décision publique » |
@@ -83,7 +83,7 @@ La structure actuelle privilégie *(2)* au détriment de *(1)* : on a un **proce
 | **Consensus multi-agents Markdown** | [llm-wiki-coordination](https://github.com/AEVYRA/llm-wiki-coordination), turnfile | Protocoles d'accord agent + audit | Plus outillé, moins « démocratie humaine » |
 
 **Fait** : tu n'es pas seul sur ce terrain.  
-**Hypothèse** : l'originalité de `brain` serait l'intersection *phrases courtes traçables × steelman × cartographie × petit collectif humain+IA* — pas le pipeline à 5 dossiers.
+**Hypothèse** : l'originalité de le Brain serait l'intersection *phrases courtes traçables × steelman × cartographie × petit collectif humain+IA* — pas le pipeline à 5 dossiers.
 
 ## Alternatives (carte, pas verdict)
 
@@ -107,7 +107,7 @@ formula.md   # formule(s) candidates + raisonnement
 
 Statut du chantier dans un front-matter. `decisions/` reste transversal. Archive = déplacer le dossier entier.
 
-→ Détail : [`seed.md`](seed.md) · **adopté** via [`../../decisions/0005-structure-par-chantiers.md`](../../decisions/0005-structure-par-chantiers.md).
+→ Détail : [`seed.md`](seed.md) · **adopté** via [`../../decisions/0001-conventions-brain-magma.md`](../../decisions/0001-conventions-brain-magma.md).
 
 ### C. Wiki plat type Wikipédia / LLM-wiki
 
@@ -132,7 +132,7 @@ Sessions de clustering d'opinions → phrases de consensus/fracture → fiches. 
 
 - Incertain : si B (chantiers) suffit ou s'il faut C/D pour le produit final.
 - Incertain : part de la dette due à la jeunesse (3 jours de dépôt) vs défaut de design.
-- Sources : Pol.is (Small et al. / CompDem) ; Deliberatorium (Klein, MIT) ; Kialo (argument mapping éducatif) ; IBIS (Kunz & Rittel) ; projets wiki-LLM cités ci-dessus. Pas d'évaluation empirique *in situ* de `brain` au-delà des comptes de fichiers.
+- Sources : Pol.is (Small et al. / CompDem) ; Deliberatorium (Klein, MIT) ; Kialo (argument mapping éducatif) ; IBIS (Kunz & Rittel) ; projets wiki-LLM cités ci-dessus. Pas d'évaluation empirique *in situ* de le Brain au-delà des comptes de fichiers.
 
 ## Suites possibles
 

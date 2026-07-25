@@ -1,47 +1,33 @@
-# Chantiers
+# Chantiers — Brain de Magma
 
-> **Un sujet = un lieu.** On ferme des boucles, on n’ouvre pas des dossiers pour le sport.
->
-> Décision : [`../decisions/0005-structure-par-chantiers.md`](../decisions/0005-structure-par-chantiers.md)
+> **Un sujet = un lieu.** On ferme des boucles. On peut tout refaire.
 
-![Quatre portes-dossiers sur un chemin — métaphore des chantiers](../assets/illustrations/chantiers-portes.jpg)
+![Portes](../assets/illustrations/chantiers-portes.jpg)
 
-*Quatre portes. Un chemin. Choisis un chantier, pas une étape administrative.*
+## Anatomie
 
-## Anatomie d'un chantier
+| Fichier | Job |
+|---------|-----|
+| `seed.md` | Pourquoi + slogan |
+| `debate.md` | Steelman |
+| `map.md` | Carte — **absente = boucle ouverte** |
+| `formula.md` | Formule + raisonnement |
 
-| Fichier | Rôle | Signal |
-|---------|------|--------|
-| `seed.md` | Graine + slogan | « Pourquoi on touche à ça » |
-| `debate.md` | Steelman pour / contre | « On a vraiment écouté l’autre camp » |
-| `map.md` | Convergences / divergences / angles morts | **Pas de map = boucle ouverte** |
-| `formula.md` | Formule(s) + raisonnement | « Ce qu’on peut répéter sans mentir » |
+## Index
 
-Optionnel : `notes.md`, illustrations dans le dossier ou dans `assets/illustrations/`.
+| Chantier | Slogan |
+|----------|--------|
+| [questions-sans-dogme](questions-sans-dogme/) | Se poser toutes les questions — surtout celles qu’on refuse |
+| [machine-a-penser](machine-a-penser/) | Penser ensemble, agir ensemble |
+| [structure-cerveau](structure-cerveau/) | Fermer des boucles, pas ouvrir des dossiers |
+| [ton-empecheur](ton-empecheur/) | Titiller, pas cliquer |
+| [simplicite](simplicite/) | Dsl, j'ai pas eu le temps de faire simple |
+| [atlas-slogans](atlas-slogans/) | Machine à ralentir les slogans sans les tuer |
+| [noyau-axiomes](noyau-axiomes/) | Penser par formules, sans être pensé par elles |
+| [ia-interface](ia-interface/) | IA intégrée, pas collée |
+| [science-wiki](science-wiki/) | Moins de papiers, plus de pages vivantes |
+| [spectacle-desaccord](spectacle-desaccord/) | Plaisir avant l’effort |
 
-## Créer un chantier
+## Transverse
 
-1. Copier la structure (voir un pilote ci-dessous).
-2. Nommer en kebab-case : `chantiers/mon-sujet/`.
-3. Remplir `seed.md` **avant** le reste.
-4. Ouvrir une PR. Mettre à jour [`../CARTE.md`](../CARTE.md) + sidebar.
-
-## Index actif
-
-| Chantier | Slogan | Boucle | Lien |
-|----------|--------|--------|------|
-| Structure du cerveau | « Fermer des boucles, pas ouvrir des dossiers. » | map ✓ | [ouvrir](structure-cerveau/) |
-| Atlas des slogans | « Machine à ralentir les slogans sans les tuer » | map ✗ | [ouvrir](atlas-slogans/) |
-| Simplicité | « Dsl, j'ai pas eu le temps de faire simple. » | map ~ | [ouvrir](simplicite/) |
-| Ton empêcheur | « Empêcheur de tourner en rond — titiller, pas cliquer. » | map ~ | [ouvrir](ton-empecheur/) |
-
-## Transversal (hors chantier)
-
-- [`../decisions/`](../decisions/) — ADR
-- [`../vision/`](../vision/) — manifeste, glossaire
-- [`../slogans/noyau/`](../slogans/noyau/) — axiomes du collectif
-- [`../archive/`](../archive/) — hors circuit
-
-## Legacy
-
-`idees/`, `points-de-vue/`, `syntheses/` : **plus le lieu d’écriture par défaut**. Fichiers migrés → stubs qui pointent ici. Migration progressive du reste.
+[`../decisions/`](../decisions/) · [`../vision/`](../vision/) · [`../slogans/noyau/`](../slogans/noyau/) · [`../archive/graines/`](../archive/graines/)

@@ -5,7 +5,7 @@
 - **Rôle** : noyau
 - **Granularité** : formule
 - **Échelle(s)** : individu · communauté · société · humanité
-- **Idée(s) source** : [`../../idees/2026-07-24-chercher-solutions-simples.md`](../../idees/2026-07-24-chercher-solutions-simples.md)
+- **Idée(s) source** : [`../../chantiers/simplicite/seed.md`](../../chantiers/simplicite/seed.md)
 - **Statut** : candidat
 
 ## La formule
@@ -31,6 +31,6 @@ Pas « tout en un tweet ». Pas « la complexité n'existe pas ». La profondeur
 
 ## Liens
 
-- Idée : [`../../idees/2026-07-24-chercher-solutions-simples.md`](../../idees/2026-07-24-chercher-solutions-simples.md)
+- Idée : [`../../chantiers/simplicite/seed.md`](../../chantiers/simplicite/seed.md)
 - Règle agents : [`../../AGENTS.md`](../../AGENTS.md) (§ règle 9)
-- Décision : [`../../decisions/0004-peu-de-verbalisation.md`](../../decisions/0004-peu-de-verbalisation.md)
+- Décision : [`../../decisions/0002-slogans-et-verbalisation.md`](../../decisions/0002-slogans-et-verbalisation.md)
