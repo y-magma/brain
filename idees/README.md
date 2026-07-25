@@ -22,6 +22,7 @@ Ce n'est **pas** un axiome du [`../slogans/noyau/`](../slogans/noyau/) ni un slo
 
 | Idée | Slogan / expression | Prochaine étape | Lien |
 |------|---------------------|-----------------|------|
+| Structure par chantiers | « Fermer des boucles, pas ouvrir des dossiers. » | débattre / décider | [ouvrir](2026-07-25-structure-par-chantiers.md) · [synthèse](../syntheses/2026-07-25-critique-structure-du-cerveau.md) |
 | Outil de démocratie | « Penser ensemble, agir ensemble » | débattre | [ouvrir](2026-07-23-un-outil-de-democratie.md) |
 | IA + interface (matière première) | « IA intégrée, pas collée. » | débattre | [ouvrir](2026-07-24-ia-interface-matiere-premiere.md) |
 | Chercher des solutions simples | « Dsl, j'ai pas eu le temps de faire simple. » | distiller / noyau | [ouvrir](2026-07-24-chercher-solutions-simples.md) |

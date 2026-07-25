@@ -3,7 +3,7 @@
 > **La façon la plus simple de « voir » le projet d'un coup d'œil, comme un humain.**
 > Le reste du dépôt est le *substrat* (lisible par les humains **et** par l'IA) ; cette page en est la *vitrine*. Elle est vivante : l'IA la tient à jour à chaque contribution, un humain la relit.
 
-Dernière mise à jour : **2026-07-24**
+Dernière mise à jour : **2026-07-25**
 
 ---
 
@@ -15,6 +15,7 @@ On explore une **machine à penser** — forme **ouverte**. Slogans = brique maj
 
 | Chantier | Ce qu'on cherche | Étape actuelle | Pour avancer |
 |----------|------------------|----------------|--------------|
+| **Structure du cerveau** | Alléger le dépôt ; fermer des boucles | **1ʳᵉ synthèse** + graine | Lire [critique structure](syntheses/2026-07-25-critique-structure-du-cerveau.md) ; trancher A (alléger) vs B ([chantiers](idees/2026-07-25-structure-par-chantiers.md)) |
 | **IA + UX/UI** | Interface nouvelle ; LLM intégrés, pas collés | Idée | [ouvrir](idees/2026-07-24-ia-interface-matiere-premiere.md) ; relire [IA atelier (archive)](archive/idees/2026-07-24-ia-atelier-pas-juge.md) |
 | **Forme ouverte** | Ne pas réduire le projet à « un truc slogans » | Idée + décision proposée | Relire [porte ≠ maison](idees/2026-07-24-slogans-porte-pas-maison.md) ; trancher [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md) |
 | **Simplicité / anti-blabla** | Peu de verbalisation ; solutions simples | Idée + 0004 + candidat noyau | [simple](idees/2026-07-24-chercher-solutions-simples.md) · [0004](decisions/0004-peu-de-verbalisation.md) · [formule](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md) |
@@ -28,10 +29,10 @@ Satellites mis de côté (miroir, jeu, gouvernance…) → [`archive/idees/`](ar
 
 ## Comment avancer
 
-1. **Clarifier** la place des slogans (brique majeure vs projet entier) — décision [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md).
-2. **Garder le simple** comme critère de relecture — [« Dsl, j'ai pas eu le temps de faire simple. »](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md).
-3. **Poursuivre** le débat [noyau minimal vs catalogue](points-de-vue/2026-07-24-noyau-minimal-vs-catalogue.md).
-4. **Viser une première synthèse** sur *atlas vs réseau social* (trou actuel : `syntheses/` vide).
+1. **Réagir à la critique de structure** — [synthèse](syntheses/2026-07-25-critique-structure-du-cerveau.md) : alléger (A) ou passer aux [chantiers](idees/2026-07-25-structure-par-chantiers.md) (B) ?
+2. **Clarifier** la place des slogans — [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md).
+3. **Garder le simple** — [« Dsl… »](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md) · [0004](decisions/0004-peu-de-verbalisation.md).
+4. **Synthèse produit suivante** : *atlas vs réseau social* (débat déjà ouvert).
 5. **Admettre** (ou non) un premier axiome dans [`slogans/noyau/`](slogans/noyau/).
 
 ## Noyau de slogans (axiomes)
@@ -56,11 +57,12 @@ _Aucun axiome **adopté** encore._ Candidats → [`slogans/noyau/`](slogans/noya
 
 ## Grandes questions ouvertes
 
-- Quelle **forme** pour la machine à penser (encore inconnue) — et quelle place exacte pour les slogans / expressions ?
+- Faut-il **restructurer** le dépôt (pipeline vs chantiers vs wiki) — ou seulement alléger ?
+- Quelle **forme** pour la machine à penser — et quelle place pour les slogans / expressions ?
 - Quelle **taille** et quels **critères** pour le noyau d'axiomes-slogans ?
 - Comment **déplier** une phrase qui circule sans faux équilibre ni guerre de labels ?
 - Comment articuler **atlas lent** et **spectacle du désaccord** sans trahir le manifeste ?
-- (En pause) Quand rouvrir la porte **miroir / bulles** ? → [`archive/idees/`](archive/idees/)
+- (En pause) Quand rouvrir **miroir / bulles** ? → [`archive/idees/`](archive/idees/)
 
 ---
 

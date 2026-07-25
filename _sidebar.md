@@ -11,6 +11,7 @@
 
 - **Idées**
   - [Index (vision produit)](/idees/README.md)
+  - [Structure par chantiers](/idees/2026-07-25-structure-par-chantiers.md)
   - [Outil de démocratie](/idees/2026-07-23-un-outil-de-democratie.md)
   - [IA + interface](/idees/2026-07-24-ia-interface-matiere-premiere.md)
   - [Chercher des solutions simples](/idees/2026-07-24-chercher-solutions-simples.md)
@@ -29,6 +30,7 @@
 
 - **Synthèses**
   - [Index des cartes](/syntheses/README.md)
+  - [Critique de la structure](/syntheses/2026-07-25-critique-structure-du-cerveau.md)
 
 - **Slogans**
   - [Index](/slogans/README.md)

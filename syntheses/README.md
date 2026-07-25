@@ -18,4 +18,8 @@ C'est le **livrable principal de l'IA** ; un humain relit et corrige. Une synth�
 
 ## Index
 
-_Aucune synthèse active pour l'instant._ Prochains candidats naturels : atlas vs réseau social ; noyau minimal vs catalogue ; miroir viral vs démocratie.
+| Synthèse | Sujet |
+|----------|--------|
+| [2026-07-25 — Critique de la structure](2026-07-25-critique-structure-du-cerveau.md) | Pipeline 5 étapes vs alternatives (chantiers, wiki, IBIS, Pol.is…) |
+
+Prochains candidats naturels : atlas vs réseau social ; noyau minimal vs catalogue.
