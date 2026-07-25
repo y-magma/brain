@@ -1,56 +1,43 @@
-<!-- Barre latérale du site Docsify (voir workflow/voir-simplement.md) -->
-<!-- Chemins absolus (préfixe /) obligatoires : relativePath=true résout sinon depuis la page courante. -->
+<!-- Docsify sidebar — chemins absolus. -->
 
 - **Accueil**
-  - [La Carte (vue humaine)](/CARTE.md)
+  - [La Carte](/CARTE.md)
   - [Présentation](/README.md)
+
+- **Chantiers**
+  - [Index](/chantiers/README.md)
+  - [Questions sans dogme](/chantiers/questions-sans-dogme/)
+  - [Machine à penser](/chantiers/machine-a-penser/)
+  - [Structure](/chantiers/structure-cerveau/)
+  - [Ton empêcheur](/chantiers/ton-empecheur/)
+  - [Simplicité](/chantiers/simplicite/)
+  - [Atlas slogans](/chantiers/atlas-slogans/)
+  - [Noyau axiomes](/chantiers/noyau-axiomes/)
+  - [IA + interface](/chantiers/ia-interface/)
+  - [Science wiki](/chantiers/science-wiki/)
+  - [Spectacle désaccord](/chantiers/spectacle-desaccord/)
 
 - **Vision**
   - [Manifeste](/vision/manifeste.md)
   - [Glossaire](/vision/glossaire.md)
 
-- **Idées**
-  - [Index (vision produit)](/idees/README.md)
-  - [Structure par chantiers](/idees/2026-07-25-structure-par-chantiers.md)
-  - [Outil de démocratie](/idees/2026-07-23-un-outil-de-democratie.md)
-  - [IA + interface](/idees/2026-07-24-ia-interface-matiere-premiere.md)
-  - [Chercher des solutions simples](/idees/2026-07-24-chercher-solutions-simples.md)
-  - [Science incrémentale (wiki)](/idees/2026-07-24-science-incremental-wikipedia.md)
-  - [Slogans = porte, pas maison](/idees/2026-07-24-slogans-porte-pas-maison.md)
-  - [Atlas critique des slogans](/idees/2026-07-24-atlas-critique-des-slogans.md)
-  - [Fiche slogan à 7 niveaux](/idees/2026-07-24-fiche-slogan-sept-niveaux.md)
-  - [MVP atlas curaté](/idees/2026-07-24-mvp-atlas-curate.md)
-  - [Noyau d'axiomes-slogans](/idees/2026-07-24-noyau-axiomes-de-slogans.md)
-
-- **Points de vue**
-  - [Index des débats](/points-de-vue/README.md)
-  - [Spectacle du désaccord](/points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md)
-  - [Atlas vs réseau social](/points-de-vue/2026-07-24-atlas-vs-reseau-social.md)
-  - [Noyau minimal vs catalogue](/points-de-vue/2026-07-24-noyau-minimal-vs-catalogue.md)
-
-- **Synthèses**
-  - [Index des cartes](/syntheses/README.md)
-  - [Critique de la structure](/syntheses/2026-07-25-critique-structure-du-cerveau.md)
-
-- **Slogans**
-  - [Index](/slogans/README.md)
-  - [Noyau (axiomes)](/slogans/noyau/README.md)
-  - [« Dsl, pas le temps de faire simple »](/slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md)
+- **Noyau**
+  - [Index](/slogans/noyau/README.md)
+  - [Dsl, faire simple](/slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md)
+  - [Empêcheur](/slogans/noyau/empecheur-de-tourner-en-rond.md)
 
 - **Décisions**
   - [Index](/decisions/README.md)
-  - [0001 — français & méthode (adoptée)](/decisions/0001-langue-et-methode-de-travail.md)
-  - [0002 — archive, vues, noyau (adoptée)](/decisions/0002-archivage-vues-et-noyau-slogans.md)
-  - [0003 — slogans = brique + accroche (proposée)](/decisions/0003-slogans-brique-et-accroche-des-idees.md)
-  - [0004 — peu de verbalisation (proposée)](/decisions/0004-peu-de-verbalisation.md)
+  - [0001 — conventions](/decisions/0001-conventions-brain-magma.md)
+  - [0002 — slogans / verbalisation](/decisions/0002-slogans-et-verbalisation.md)
+  - [0003 — ton](/decisions/0003-ton-empecheur.md)
+  - [0004 — sans dogme](/decisions/0004-questions-sans-dogme.md)
 
 - **Archive**
-  - [Comment archiver](/archive/README.md)
-  - [Idées archivées](/archive/idees/README.md)
-  - [Débats archivés](/archive/points-de-vue/README.md)
+  - [Graines en pause](/archive/graines/)
 
 - **Collaborer**
-  - [Workflow — le processus](/workflow/processus.md)
-  - [Workflow — les rôles](/workflow/roles.md)
-  - [Voir simplement (rendu)](/workflow/voir-simplement.md)
-  - [Règles IA (AGENTS.md)](/AGENTS.md)
+  - [Processus](/workflow/processus.md)
+  - [Ton](/workflow/ton.md)
+  - [Rôles](/workflow/roles.md)
+  - [AGENTS](/AGENTS.md)

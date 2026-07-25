@@ -1,29 +1,13 @@
-# Glossaire
+# Glossaire — Magma / Brain
 
-> Un vocabulaire commun pour éviter les malentendus. On l'enrichit par Pull Request au fil des débats.
-
-- **Idée (graine)** — Une intuition, un problème ou une proposition déposé dans [`../idees/`](../idees/). Point de départ, pas conclusion. Chaque idée porte un **slogan / expression associée** (accroche obligatoire).
-- **Slogan / expression associée** (syn. *slogan candidat*) — Formule courte accrochée à une graine : candidate du collectif, expression courante, proverbe, ou phrase qui circule déjà (même un peu stupide ou toxique). Hypothèse de travail, **pas** un axiome du noyau. Voir [`../idees/README.md`](../idees/README.md) et [`../decisions/0003-slogans-brique-et-accroche-des-idees.md`](../decisions/0003-slogans-brique-et-accroche-des-idees.md).
-- **Point de vue / Débat** — Un document de [`../points-de-vue/`](../points-de-vue/) qui confronte une thèse : arguments pour, arguments contre, nuances, questions ouvertes.
-- **Steelman** — La formulation la plus forte et honnête d'une position, y compris celle qu'on ne partage pas. Obligatoire avant toute critique. Opposé de l'*homme de paille*.
-- **Homme de paille (*strawman*)** — Version affaiblie ou caricaturale d'une position, réfutée à la place de la vraie. Proscrit ici.
-- **Convergence** — Un point d'accord identifié entre plusieurs points de vue.
-- **Divergence assumée** — Un désaccord qui subsiste après clarification, souvent parce qu'il repose sur des valeurs différentes (et non sur un malentendu factuel).
-- **Angle mort** — Une dimension du problème qu'aucun point de vue n'a encore traitée.
-- **Synthèse** — Une carte, produite avec l'IA dans [`../syntheses/`](../syntheses/), des convergences, divergences et angles morts.
-- **Slogan** — Mot à plusieurs usages dans ce dépôt : (1) *accroche d'idée* / expression associée ; (2) *slogan distillé* dans [`../slogans/`](../slogans/), avec raisonnement traçable ; (3) *axiome* du [`../slogans/noyau/`](../slogans/noyau/) ; (4) *slogan-objet* d'enquête (piste atlas). Un slogan distillé ou un axiome sans raisonnement n'est pas admis. Les slogans sont une **brique majeure** de la machine à penser, pas sa définition fermée (voir [`../idees/2026-07-24-slogans-porte-pas-maison.md`](../idees/2026-07-24-slogans-porte-pas-maison.md)).
-- **Atlas critique (des slogans)** — *Une* piste de produit parmi d'autres : transformer les phrases qui circulent en objets navigables. Formule candidate de la piste : « machine à ralentir les slogans sans les tuer ». Ne définit pas à elle seule le projet.
-- **Fiche de slogan** — Objet proposé de la piste atlas : structure à plusieurs niveaux autour d'une phrase courte. Voir [`../idees/2026-07-24-fiche-slogan-sept-niveaux.md`](../idees/2026-07-24-fiche-slogan-sept-niveaux.md).
-- **Décision** — Un choix structurant consigné dans [`../decisions/`](../decisions/) (format ADR léger).
-- **Échelle** — Le niveau auquel on juge une idée : individu, communauté, société, humanité.
-- **Faits / Valeurs / Hypothèses** — Trois natures d'énoncés à toujours distinguer : vérifiable / choix moral ou politique / pari incertain.
-- **Faux équilibre** — Donner artificiellement le même poids à une thèse solide et à une thèse absurde sous prétexte de « pour et contre ». À éviter : steelman ≠ symétrie forcée.
-- **Ego social (mise en scène de l')** — Dynamique de profils, followers, likes publics et clash qui sélectionne la polarisation. Piste opposée : responsabilité traçable sans personal branding (voir [`../archive/idees/2026-07-24-gouvernance-sans-ego-social.md`](../archive/idees/2026-07-24-gouvernance-sans-ego-social.md) — archivée).
-- **Plaisir sain (et compétitif)** — Remplacer les mécaniques primitives (outrage, FOMO, domination) par d'autres plaisirs désirables : appartenir, jouer, progresser, coopérer, humour — sans moraliser l'abstinence. Voir [`../archive/idees/2026-07-24-plaisir-sain-competitif.md`](../archive/idees/2026-07-24-plaisir-sain-competitif.md) — archivée.
-- **Sport coopératif (du débat)** — Mécanique où « gagner » = comprendre l'autre (reformulation obligatoire, votes sur la compréhension / le progrès), plutôt qu'humilier. Voir [`../archive/idees/2026-07-24-debat-sport-cooperatif.md`](../archive/idees/2026-07-24-debat-sport-cooperatif.md) — archivée.
-- **Petit internet** — Pari que la qualité relationnelle revient à petite échelle (micro-communautés interconnectées, réputation réelle, réseau de confiance) plutôt que via un feed global unique. Voir [`../archive/idees/2026-07-24-petit-internet-micro-communautes.md`](../archive/idees/2026-07-24-petit-internet-micro-communautes.md) — archivée.
-- **Miroir des bulles** — Porte d'entrée produit type « Spotify Wrapped de ton cerveau numérique » : rendre visible l'univers mental / algorithmique de chacun par curiosité et partage, sans sermon. Voir [`../archive/idees/2026-07-24-miroir-des-bulles.md`](../archive/idees/2026-07-24-miroir-des-bulles.md) — archivée (pause).
-- **Archive** — Zone du dépôt ([`../archive/`](../archive/)) pour les contributions hors circuit actif (abandonnées, fusionnées, remplacées) **sans les effacer**. Procédure dans le README du dossier.
-- **Noyau (d'axiomes-slogans)** — Ensemble **minimal** de slogans *adoptés* par le collectif comme boussole, dans [`../slogans/noyau/`](../slogans/noyau/). Enrichissable en multi-échelle et multi-granularité, pas en catalogue infini. Voir [`../idees/2026-07-24-noyau-axiomes-de-slogans.md`](../idees/2026-07-24-noyau-axiomes-de-slogans.md).
-- **Peu de verbalisation** — Vertu cardinale : slogan / phrase courte d'abord ; profondeur par liens ; budgets de longueur dans [`../AGENTS.md`](../AGENTS.md). Voir [`../decisions/0004-peu-de-verbalisation.md`](../decisions/0004-peu-de-verbalisation.md).
-- **Chantier** (proposé) — Alternative à la découpe par *étape* : un dossier = un sujet vivant (`seed` / `debate` / `map` / `formula`). Voir [`../idees/2026-07-25-structure-par-chantiers.md`](../idees/2026-07-25-structure-par-chantiers.md) et la [`../syntheses/2026-07-25-critique-structure-du-cerveau.md`](../syntheses/2026-07-25-critique-structure-du-cerveau.md).
+- **Magma** — Le projet : machine à penser / outil de démocratie (forme ouverte).
+- **Brain** — Ce dépôt : atelier Markdown humain + IA de Magma.
+- **Chantier** — Un sujet vivant : `seed` / `debate` / `map` / `formula`.
+- **Slogan / accroche** — Formule courte du chantier (pas forcément axiome).
+- **Noyau** — Axiomes-slogans *adoptés*, minimaux, révocables ([`../slogans/noyau/`](../slogans/noyau/)).
+- **Steelman** — Meilleure version honnête d’une position.
+- **Map** — Carte convergences / divergences / angles morts.
+- **Ton empêcheur** — Fun, tranchant, anti-pute-à-clic ([`../workflow/ton.md`](../workflow/ton.md)).
+- **Questions sans dogme** — Tout questionnable ; refus explicite seulement ([`../chantiers/questions-sans-dogme/`](../chantiers/questions-sans-dogme/)).
+- **Archive** — Hors circuit, pas effacé ([`../archive/graines/`](../archive/graines/)).
+- **Faits / valeurs / hypothèses** — Trois natures d’énoncés à séparer.

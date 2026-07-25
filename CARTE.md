@@ -1,81 +1,63 @@
-# La Carte — vue humaine de `brain`
+# La Carte — Brain de Magma
 
-> **La façon la plus simple de « voir » le projet d'un coup d'œil, comme un humain.**
-> Le reste du dépôt est le *substrat* (lisible par les humains **et** par l'IA) ; cette page en est la *vitrine*. Elle est vivante : l'IA la tient à jour à chaque contribution, un humain la relit.
+![Portes-chantiers](assets/illustrations/chantiers-portes.jpg)
 
-Dernière mise à jour : **2026-07-25**
+> Vitrine humaine. Le reste = substrat.
+
+**Magma** = le projet. **Brain** = cet atelier.  
+Ton : *empêcheur de tourner en rond — titiller, pas cliquer.*  
+Nerf : *se poser toutes les questions — surtout celles qu’on refuse.*
+
+Dernière maj : **2026-07-25**
 
 ---
-
-## En une phrase
-
-On explore une **machine à penser** — forme **ouverte**. Slogans = brique majeure. Vertu cardinale : **peu de verbalisation** — comprendre vite par phrases courtes (« Dsl, j'ai pas eu le temps de faire simple. »).
-
-## Grands sujets en cours
-
-| Chantier | Ce qu'on cherche | Étape actuelle | Pour avancer |
-|----------|------------------|----------------|--------------|
-| **Structure du cerveau** | Alléger le dépôt ; fermer des boucles | **1ʳᵉ synthèse** + graine | Lire [critique structure](syntheses/2026-07-25-critique-structure-du-cerveau.md) ; trancher A (alléger) vs B ([chantiers](idees/2026-07-25-structure-par-chantiers.md)) |
-| **IA + UX/UI** | Interface nouvelle ; LLM intégrés, pas collés | Idée | [ouvrir](idees/2026-07-24-ia-interface-matiere-premiere.md) ; relire [IA atelier (archive)](archive/idees/2026-07-24-ia-atelier-pas-juge.md) |
-| **Forme ouverte** | Ne pas réduire le projet à « un truc slogans » | Idée + décision proposée | Relire [porte ≠ maison](idees/2026-07-24-slogans-porte-pas-maison.md) ; trancher [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md) |
-| **Simplicité / anti-blabla** | Peu de verbalisation ; solutions simples | Idée + 0004 + candidat noyau | [simple](idees/2026-07-24-chercher-solutions-simples.md) · [0004](decisions/0004-peu-de-verbalisation.md) · [formule](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md) |
-| **Science incrémentale** | Wikipédia du savoir scientifique ; moins de PDF jetables | Idée (graine de thèse) | Préciser champ (maths vs expérimental) ; [ouvrir](idees/2026-07-24-science-incremental-wikipedia.md) |
-| **Atlas / slogans** | Machine à ralentir ; fiche à 7 niveaux ; MVP curaté | Idées + débat ouvert | Trancher [atlas vs réseau social](points-de-vue/2026-07-24-atlas-vs-reseau-social.md) ; première synthèse |
-| **Noyau d'axiomes** | Ensemble minimal de formules-boussole | Idée + débat ouvert | Critères d'admission ; premier axiome `adopté` ? |
-| **Spectacle du désaccord** | Rendre le désaccord de qualité désirable | Débat ouvert | Synthèse quand le débat a assez de matière |
-
-Détail des graines actives → [`idees/`](idees/).  
-Satellites mis de côté (miroir, jeu, gouvernance…) → [`archive/idees/`](archive/idees/).
 
 ## Comment avancer
 
-1. **Réagir à la critique de structure** — [synthèse](syntheses/2026-07-25-critique-structure-du-cerveau.md) : alléger (A) ou passer aux [chantiers](idees/2026-07-25-structure-par-chantiers.md) (B) ?
-2. **Clarifier** la place des slogans — [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md).
-3. **Garder le simple** — [« Dsl… »](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md) · [0004](decisions/0004-peu-de-verbalisation.md).
-4. **Synthèse produit suivante** : *atlas vs réseau social* (débat déjà ouvert).
-5. **Admettre** (ou non) un premier axiome dans [`slogans/noyau/`](slogans/noyau/).
+1. Ancrer [`questions-sans-dogme`](chantiers/questions-sans-dogme/) dans tout le reste.
+2. Écrire la map manquante d’[`atlas-slogans`](chantiers/atlas-slogans/).
+3. Adopter (ou non) des axiomes du [`noyau`](slogans/noyau/).
+4. Croiser [`spectacle-desaccord`](chantiers/spectacle-desaccord/) ↔ atlas.
 
-## Noyau de slogans (axiomes)
+## Chantiers
 
-_Aucun axiome **adopté** encore._ Candidats → [`slogans/noyau/`](slogans/noyau/).
+| Chantier | Slogan | Boucle |
+|----------|--------|--------|
+| [questions-sans-dogme](chantiers/questions-sans-dogme/) | Se poser toutes les questions… | map ✓ |
+| [machine-a-penser](chantiers/machine-a-penser/) | Penser ensemble, agir ensemble | map ✓ |
+| [structure-cerveau](chantiers/structure-cerveau/) | Fermer des boucles… | map ✓ |
+| [ton-empecheur](chantiers/ton-empecheur/) | Titiller, pas cliquer | map ✓ |
+| [simplicite](chantiers/simplicite/) | Dsl, pas le temps de faire simple | map ✓ |
+| [atlas-slogans](chantiers/atlas-slogans/) | Ralentir les slogans sans les tuer | map ✗ |
+| [noyau-axiomes](chantiers/noyau-axiomes/) | Penser par formules… | map ✓ |
+| [ia-interface](chantiers/ia-interface/) | IA intégrée, pas collée | map ✓ |
+| [science-wiki](chantiers/science-wiki/) | Moins de papiers, plus de pages vivantes | map ✓ |
+| [spectacle-desaccord](chantiers/spectacle-desaccord/) | Plaisir avant l’effort | map ~ |
 
-| Formule candidate | Statut | Origine |
-|-------------------|--------|---------|
-| « Dsl, j'ai pas eu le temps de faire simple. » | candidat (fichier noyau) | [slogan](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md) · [idée](idees/2026-07-24-chercher-solutions-simples.md) |
-| « Penser par formules, sans être pensé par elles. » | candidat | [idée noyau](idees/2026-07-24-noyau-axiomes-de-slogans.md) |
-| « Une machine à ralentir les slogans sans les tuer. » | candidat | [idée atlas](idees/2026-07-24-atlas-critique-des-slogans.md) |
-| « Les slogans sont une porte, pas la maison. » | candidat | [cadrage](idees/2026-07-24-slogans-porte-pas-maison.md) |
+Pause / satellites → [`archive/graines/`](archive/graines/).
+
+## Noyau (candidats)
+
+| Formule | Lien |
+|---------|------|
+| Dsl, j'ai pas eu le temps de faire simple | [noyau](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md) |
+| Empêcheur de tourner en rond — titiller, pas cliquer | [noyau](slogans/noyau/empecheur-de-tourner-en-rond.md) |
+| Se poser toutes les questions — surtout celles qu’on refuse | [chantier](chantiers/questions-sans-dogme/formula.md) |
 
 ## Décisions
 
-| # | Décision | Statut |
-|---|----------|--------|
-| [0001](decisions/0001-langue-et-methode-de-travail.md) | Langue (français) et méthode (cycle en 5 temps) | **adoptée** |
-| [0002](decisions/0002-archivage-vues-et-noyau-slogans.md) | Archivage, vues par étape, noyau de slogans | **adoptée** |
-| [0003](decisions/0003-slogans-brique-et-accroche-des-idees.md) | Slogans = brique majeure (pas le projet entier) ; accroche obligatoire | **proposée** |
-| [0004](decisions/0004-peu-de-verbalisation.md) | Peu de verbalisation (slogan d'abord) | **proposée** |
+| # | Contenu |
+|---|--------|
+| [0001](decisions/0001-conventions-brain-magma.md) | Conventions Brain Magma (chantiers, pas de code, tout casser OK) |
+| [0002](decisions/0002-slogans-et-verbalisation.md) | Slogans = brique + peu de verbalisation |
+| [0003](decisions/0003-ton-empecheur.md) | Ton fun anti-clic |
+| [0004](decisions/0004-questions-sans-dogme.md) | Questions sans dogme |
 
-## Grandes questions ouvertes
+## Grandes questions
 
-- Faut-il **restructurer** le dépôt (pipeline vs chantiers vs wiki) — ou seulement alléger ?
-- Quelle **forme** pour la machine à penser — et quelle place pour les slogans / expressions ?
-- Quelle **taille** et quels **critères** pour le noyau d'axiomes-slogans ?
-- Comment **déplier** une phrase qui circule sans faux équilibre ni guerre de labels ?
-- Comment articuler **atlas lent** et **spectacle du désaccord** sans trahir le manifeste ?
-- (En pause) Quand rouvrir **miroir / bulles** ? → [`archive/idees/`](archive/idees/)
+- Quelle forme pour Magma (produit) ?
+- Quelle UX + IA intégrée ?
+- Comment tout questionner sans tout relativiser ?
+- Atlas lent ↔ spectacle ?
 
----
-
-## Naviguer par étape
-
-| Étape | Dossier | Rôle |
-|-------|---------|------|
-| Idées | [`idees/`](idees/) | Graines vision produit |
-| Points de vue | [`points-de-vue/`](points-de-vue/) | Débats steelman |
-| Synthèses | [`syntheses/`](syntheses/) | Cartes (encore vide) |
-| Slogans | [`slogans/`](slogans/) · [`noyau/`](slogans/noyau/) | Formules + axiomes |
-| Décisions | [`decisions/`](decisions/) | ADR adoptées / proposées |
-| Archive | [`archive/`](archive/) | Hors circuit, pas effacé |
-| Vision | [`vision/`](vision/) | Manifeste, glossaire |
-
-> Vue site (sidebar, recherche) : [`workflow/voir-simplement.md`](workflow/voir-simplement.md).
+Ton : [`workflow/ton.md`](workflow/ton.md) · Processus : [`workflow/processus.md`](workflow/processus.md)

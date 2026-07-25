@@ -1,24 +1,12 @@
 # Décisions
 
-Le **journal des choix structurants** (forme de l'outil, orientations, conventions). Format ADR léger (*Architecture/Any Decision Record*).
+ADR légers. Humains tranchent. On peut remplacer / fusionner sans pitié.
 
-## Consigner une décision
+| # | Décision | Statut |
+|---|----------|--------|
+| [0001](0001-conventions-brain-magma.md) | Conventions Brain Magma | **adoptée** |
+| [0002](0002-slogans-et-verbalisation.md) | Slogans = brique + peu de verbalisation | **adoptée** |
+| [0003](0003-ton-empecheur.md) | Ton empêcheur | **adoptée** |
+| [0004](0004-questions-sans-dogme.md) | Questions sans dogme | **adoptée** |
 
-1. Copier [`_gabarit-decision.md`](_gabarit-decision.md).
-2. Renommer en `NNNN-titre.md` (numéro croissant, ex. `0001-langue-de-travail.md`).
-3. Remplir, ouvrir une Pull Request.
-
-## Principe
-
-Une décision n'efface pas les alternatives : elle les consigne, avec le contexte et les conséquences. Si on change d'avis plus tard, on écrit une **nouvelle** décision qui remplace l'ancienne (statut `remplacée par …`) — on ne réécrit pas l'histoire. Les décisions remplacées peuvent rejoindre [`../archive/decisions/`](../archive/decisions/). **La décision appartient aux humains** ; l'IA n'en rédige que le brouillon.
-
-Les décisions **adoptées** restent ici (visibles) — on n'archive que celles qui sont *remplacées*.
-
-## Index
-
-| # | Décision | Statut | Lien |
-|---|----------|--------|------|
-| 0001 | Langue (français) et méthode (cycle en 5 temps) | **adoptée** | [ouvrir](0001-langue-et-methode-de-travail.md) |
-| 0002 | Archivage, vues par étape, noyau de slogans | **adoptée** | [ouvrir](0002-archivage-vues-et-noyau-slogans.md) |
-| 0003 | Slogans = brique majeure ; accroche obligatoire des idées | **proposée** | [ouvrir](0003-slogans-brique-et-accroche-des-idees.md) |
-| 0004 | Peu de verbalisation (slogan d'abord) | **proposée** | [ouvrir](0004-peu-de-verbalisation.md) |
+Gabarit : [`_gabarit-decision.md`](_gabarit-decision.md).
