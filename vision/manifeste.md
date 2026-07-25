@@ -17,6 +17,7 @@ C'est un **outil de démocratie** que nous cherchons à développer : pour celle
 
 - **Des idées fortes, pas des slogans creux.** Distiller sans appauvrir. Slogans = **brique majeure**, pas identité fermée du produit.
 - **Peu de verbalisation.** Comprendre vite via phrases courtes ; profondeur par liens. (« Dsl, j'ai pas eu le temps de faire simple. »)
+- **Apprendre en s'amusant.** Fun, tranchant, créatif — **titiller, pas cliquer.** Empêcheur de tourner en rond, pas pute à clic. Voir [`../workflow/ton.md`](../workflow/ton.md).
 - **Le goût du désaccord fécond.**
 - **Sortir du populisme.** Faits / valeurs / hypothèses ; incertitudes nommées.
 - **Le mouvement plutôt que la statue.**
@@ -38,6 +39,7 @@ C'est un **outil de démocratie** que nous cherchons à développer : pour celle
 - Complexité gratuite **et** simplification malhonnête.
 - Blabla : prose longue là où une formule + liens suffisent.
 - Confusion popularité ≠ solidité.
+- **Pute à clic** : fake suspense, « le Nᵉ point va vous surprendre », outrage-carburant.
 
 ## Questions ouvertes (toujours en mouvement)
 
@@ -50,4 +52,4 @@ C'est un **outil de démocratie** que nous cherchons à développer : pour celle
 - Comment déplier une phrase qui circule sans faux équilibre ni guerre de labels ?
 - Comment créer un plaisir numérique plus sain *et* compétitif, sans moraliser ni retomber dans l'outrage ?
 
-Ces questions vivent dans [`../idees/`](../idees/) et [`../points-de-vue/`](../points-de-vue/).
+Ces questions vivent dans [`../chantiers/`](../chantiers/) (et stubs legacy).

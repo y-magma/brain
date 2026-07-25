@@ -21,13 +21,14 @@ La collaboration réunit des humains et une (ou plusieurs) IA. Chacun a une zone
 
 ## Un partage simple
 
-| Étape | Moteur principal | Appui |
-|------|------------------|-------|
-| Idées | Humains | IA (reformulation, doublons) |
-| Points de vue | Humains + IA | IA (steelman) |
-| Synthèses | **IA** | Humains (relecture) |
-| Slogans | Humains | IA (formulations candidates) |
-| Décisions | **Humains** | IA (brouillon d'ADR) |
+| Étape dans un chantier | Moteur principal | Appui |
+|--------------------------|------------------|-------|
+| `seed.md` | Humains | IA (reformulation, accroche) |
+| `debate.md` | Humains + IA | IA (steelman) |
+| `map.md` | **IA** | Humains (relecture) |
+| `formula.md` | Humains | IA (candidates) |
+| `decisions/` | **Humains** | IA (brouillon ADR) |
+| Ton / illustrations | Humains + IA | Guide [`ton.md`](ton.md) |
 
 ## Invité·e·s et contributions externes
 

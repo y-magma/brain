@@ -1,38 +1,28 @@
-# Idées
+# Idées (legacy)
 
-Les **graines** : problèmes, intuitions, propositions. C'est le point d'entrée du cycle (voir [`../workflow/processus.md`](../workflow/processus.md)).
+> **Écriture déconseillée.** Nouveau foyer : [`../chantiers/`](../chantiers/) (`seed.md`).  
+> Décision [0005](../decisions/0005-structure-par-chantiers.md).
 
-## Déposer une idée
+## Stubs migrés
 
-1. Copier [`_gabarit-idee.md`](_gabarit-idee.md).
-2. Renommer en `AAAA-MM-JJ-titre-court.md` (ex. `2026-07-23-wikipedia-2-0.md`).
-3. Remplir (dont **slogan / expression associée**, **thème**, **prochaine étape**), ouvrir une Pull Request.
+| Ancienne idée | Chantier |
+|---------------|----------|
+| Structure par chantiers | [structure-cerveau](../chantiers/structure-cerveau/) |
+| Atlas critique | [atlas-slogans](../chantiers/atlas-slogans/) |
+| Solutions simples | [simplicite](../chantiers/simplicite/) |
 
-Une idée n'est pas une conclusion. **Court** : slogan d'abord, puis puces (voir budgets dans [`../AGENTS.md`](../AGENTS.md)).
+## Encore ici (à migrer)
 
-## Slogan / expression associée (obligatoire)
+Voir l’index historique ci-dessous — à absorber dans de nouveaux chantiers au fil de l’eau.
 
-Chaque idée porte une **formule courte** : slogan candidat, expression courante, proverbe, ou phrase qui circule déjà (même un peu stupide ou toxique, si c'est le matériau à penser).
+| Idée | Slogan | Lien |
+|------|--------|------|
+| Outil de démocratie | « Penser ensemble, agir ensemble » | [ouvrir](2026-07-23-un-outil-de-democratie.md) |
+| IA + interface | « IA intégrée, pas collée. » | [ouvrir](2026-07-24-ia-interface-matiere-premiere.md) |
+| Science incrémentale | « Moins de papiers, plus de pages vivantes. » | [ouvrir](2026-07-24-science-incremental-wikipedia.md) |
+| Slogans = porte, pas maison | « Les slogans sont une porte, pas la maison » | [ouvrir](2026-07-24-slogans-porte-pas-maison.md) |
+| Fiche slogan à 7 niveaux | « Travailler plus pour gagner plus » | [ouvrir](2026-07-24-fiche-slogan-sept-niveaux.md) |
+| MVP atlas curaté | « Lis ça, ça déplie enfin cette phrase » | [ouvrir](2026-07-24-mvp-atlas-curate.md) |
+| Noyau d'axiomes-slogans | « Penser par formules, sans être pensé par elles. » | [ouvrir](2026-07-24-noyau-axiomes-de-slogans.md) |
 
-Exemples de *genre* : « Travailler plus pour gagner plus », « Le travail rend libre », « Small is beautiful », « Savoir à qui parler ».
-
-Ce n'est **pas** un axiome du [`../slogans/noyau/`](../slogans/noyau/) ni un slogan distillé adopté : c'est une accroche / hypothèse de travail. Voir [`../decisions/0003-slogans-brique-et-accroche-des-idees.md`](../decisions/0003-slogans-brique-et-accroche-des-idees.md).
-
-## Index actif — vision produit
-
-| Idée | Slogan / expression | Prochaine étape | Lien |
-|------|---------------------|-----------------|------|
-| Structure par chantiers | « Fermer des boucles, pas ouvrir des dossiers. » | débattre / décider | [ouvrir](2026-07-25-structure-par-chantiers.md) · [synthèse](../syntheses/2026-07-25-critique-structure-du-cerveau.md) |
-| Outil de démocratie | « Penser ensemble, agir ensemble » | débattre | [ouvrir](2026-07-23-un-outil-de-democratie.md) |
-| IA + interface (matière première) | « IA intégrée, pas collée. » | débattre | [ouvrir](2026-07-24-ia-interface-matiere-premiere.md) |
-| Chercher des solutions simples | « Dsl, j'ai pas eu le temps de faire simple. » | distiller / noyau | [ouvrir](2026-07-24-chercher-solutions-simples.md) |
-| Science incrémentale (wiki scientifique) | « Moins de papiers, plus de pages vivantes. » | préciser / débattre | [ouvrir](2026-07-24-science-incremental-wikipedia.md) |
-| Slogans = porte, pas maison | « Les slogans sont une porte, pas la maison » | décider (0003) | [ouvrir](2026-07-24-slogans-porte-pas-maison.md) |
-| Atlas critique des slogans | « Machine à ralentir les slogans sans les tuer » | débattre (déjà ouvert) | [ouvrir](2026-07-24-atlas-critique-des-slogans.md) |
-| Fiche slogan à 7 niveaux | « Travailler plus pour gagner plus » | préciser / MVP | [ouvrir](2026-07-24-fiche-slogan-sept-niveaux.md) |
-| MVP atlas curaté | « Lis ça, ça déplie enfin cette phrase » | décider porte d'entrée | [ouvrir](2026-07-24-mvp-atlas-curate.md) |
-| Noyau d'axiomes-slogans | « Penser par formules, sans être pensé par elles. » | débattre | [ouvrir](2026-07-24-noyau-axiomes-de-slogans.md) |
-
-## Archivées (hors focus produit immédiat)
-
-Satellites (plaisir / jeu / gouvernance / miroirs…) → [`../archive/idees/`](../archive/idees/).
+Archivées → [`../archive/idees/`](../archive/idees/).

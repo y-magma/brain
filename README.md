@@ -1,50 +1,46 @@
 # brain
 
-**Un atelier collaboratif humain + IA pour penser, confronter et faire émerger des idées — ensemble.**
+![Cerveau empêcheur de tourner en rond](assets/illustrations/brain-empecheur.jpg)
 
-`brain` n'est pas (encore) un logiciel. C'est un espace de travail sur GitHub, à la manière d'un « wiki-LLM », où l'on brainstorme et où l'on avance concrètement sur des idées **toujours en mouvement**. On y explore la forme — **encore inconnue** — que pourrait prendre une machine à penser / un outil de démocratie. Les slogans et expressions courtes y jouent un **grand rôle** (accroche de chaque idée, matériau, distillation), sans définir à eux seuls le projet.
+**Atelier humain + IA pour penser ensemble — sérieux comme un jeu.**
+
+Pas (encore) un logiciel. Un wiki-LLM vivant où l’on invente la forme d’une machine à penser / d’un outil de démocratie.  
+Slogans = brique majeure. Ton = **empêcheur de tourner en rond** — titiller, pas cliquer.
+
+## Envie de commencer ?
+
+1. **La Carte** → [`CARTE.md`](CARTE.md) (vue humaine d’un coup d’œil)
+2. **Un chantier** → [`chantiers/`](chantiers/) (un sujet = un lieu)
+3. **Le ton** → [`workflow/ton.md`](workflow/ton.md) (apprendre en s’amusant)
 
 ## Pourquoi
 
-- Sortir des slogans creux et du populisme, sans renoncer aux **idées fortes et mémorables**.
-- Retrouver le goût de **discuter avec un point de vue opposé**.
-- Cartographier honnêtement les **convergences** et les **divergences**, plutôt que de désigner un gagnant.
-- Servir autant celles et ceux qui **créent** du contenu (une minorité) que celles et ceux qui veulent **s'informer et réfléchir**.
+- Idées fortes, pas slogans creux — ni pute à clic.
+- Goût du désaccord fécond (steelman obligatoire).
+- Cartographier convergences / divergences, pas crowner un gagnant.
+- Pour celles et ceux qui **créent** *et* celles et ceux qui veulent **s’informer**.
 
-Voir la vision complète dans [`vision/manifeste.md`](vision/manifeste.md).
+Manifeste → [`vision/manifeste.md`](vision/manifeste.md).
 
-## Comment ça marche (en bref)
+## Comment ça marche
 
-Le dépôt est un cycle vivant. Chaque étape est un dossier, chaque contribution est un fichier Markdown versionné par Git (la mémoire du mouvement des idées) :
+**Par chantiers** (décision [0005](decisions/0005-structure-par-chantiers.md)) :
 
-1. **Idées** → [`idees/`](idees/) : on dépose une graine (problème, intuition, proposition) **avec un slogan / expression associée**.
-2. **Points de vue** → [`points-de-vue/`](points-de-vue/) : on confronte, avec l'obligation de défendre honnêtement (*steelman*) la position adverse.
-3. **Synthèses** → [`syntheses/`](syntheses/) : l'IA cartographie convergences, divergences et angles morts, à plusieurs échelles.
-4. **Slogans** → [`slogans/`](slogans/) : on distille les consensus en idées fortes, avec le raisonnement derrière.
-5. **Décisions** → [`decisions/`](decisions/) : on consigne les choix structurants (format ADR léger).
+| Fichier | Job |
+|---------|-----|
+| `seed.md` | Graine + slogan |
+| `debate.md` | Steelman pour / contre |
+| `map.md` | Carte — pas de map = boucle ouverte |
+| `formula.md` | Formule + raisonnement |
 
-Le processus complet est décrit dans [`workflow/processus.md`](workflow/processus.md) et les rôles (humains + IA) dans [`workflow/roles.md`](workflow/roles.md).
+Décisions transverses → [`decisions/`](decisions/).  
+Noyau d’axiomes → [`slogans/noyau/`](slogans/noyau/).  
+Règles IA → [`AGENTS.md`](AGENTS.md).
 
-## Comment contribuer
+## Contribuer
 
-- Toute contribution passe par une **Pull Request** (humaine ou proposée par l'IA), relue par au moins un humain.
-- Copie le gabarit `_gabarit-*.md` du dossier concerné, remplis-le, ouvre une PR.
-- Les règles de collaboration avec l'IA sont dans [`AGENTS.md`](AGENTS.md).
-
-## Structure du dépôt
-
-```
-vision/        # Le pourquoi : manifeste, valeurs, glossaire commun
-idees/         # Les graines d'idées
-points-de-vue/ # Les débats structurés (thèse, pour, contre, nuances)
-syntheses/     # Les cartes convergence/divergence produites avec l'IA
-slogans/       # Les idées fortes distillées (+ noyau/ d'axiomes)
-decisions/     # Le journal des décisions structurantes (ADR light)
-archive/       # Hors circuit actif, sans effacer
-workflow/      # Le processus et les rôles
-AGENTS.md      # Les règles de collaboration avec l'IA
-```
+PR relue par un humain. Copie la structure d’un chantier pilote. Reste fun, reste honnête.
 
 ## Statut
 
-Projet exploratoire, mené par y-magma et Vincent. Rien n'est figé : la forme de l'outil est elle-même une des questions ouvertes du dépôt.
+Exploratoire — y-magma & Vincent. Rien n’est statue.

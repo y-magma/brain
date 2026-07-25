@@ -19,9 +19,10 @@ Le projet démarre. Il faut fixer quelques conventions minimales pour collaborer
 ## Décision
 
 - **Langue de travail : le français** par défaut (option 1), avec traduction ponctuelle si un contenu gagne à être partagé plus largement.
-- **Méthode : le cycle en cinq temps** (idées → points de vue → synthèses → slogans → décisions), toute contribution passant par une **Pull Request** relue par au moins un humain.
+- **Méthode : le cycle en cinq temps** était l’organisation initiale ; **remplacée pour l’organisation du dépôt** par les **chantiers** ([`0005`](0005-structure-par-chantiers.md)). La discipline steelman → carte → formule → décision **reste**.
 
-> Tranché le 2026-07-24 : le collectif travaille déjà entièrement en français ; maintenir « proposée » n'apportait plus rien.
+> Tranché le 2026-07-24 : le collectif travaille déjà entièrement en français ; maintenir « proposée » n'apportait plus rien.  
+> **2026-07-25** : organisation physique du dépôt → 0005 (chantiers).
 
 ## Conséquences
 

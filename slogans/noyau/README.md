@@ -1,7 +1,7 @@
 # Noyau — axiomes-slogans du collectif
 
 > Le **plus petit ensemble** de formules auxquelles `brain` consent explicitement, pour s'orienter.  
-> Ce n'est **pas** l'atlas des slogans du monde (voir [`../../idees/2026-07-24-atlas-critique-des-slogans.md`](../../idees/2026-07-24-atlas-critique-des-slogans.md)).  
+> Ce n'est **pas** l'atlas des slogans du monde (voir [`../../chantiers/atlas-slogans/`](../../chantiers/atlas-slogans/)).  
 > Ce n'est **pas** non plus un mur de punchlines : chaque entrée est un slogan **adopté**, dézippable, versionné.
 
 ## Statuts
@@ -12,31 +12,22 @@
 | `adopté` | Accepté par PR humaine ; apparaît sur la Carte |
 | `retiré` | Quitte le noyau → plutôt [`../../archive/slogans/`](../../archive/slogans/) avec motif |
 
-## Multi-échelle et multi-granularité
-
-Chaque axiome devrait pouvoir se lire :
-
-- à plusieurs **échelles** (individu / communauté / société / humanité) — reformulations ou commentaires, pas forcément quatre slogans distincts ;
-- à plusieurs **granularités** : formule → raisonnement court → liens vers débat / synthèse / fiche atlas.
-
 ## Index du noyau
 
 _Aucun axiome adopté pour l'instant._
 
-Candidats en discussion :
-
 | Formule | Statut | Lien |
 |---------|--------|------|
 | « Dsl, j'ai pas eu le temps de faire simple. » | candidat | [`dsl-pas-eu-le-temps-de-faire-simple.md`](dsl-pas-eu-le-temps-de-faire-simple.md) |
+| « Empêcheur de tourner en rond — titiller, pas cliquer. » | candidat | [`empecheur-de-tourner-en-rond.md`](empecheur-de-tourner-en-rond.md) |
 | « Penser par formules, sans être pensé par elles. » | candidat (idée) | [`../../idees/2026-07-24-noyau-axiomes-de-slogans.md`](../../idees/2026-07-24-noyau-axiomes-de-slogans.md) |
-| « Une machine à ralentir les slogans sans les tuer. » | candidat (idée atlas) | [`../../idees/2026-07-24-atlas-critique-des-slogans.md`](../../idees/2026-07-24-atlas-critique-des-slogans.md) |
-| « Les slogans sont une porte, pas la maison. » | candidat (idée cadrage) | [`../../idees/2026-07-24-slogans-porte-pas-maison.md`](../../idees/2026-07-24-slogans-porte-pas-maison.md) |
+| « Machine à ralentir les slogans sans les tuer. » | candidat | [`../../chantiers/atlas-slogans/formula.md`](../../chantiers/atlas-slogans/formula.md) |
+| « Les slogans sont une porte, pas la maison. » | candidat | [`../../idees/2026-07-24-slogans-porte-pas-maison.md`](../../idees/2026-07-24-slogans-porte-pas-maison.md) |
 
 ## Comment ajouter
 
-1. Copier [`../_gabarit-slogan.md`](../_gabarit-slogan.md).
-2. Renseigner **Rôle** : `noyau` et **Statut** : `candidat`.
-3. Déposer le fichier ici (`slogans/noyau/…`), lier idée / débat / synthèse.
-4. PR : un humain valide le passage à `adopté`.
+1. Copier [`../_gabarit-slogan.md`](../_gabarit-slogan.md) · rôle `noyau` · statut `candidat`.
+2. Lier le chantier (`formula.md`).
+3. PR humaine pour passer à `adopté`.
 
-Voir le débat [`../../points-de-vue/2026-07-24-noyau-minimal-vs-catalogue.md`](../../points-de-vue/2026-07-24-noyau-minimal-vs-catalogue.md) et la décision [`../../decisions/0002-archivage-vues-et-noyau-slogans.md`](../../decisions/0002-archivage-vues-et-noyau-slogans.md).
+Voir [`../../points-de-vue/2026-07-24-noyau-minimal-vs-catalogue.md`](../../points-de-vue/2026-07-24-noyau-minimal-vs-catalogue.md) · [0002](../../decisions/0002-archivage-vues-et-noyau-slogans.md).

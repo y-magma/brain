@@ -18,7 +18,9 @@ Les décisions **adoptées** restent ici (visibles) — on n'archive que celles 
 
 | # | Décision | Statut | Lien |
 |---|----------|--------|------|
-| 0001 | Langue (français) et méthode (cycle en 5 temps) | **adoptée** | [ouvrir](0001-langue-et-methode-de-travail.md) |
-| 0002 | Archivage, vues par étape, noyau de slogans | **adoptée** | [ouvrir](0002-archivage-vues-et-noyau-slogans.md) |
-| 0003 | Slogans = brique majeure ; accroche obligatoire des idées | **proposée** | [ouvrir](0003-slogans-brique-et-accroche-des-idees.md) |
+| 0001 | Langue (français) ; méthode organisationnelle → voir 0005 | **adoptée** | [ouvrir](0001-langue-et-methode-de-travail.md) |
+| 0002 | Archivage, vues, noyau de slogans | **adoptée** | [ouvrir](0002-archivage-vues-et-noyau-slogans.md) |
+| 0003 | Slogans = brique majeure ; accroche obligatoire | **proposée** | [ouvrir](0003-slogans-brique-et-accroche-des-idees.md) |
 | 0004 | Peu de verbalisation (slogan d'abord) | **proposée** | [ouvrir](0004-peu-de-verbalisation.md) |
+| 0005 | Structure par **chantiers** | **adoptée** | [ouvrir](0005-structure-par-chantiers.md) |
+| 0006 | Ton fun, tranchant, anti-pute-à-clic | **adoptée** | [ouvrir](0006-ton-fun-anti-clickbait.md) |
