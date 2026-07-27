@@ -1,8 +1,8 @@
-# Chantier : banc d’essai des débats
+# Chantier : banc d’essai — exemples de questions
 
 - **Statut** : actif
-- **Slogan** : « Avant l’outil, des débats cobayes. »
-- **Rôle** : spécimens que Magma pourra un jour **afficher / steeler / juger** — sans prétendre trancher la vérité.
+- **Slogan** : « Des questions qui font débat — pas des outils. »
+- **Rôle** : **exemples** de questions à steeler / juger ; **adaptables** à différents outils Magma.
 
 | Page | Lien |
 |------|------|
@@ -10,18 +10,15 @@
 | Débat | [`debate.md`](debate.md) |
 | Carte | [`map.md`](map.md) |
 | Formule | [`formula.md`](formula.md) |
-| **Cas (exemples)** | [`cas/`](cas/) |
-| Gabarit d’un cas | [`cas/_gabarit-cas.md`](cas/_gabarit-cas.md) |
+| **Exemples** | [`cas/`](cas/) |
+| Gabarit | [`cas/_gabarit-cas.md`](cas/_gabarit-cas.md) |
 
-## Comment ça s’emboîte
+## Emboîtement
 
 ```
-banc-essai-debats/          ← ce chantier (la règle du jeu)
-  cas/
-    supprimer-le-patrimoine/  ← un débat-test
-    (d’autres cas…)
+Idées / slogans     →  chantiers/
+Outils Magma        →  outils/          (ex. Weco)
+Exemples questions  →  banc-essai/.../cas/  (ex. patrimoine)
 ```
 
-Chaque cas a les mêmes briques : question · camps steelman · ce que Magma **juge** · notes.
-
-**Instances sœurs** : un cas peut pointer un autre repo de l’orga (ex. [Weco](cas/weco/) + Pages [`/weco/…`](https://y-magma.github.io/weco/)).
+Weco n’est **plus** ici — voir [`../../outils/weco/`](../../outils/weco/).

@@ -6,12 +6,13 @@
 
 ## La tension
 
-**Magma** = outil *pour tous*, entrée plutôt **plate** (hypothèse produit).  
-**Brain** = atelier dense qui **liste** les idées et s’organise peu à peu — **exemple** de brainstorming, pas le miroir Magma.
+**Magma** = famille d’outils (*pour tous*).  
+**Brain** = atelier d’idées (pas le miroir produit).  
+**Weco** = *un* outil Magma (viz) — voir [`../../outils/weco/`](../../outils/weco/).
 
-Pistes Magma (non exclusives, *matériau* Brain) : phrases courtes · wiki · spectacle · miroir · science · fiction · viz (ex. Weco)…
+Pistes Brain (matériau) : phrases · wiki · spectacle · fiction · atlas… → **prélévées** par des outils différents.
 
-Slogans = **brique**, pas la maison. Beaucoup d’idées ici ≠ tout livrer dans Magma.
+Slogans = brique. Beaucoup d’idées ici ≠ tout dans un seul outil.
 
 
 ## Faits / valeurs / hypothèses
