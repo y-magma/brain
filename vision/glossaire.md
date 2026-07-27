@@ -12,4 +12,5 @@
 - **Archive** — Hors circuit, pas effacé ([`../archive/graines/`](../archive/graines/)).
 - **Faits / valeurs / hypothèses** — Trois natures d’énoncés à séparer.
 - **Fiction absurde** — Nouvelle / film décalé (SF, humour) pour poser une vraie question sans agresser ; porte artistique Magma ([`../chantiers/fiction-absurde/`](../chantiers/fiction-absurde/), [Vichnu](https://vichnu-production.fr/)).
+- **Banc d’essai** — Débats cobayes pour prototyper ce que Magma juge ([`../chantiers/banc-essai-debats/`](../chantiers/banc-essai-debats/)).
 - **En clair** — Mode d’emploi du Brain : [`../workflow/en-clair.md`](../workflow/en-clair.md).

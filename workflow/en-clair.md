@@ -15,6 +15,12 @@ Il **aide** à : poser des questions, confronter sans se mentir, cartographier, 
 Sans Brain : idées dans des chats qui disparaissent.  
 Avec Brain : une idée a un *lieu*, un *historique*, une *suite*.
 
+### Banc d’essai (débats cobayes)
+
+Pour tester ce que Magma **jugera** un jour :  
+→ [`../chantiers/banc-essai-debats/`](../chantiers/banc-essai-debats/)  
+Exemple : [`../chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/`](../chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/) — « Faut-il supprimer le patrimoine ? »
+
 ---
 
 ## Workflow d’une idée (le seul qu’il faut retenir)
@@ -65,7 +71,8 @@ Quand c’est en pause → `archive/graines/`.
 3. **Frein anti-dogme** — tout est rouuvrable ([questions sans dogme](../chantiers/questions-sans-dogme/)).  
 4. **Accélérateur de clarté** — slogan d’abord ; profondeur par liens.  
 5. **Mémoire** — Git = on voit le mouvement des idées.  
-6. **Pont vers l’art** — la fiction absurde peut *activer* autrement que le débat front ([fiction absurde](../chantiers/fiction-absurde/)).
+6. **Pont vers l’art** — la fiction absurde peut *activer* autrement que le débat front ([fiction absurde](../chantiers/fiction-absurde/)).  
+7. **Banc d’essai** — débats cobayes pour prototyper le jugement Magma ([banc d’essai](../chantiers/banc-essai-debats/)).
 
 ---
 

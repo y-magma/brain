@@ -19,6 +19,7 @@ Mode d’emploi humain : [`../workflow/en-clair.md`](../workflow/en-clair.md).
 
 | Chantier | Slogan |
 |----------|--------|
+| [banc-essai-debats](banc-essai-debats/) | Avant l’outil, des débats cobayes |
 | [une-porte-pas-tout](une-porte-pas-tout/) | Ne révolutionne pas… — déplie une phrase |
 | [fiction-absurde](fiction-absurde/) | L’absurde désarme — puis la question reste |
 | [questions-sans-dogme](questions-sans-dogme/) | Se poser toutes les questions — surtout celles qu’on refuse |

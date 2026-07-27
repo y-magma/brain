@@ -7,6 +7,8 @@
 
 - **Chantiers**
   - [Index](/chantiers/README.md)
+  - [Banc d’essai débats](/chantiers/banc-essai-debats/)
+  - [Cas : patrimoine](/chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/)
   - [Une porte, pas tout](/chantiers/une-porte-pas-tout/)
   - [Fiction absurde](/chantiers/fiction-absurde/)
   - [Questions sans dogme](/chantiers/questions-sans-dogme/)

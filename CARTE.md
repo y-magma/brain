@@ -15,15 +15,16 @@ Maj : **2026-07-27**
 ## Comment avancer
 
 1. Lire [`en-clair`](workflow/en-clair.md) (workflow + rôle du Brain).
-2. Choisir **une porte** V0 — voir [`une-porte-pas-tout`](chantiers/une-porte-pas-tout/).
-3. Brancher l’art : [`fiction-absurde`](chantiers/fiction-absurde/) ↔ atlas / spectacle.
-4. Écrire la map manquante d’[`atlas-slogans`](chantiers/atlas-slogans/).
+2. Jouer un **débat cobaye** : [`banc-essai-debats`](chantiers/banc-essai-debats/) — ex. [patrimoine](chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/).
+3. Choisir **une porte** V0 — voir [`une-porte-pas-tout`](chantiers/une-porte-pas-tout/).
+4. Brancher l’art : [`fiction-absurde`](chantiers/fiction-absurde/) ↔ atlas / spectacle.
 
 ## Chantiers
 
 | Chantier | Slogan |
 |----------|--------|
 | [**en clair** = workflow](workflow/en-clair.md) | *(mode d’emploi)* |
+| [banc-essai-debats](chantiers/banc-essai-debats/) | Avant l’outil, des débats cobayes |
 | [une-porte-pas-tout](chantiers/une-porte-pas-tout/) | Ne révolutionne pas… — déplie une phrase |
 | [fiction-absurde](chantiers/fiction-absurde/) | L’absurde désarme — puis la question reste |
 | [questions-sans-dogme](chantiers/questions-sans-dogme/) | Se poser toutes les questions… |
