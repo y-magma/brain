@@ -14,20 +14,22 @@ Maj : **2026-07-27**
 ## Comment avancer
 
 1. Lire [`en-clair`](workflow/en-clair.md).
-2. Cadrer [`magma-plusieurs-outils`](chantiers/magma-plusieurs-outils/).
-3. Catalogue [`outils/`](outils/) — [Weco](outils/weco/).
-4. Exemples questions : [patrimoine](chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/).
+2. Lire le **paysage** : [`analyse des outils existants`](chantiers/paysage-outils-existants/analyse.md).
+3. Cadrer [`magma-plusieurs-outils`](chantiers/magma-plusieurs-outils/).
+4. Catalogue [`outils/`](outils/) — [Weco](outils/weco/).
+5. Exemples questions : [patrimoine](chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/).
 
 ## Outils Magma
 
 | Outil | Catalyse | Lien |
 |-------|----------|------|
-| Weco | Graphehes / inégalités | [`outils/weco/`](outils/weco/) |
+| Weco | Graphes / inégalités | [`outils/weco/`](outils/weco/) |
 
 ## Chantiers (idées)
 
 | Chantier | Slogan |
 |----------|--------|
+| [paysage-outils-existants](chantiers/paysage-outils-existants/) | Avant d’inventer, cartographier ce qui existe |
 | [magma-plusieurs-outils](chantiers/magma-plusieurs-outils/) | Pas un outil — une famille d’outils |
 | [banc-essai-debats](chantiers/banc-essai-debats/) | Des questions qui font débat — pas des outils |
 | [une-porte-pas-tout](chantiers/une-porte-pas-tout/) | Déplie une phrase |
