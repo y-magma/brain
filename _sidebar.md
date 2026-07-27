@@ -3,9 +3,12 @@
 - **Accueil**
   - [La Carte](/CARTE.md)
   - [Présentation](/README.md)
+  - [**En clair** (workflow)](/workflow/en-clair.md)
 
 - **Chantiers**
   - [Index](/chantiers/README.md)
+  - [Une porte, pas tout](/chantiers/une-porte-pas-tout/)
+  - [Fiction absurde](/chantiers/fiction-absurde/)
   - [Questions sans dogme](/chantiers/questions-sans-dogme/)
   - [Machine à penser](/chantiers/machine-a-penser/)
   - [Structure](/chantiers/structure-cerveau/)
@@ -25,6 +28,8 @@
   - [Index](/slogans/noyau/README.md)
   - [Dsl, faire simple](/slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md)
   - [Empêcheur](/slogans/noyau/empecheur-de-tourner-en-rond.md)
+  - [Toutes les questions](/slogans/noyau/se-poser-toutes-les-questions.md)
+  - [Absurde désarme](/slogans/noyau/absurde-desarme.md)
 
 - **Décisions**
   - [Index](/decisions/README.md)
@@ -37,6 +42,7 @@
   - [Graines en pause](/archive/graines/)
 
 - **Collaborer**
+  - [En clair](/workflow/en-clair.md)
   - [Processus](/workflow/processus.md)
   - [Ton](/workflow/ton.md)
   - [Rôles](/workflow/roles.md)

@@ -6,6 +6,8 @@
 
 ## Anatomie
 
+Mode d’emploi humain : [`../workflow/en-clair.md`](../workflow/en-clair.md).
+
 | Fichier | Job |
 |---------|-----|
 | `seed.md` | Pourquoi + slogan |
@@ -17,6 +19,8 @@
 
 | Chantier | Slogan |
 |----------|--------|
+| [une-porte-pas-tout](une-porte-pas-tout/) | Ne révolutionne pas… — déplie une phrase |
+| [fiction-absurde](fiction-absurde/) | L’absurde désarme — puis la question reste |
 | [questions-sans-dogme](questions-sans-dogme/) | Se poser toutes les questions — surtout celles qu’on refuse |
 | [machine-a-penser](machine-a-penser/) | Penser ensemble, agir ensemble |
 | [structure-cerveau](structure-cerveau/) | Fermer des boucles, pas ouvrir des dossiers |
