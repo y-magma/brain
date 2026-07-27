@@ -1,4 +1,6 @@
-# Processus — Brain de Magma
+# Processus
+
+> **Version humaine** → [`en-clair.md`](en-clair.md) (commence là).
 
 ```
 chantiers/<sujet>/
@@ -7,13 +9,13 @@ chantiers/<sujet>/
      └──── rouvrir ◀─────┘
 ```
 
-Transverse : `decisions/` · `slogans/noyau/` · `vision/` · `archive/graines/`.
+| Étape | Fichier | Job |
+|-------|---------|-----|
+| 1 | `seed.md` | Idée + slogan |
+| 2 | `debate.md` | Steelman pour / contre |
+| 3 | `map.md` | Accords / désaccords / trous |
+| 4 | `formula.md` | Formule gardée |
+| 5 | `decisions/` | Trancher (humains) |
+| 6 | `archive/` | Pause sans effacer |
 
-1. **Seed** — slogan obligatoire. Ton : [`ton.md`](ton.md).
-2. **Debate** — steelman des camps.
-3. **Map** — convergences / divergences / angles morts. Absente = trou visible.
-4. **Formula** — formule + raisonnement ; candidat noyau si besoin.
-5. **Décision** — ADR ; humains tranchent.
-6. **Archive** — déplacer, ne pas effacer.
-
-PR toujours. **On peut tout casser** si la PR l’assume ([0001](../decisions/0001-conventions-brain-magma.md)).
+PR toujours. Tout casser OK si la PR l’assume ([0001](../decisions/0001-conventions-brain-magma.md)).

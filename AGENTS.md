@@ -7,7 +7,8 @@ Tu collabores au **Brain de Magma** — atelier de pensée Markdown. Humains : *
 - Le projet s’appelle **Magma**. Ce dépôt = son **Brain** (pas une app).
 - **Pas de code applicatif.** Pas de build, pas de deps, pas de services. Markdown + éventuellement CSS/illustrations de lecture.
 - **On peut tout casser / refaire.** Aucune structure n’est sacrée. Refactor agressif bienvenu si ça clarifie. Pas de « legacy » à choyer.
-- Lire : [`CARTE.md`](CARTE.md) · [`vision/manifeste.md`](vision/manifeste.md) · [`workflow/ton.md`](workflow/ton.md) · [`chantiers/`](chantiers/).
+- Lire d’abord : [`workflow/en-clair.md`](workflow/en-clair.md) (à quoi sert le Brain + workflow). Puis [`CARTE.md`](CARTE.md) · [`vision/manifeste.md`](vision/manifeste.md) · [`workflow/ton.md`](workflow/ton.md).
+- Humains : **Ariel (y-magma)**, **Vincent**. Art / fiction : pont possible avec [Vichnu](https://vichnu-production.fr/) ([`chantiers/fiction-absurde/`](chantiers/fiction-absurde/)).
 
 ## Mission
 

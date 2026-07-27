@@ -2,33 +2,25 @@
 
 ![Empêcheur de tourner en rond](assets/illustrations/brain-empecheur.jpg)
 
-**Magma** invente une machine à penser / un outil de démocratie.  
-**Ce dépôt est le Brain de Magma** — atelier humain + IA, en Markdown. Pas une app. On peut tout casser.
+**Magma** = le projet (machine à penser / démocratie).  
+**Brain** = *ce* dépôt : l’atelier où on pense Magma. Pas une app.
 
-> *Une civilisation se définit aussi par les questions qu’elle ne pose pas.*  
-> — André Malraux (attribution usuelle)  
-> → Ici on veut pouvoir **se poser toutes les questions**, sans dogme.
+## Perdu ? Lis ça d’abord
 
-## Envie de commencer ?
+→ **[`workflow/en-clair.md`](workflow/en-clair.md)** — à quoi sert le Brain + workflow d’une idée en 5 cases.
 
-1. [`CARTE.md`](CARTE.md) — vue d’un coup d’œil  
+## Envie de plonger
+
+1. [`CARTE.md`](CARTE.md) — coup d’œil  
 2. [`chantiers/`](chantiers/) — un sujet = un lieu  
-3. [`chantiers/questions-sans-dogme/`](chantiers/questions-sans-dogme/) — le nerf  
-4. [`workflow/ton.md`](workflow/ton.md) — fun, tranchant, anti-clic
+3. [`chantiers/fiction-absurde/`](chantiers/fiction-absurde/) — l’art comme porte (voie Vichnu)  
+4. [`chantiers/une-porte-pas-tout/`](chantiers/une-porte-pas-tout/) — ne pas tout révolutionner d’un coup  
 
-## Pourquoi
+## Le workflow (ultra court)
 
-- Idées fortes, pas slogans creux ni pute à clic.
-- Désaccord fécond (steelman).
-- Cartographier, pas crowner.
-- Apprendre en s’amusant.
-
-## Comment
-
-Chantiers : `seed` → `debate` → `map` → `formula`.  
-Décisions : [`decisions/`](decisions/). Noyau : [`slogans/noyau/`](slogans/noyau/).  
-Règles IA : [`AGENTS.md`](AGENTS.md).
+`seed` → `debate` → `map` → `formula`  
+(détail dans [`en-clair`](workflow/en-clair.md))
 
 ## Statut
 
-Exploratoire — y-magma & Vincent. Rien n’est statue.
+Exploratoire — Ariel (y-magma) & Vincent. Rien n’est statue. On peut tout casser.

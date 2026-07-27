@@ -21,8 +21,10 @@ Surtout : une **machine à penser** capable de **se poser perpétuellement des q
 - **Peu de verbalisation.**
 - **Questions sans dogme.**
 - **Apprendre en s’amusant** — titiller, pas cliquer.
+- **Art / fiction absurde** comme porte : désarmer sans moraliser, puis laisser la question (voie [Vichnu](https://vichnu-production.fr/) — voir [`../chantiers/fiction-absurde/`](../chantiers/fiction-absurde/)).
 - Désaccord fécond ; sortir du populisme.
 - Multi-échelle. Mouvement, pas statue.
+- **Une porte crédible** avant de sauver le débat public ([`../chantiers/une-porte-pas-tout/`](../chantiers/une-porte-pas-tout/)).
 
 ## Principes
 

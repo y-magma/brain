@@ -11,3 +11,5 @@
 - **Questions sans dogme** — Tout questionnable ; refus explicite seulement ([`../chantiers/questions-sans-dogme/`](../chantiers/questions-sans-dogme/)).
 - **Archive** — Hors circuit, pas effacé ([`../archive/graines/`](../archive/graines/)).
 - **Faits / valeurs / hypothèses** — Trois natures d’énoncés à séparer.
+- **Fiction absurde** — Nouvelle / film décalé (SF, humour) pour poser une vraie question sans agresser ; porte artistique Magma ([`../chantiers/fiction-absurde/`](../chantiers/fiction-absurde/), [Vichnu](https://vichnu-production.fr/)).
+- **En clair** — Mode d’emploi du Brain : [`../workflow/en-clair.md`](../workflow/en-clair.md).
