@@ -14,4 +14,8 @@
 - **Fiction absurde** — Porte artistique ([`../chantiers/fiction-absurde/`](../chantiers/fiction-absurde/), [Vichnu](https://vichnu-production.fr/)).
 - **Weco** — Outil Magma data/viz inégalités ([`../outils/weco/`](../outils/weco/)).
 - **Paysage outils existants** — Analyse Kialo, Pol.is, Wikipédia, Decidim, Stack Overflow… ([`../chantiers/paysage-outils-existants/analyse.md`](../chantiers/paysage-outils-existants/analyse.md)).
+- **Inbox** — Capture rapide d’étincelles ([`../inbox/`](../inbox/)) avant chantier / outil / cas.
+- **Nature** (tag) — `idée-brain` · `outil-magma` · `exemple-question` · `noyau` · `méta` — ne pas coller.
+- **Attention** (tag) — `essentiel` (≤ 5) · `actif` · `satellite` · `pause` · `brut`. Archive = `pause`.
+- **Tri** — Index de focus & tags : [`../TRI.md`](../TRI.md).
 - **En clair** — [`../workflow/en-clair.md`](../workflow/en-clair.md).

@@ -2,6 +2,9 @@
 
 - **Date** : 2026-07-27
 - **Par** : IA (réflexions demandées) · à relire humains
+- **Nature** : idée-brain
+- **Attention** : essentiel
+- **Tags** : simplicité
 - **Slogan** : « Ne révolutionne pas le débat public — déplie une phrase. »
 
 ## La tension

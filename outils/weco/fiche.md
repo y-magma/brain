@@ -1,6 +1,8 @@
 # Fiche — Weco
 
-- **Type** : outil Magma (produit data / viz)
+- **Nature** : outil-magma
+- **Attention** : essentiel *(proposition — voir [`../../TRI.md`](../../TRI.md))*
+- **Tags** : data, viz
 - **Slogan** : « Voir pour comparer — pas pour tout décider. »
 - **Repo** : [y-magma/weco](https://github.com/y-magma/weco)
 - **Pages** : [y-magma.github.io/weco](https://y-magma.github.io/weco/) (`baseURL` `/weco/`)

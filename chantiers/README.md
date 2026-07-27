@@ -7,11 +7,13 @@
 ## Anatomie
 
 Mode d’emploi : [`../workflow/en-clair.md`](../workflow/en-clair.md).  
-**Rappel :** ces dossiers = atelier Brain ; Magma vise une entrée plus plate *pour tous*.
+**Rappel :** ces dossiers = **idées Brain** (`idée-brain`) ; un **outil Magma** nommé va dans [`../outils/`](../outils/).  
+Focus / tags : [`../TRI.md`](../TRI.md). Étincelle avant chantier : [`../inbox/`](../inbox/).  
+Gabarit seed : [`_gabarit-seed.md`](_gabarit-seed.md).
 
 | Fichier | Job |
 |---------|-----|
-| `seed.md` | Pourquoi + slogan |
+| `seed.md` | Pourquoi + slogan (+ nature / attention) |
 | `debate.md` | Steelman |
 | `map.md` | Carte — **absente = boucle ouverte** |
 | `formula.md` | Formule + raisonnement |

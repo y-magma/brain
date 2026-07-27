@@ -1,6 +1,9 @@
 # Seed — Magma n’est pas une app unique
 
 - **Date** : 2026-07-27
+- **Nature** : idée-brain
+- **Attention** : essentiel
+- **Tags** : multi-outils
 - **Slogan** : « Pas un outil — une famille d’outils. »
 
 ## La tension

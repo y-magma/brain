@@ -5,11 +5,15 @@
 
 ## Trois couches (à ne pas mélanger)
 
-| Couche | Où | Rôle |
-|--------|-----|------|
-| **Idées / slogans / chantiers** | [`../chantiers/`](../chantiers/) | Brainstorm Brain — matériau large |
-| **Outils Magma** | **ici** (`outils/`) | Propositions / produits qui **catalysent une partie** des idées — pas toutes |
-| **Exemples de questions** | [`../chantiers/banc-essai-debats/cas/`](../chantiers/banc-essai-debats/cas/) | Débats cobayes, **adaptables** à différents outils |
+| Couche | Nature (tag) | Où | Rôle |
+|--------|--------------|-----|------|
+| **Idées / slogans / chantiers** | `idée-brain` | [`../chantiers/`](../chantiers/), [`../inbox/`](../inbox/) | Brainstorm Brain — matériau large |
+| **Outils Magma** | `outil-magma` | **ici** (`outils/`) | Produits **nommés** qui **catalysent une partie** des idées — pas toutes |
+| **Exemples de questions** | `exemple-question` | [`../chantiers/banc-essai-debats/cas/`](../chantiers/banc-essai-debats/cas/) | Débats cobayes, **adaptables** à différents outils |
+
+**Test :** une idée qui *parle* d’outils reste `idée-brain` tant qu’elle n’a pas de **nom de produit** + cas d’usage.  
+Étincelle possible outil → [`../inbox/`](../inbox/) avec nature `outil-magma`, puis fiche ici.  
+Focus : [`../TRI.md`](../TRI.md).
 
 Un outil (Weco) peut brancher *certains* exemples et *certaines* idées.  
 Un exemple (patrimoine) peut servir à *plusieurs* outils, adapté à chacun.

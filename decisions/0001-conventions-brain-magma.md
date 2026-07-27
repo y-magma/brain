@@ -16,12 +16,14 @@ Atelier Markdown pour inventer Magma. Pas de code applicatif ici. On peut **tout
 3. **Brain** : organisation par **chantiers** (`seed` / `debate` / `map` / `formula`) — atelier, pas UX outil.
 4. **Outils Magma** : catalogue [`../outils/`](../outils/) — chaque outil a un **nom** (ex. Weco) ; catalyse *une partie* des idées. On ne dit plus « instance ».
 5. **Exemples de questions** : [`../chantiers/banc-essai-debats/cas/`](../chantiers/banc-essai-debats/cas/) — distincts des outils ; adaptables.
-6. **Archive** : `archive/graines/`.
-7. **Pas de code applicatif** ici.
-8. **Tout casser** (Brain) via PR ; PR humaine obligatoire.
+6. **Archive** : `archive/graines/` (= attention `pause` dans [`../TRI.md`](../TRI.md)).
+7. **Inbox / tri** : capture [`../inbox/`](../inbox/) ; focus & tags [`../TRI.md`](../TRI.md) — détail [0005](0005-inbox-tri-tags.md).
+8. **Pas de code applicatif** ici.
+9. **Tout casser** (Brain) via PR ; PR humaine obligatoire.
 
 ## Conséquences
 
 - Trois couches lisibles : idées · outils · exemples.
+- Inbox + `TRI.md` pour capturer et focaliser (voir 0005).
 - Risque de re-fusionner Weco dans les « cas » — résisté dans en-clair.
 - À revisiter quand un 2ᵉ outil Magma apparaît.
