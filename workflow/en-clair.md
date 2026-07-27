@@ -19,7 +19,8 @@ Avec Brain : une idée a un *lieu*, un *historique*, une *suite*.
 
 Pour tester ce que Magma **jugera** un jour :  
 → [`../chantiers/banc-essai-debats/`](../chantiers/banc-essai-debats/)  
-Exemple : [`../chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/`](../chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/) — « Faut-il supprimer le patrimoine ? »
+Exemple : [`../chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/`](../chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/) — « Faut-il supprimer le patrimoine ? »  
+Autre instance : [`../chantiers/banc-essai-debats/cas/weco/`](../chantiers/banc-essai-debats/cas/weco/) — Weco ([Pages `/weco/`](https://y-magma.github.io/weco/), [repo](https://github.com/y-magma/weco)).
 
 ---
 

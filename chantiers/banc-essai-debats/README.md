@@ -23,3 +23,5 @@ banc-essai-debats/          ← ce chantier (la règle du jeu)
 ```
 
 Chaque cas a les mêmes briques : question · camps steelman · ce que Magma **juge** · notes.
+
+**Instances sœurs** : un cas peut pointer un autre repo de l’orga (ex. [Weco](cas/weco/) + Pages [`/weco/…`](https://y-magma.github.io/weco/)).
