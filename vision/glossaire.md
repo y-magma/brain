@@ -13,4 +13,5 @@
 - **Questions sans dogme** — Tout questionnable ([`../chantiers/questions-sans-dogme/`](../chantiers/questions-sans-dogme/)).
 - **Fiction absurde** — Porte artistique ([`../chantiers/fiction-absurde/`](../chantiers/fiction-absurde/), [Vichnu](https://vichnu-production.fr/)).
 - **Weco** — Outil Magma data/viz inégalités ([`../outils/weco/`](../outils/weco/)).
+- **Paysage outils existants** — Analyse Kialo, Pol.is, Wikipédia, Decidim, Stack Overflow… ([`../chantiers/paysage-outils-existants/analyse.md`](../chantiers/paysage-outils-existants/analyse.md)).
 - **En clair** — [`../workflow/en-clair.md`](../workflow/en-clair.md).

@@ -20,6 +20,7 @@ Mode d’emploi : [`../workflow/en-clair.md`](../workflow/en-clair.md).
 
 | Chantier | Slogan |
 |----------|--------|
+| [paysage-outils-existants](paysage-outils-existants/) | Avant d’inventer, cartographier ce qui existe |
 | [magma-plusieurs-outils](magma-plusieurs-outils/) | Pas un outil — une famille d’outils |
 | [banc-essai-debats](banc-essai-debats/) | Des questions qui font débat — pas des outils |
 | [une-porte-pas-tout](une-porte-pas-tout/) | Ne révolutionne pas… — déplie une phrase |

@@ -22,6 +22,11 @@ Un exemple (patrimoine) peut servir à *plusieurs* outils, adapté à chacun.
 
 Nouveau outil : copier [`_gabarit-outil.md`](_gabarit-outil.md).
 
+## Paysage (hors Magma)
+
+Ce qui existe déjà (Kialo, Pol.is, Wikipédia, Decidim, Stack Overflow…) :  
+→ [`../chantiers/paysage-outils-existants/analyse.md`](../chantiers/paysage-outils-existants/analyse.md)
+
 ## Voir aussi
 
 - Magma = plusieurs outils : [`../chantiers/magma-plusieurs-outils/`](../chantiers/magma-plusieurs-outils/)

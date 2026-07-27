@@ -49,6 +49,7 @@ IA : steele, cartographie, propose. **Ne décide pas** l’UX Magma.
 ## Où aller
 
 - Catalogue outils : [`../outils/`](../outils/) — dont [Weco](../outils/weco/)  
+- Paysage existant : [`../chantiers/paysage-outils-existants/analyse.md`](../chantiers/paysage-outils-existants/analyse.md)  
 - Exemples questions : [patrimoine](../chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/)  
 - Cadrage multi-outils : [`../chantiers/magma-plusieurs-outils/`](../chantiers/magma-plusieurs-outils/)  
 - Carte : [`../CARTE.md`](../CARTE.md)
