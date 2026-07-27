@@ -18,7 +18,7 @@ Slogans = **brique**, pas la maison. Beaucoup d’idées ici ≠ tout livrer dan
 
 - **Faits** : polarisation / populisme documentés (à sourcer).
 - **Valeurs** : pluralisme, désaccord fécond, questions sans dogme.
-- **Hypothèses** : un Brain wiki-LLM aide à inventer la forme.
+- **Hypothèses** : un Brain wiki-LLM aide à inventer la forme ; Magma grand public ≠ copie du Brain.
 
 ## Liens
 
