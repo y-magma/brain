@@ -11,17 +11,17 @@ Atelier Markdown pour inventer Magma. Pas de code applicatif ici. On peut **tout
 
 ## Décision
 
-1. **Nom** : le projet produit s’appelle **Magma** ; ce dépôt est le **Brain** (repo `brain` OK).
+1. **Nom** : **Magma** = projet / famille d’outils ; ce dépôt = **Brain** (repo `brain` OK).
 2. **Langue** : français par défaut.
-3. **Organisation du Brain** : **chantiers** (`seed` / `debate` / `map` / `formula`). Convention d’*atelier*, pas spécification UX Magma.
-4. **Magma ≠ Brain** : Magma vise le *pour tous* / structure plutôt **plate** ; le Brain peut rester exigeant et évolutif — **exemple** de brainstorming, pas le miroir du produit.
-5. **Archive** : `archive/graines/` hors circuit, sans effacer.
-6. **Pas de code applicatif** ici ; illustrations / CSS de lecture OK.
-7. **Tout casser** (côté Brain) : via PR ; pas de sacralisation.
-8. **PR humaine** : l’IA propose ; un humain fusionne.
+3. **Brain** : organisation par **chantiers** (`seed` / `debate` / `map` / `formula`) — atelier, pas UX outil.
+4. **Outils Magma** : catalogue [`../outils/`](../outils/) — chaque outil a un **nom** (ex. Weco) ; catalyse *une partie* des idées. On ne dit plus « instance ».
+5. **Exemples de questions** : [`../chantiers/banc-essai-debats/cas/`](../chantiers/banc-essai-debats/cas/) — distincts des outils ; adaptables.
+6. **Archive** : `archive/graines/`.
+7. **Pas de code applicatif** ici.
+8. **Tout casser** (Brain) via PR ; PR humaine obligatoire.
 
 ## Conséquences
 
-- Clarté atelier.
-- Risque de confusion Magma/Brain — à rappeler dans [`../workflow/en-clair.md`](../workflow/en-clair.md).
-- À revisiter si Magma produit sort dans un autre repo (probable).
+- Trois couches lisibles : idées · outils · exemples.
+- Risque de re-fusionner Weco dans les « cas » — résisté dans en-clair.
+- À revisiter quand un 2ᵉ outil Magma apparaît.
