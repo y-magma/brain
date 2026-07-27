@@ -4,10 +4,10 @@ Tu collabores au **Brain de Magma** — atelier de pensée Markdown. Humains : *
 
 ## Nature (lire ça en premier)
 
-- Le projet s’appelle **Magma**. Ce dépôt = son **Brain** (pas une app).
+- Le projet produit s’appelle **Magma** (*pour tous*, structure plutôt plate — forme ouverte). Ce dépôt = son **Brain** (atelier / exemple de brainstorming qui se structure — **≠** UX Magma).
 - **Pas de code applicatif.** Pas de build, pas de deps, pas de services. Markdown + éventuellement CSS/illustrations de lecture.
-- **On peut tout casser / refaire.** Aucune structure n’est sacrée. Refactor agressif bienvenu si ça clarifie. Pas de « legacy » à choyer.
-- Lire d’abord : [`workflow/en-clair.md`](workflow/en-clair.md) (à quoi sert le Brain + workflow). Puis [`CARTE.md`](CARTE.md) · [`vision/manifeste.md`](vision/manifeste.md) · [`workflow/ton.md`](workflow/ton.md).
+- **On peut tout casser / refaire** *le Brain*. Aucune structure d’atelier n’est sacrée. Ne pas projeter cette densité sur Magma.
+- Lire d’abord : [`workflow/en-clair.md`](workflow/en-clair.md). Puis [`CARTE.md`](CARTE.md) · [`vision/manifeste.md`](vision/manifeste.md) · [`workflow/ton.md`](workflow/ton.md).
 - Art / fiction : pont [Vichnu](https://vichnu-production.fr/) → [`chantiers/fiction-absurde/`](chantiers/fiction-absurde/).
 
 ## Mission

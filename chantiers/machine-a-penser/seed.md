@@ -6,12 +6,13 @@
 
 ## La tension
 
-**Magma** cherche un outil pour penser, agir, créer ensemble.  
-Ce dépôt = le **Brain** de Magma : atelier où la forme reste **ouverte**.
+**Magma** = outil *pour tous*, entrée plutôt **plate** (hypothèse produit).  
+**Brain** = atelier dense qui **liste** les idées et s’organise peu à peu — **exemple** de brainstorming, pas le miroir Magma.
 
-Pistes (non exclusives) : phrases courtes · wiki vivant · spectacle · miroir · science incrémentale · micro-communautés…
+Pistes Magma (non exclusives, *matériau* Brain) : phrases courtes · wiki · spectacle · miroir · science · fiction · viz (ex. Weco)…
 
-Slogans = **brique majeure**, pas la maison entière.
+Slogans = **brique**, pas la maison. Beaucoup d’idées ici ≠ tout livrer dans Magma.
+
 
 ## Faits / valeurs / hypothèses
 

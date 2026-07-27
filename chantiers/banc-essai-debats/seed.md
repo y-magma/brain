@@ -8,7 +8,8 @@
 On invente un outil qui doit **accueillir / déplier / éventuellement juger** des débats.  
 Sans cas concrets, on design dans le vide.
 
-Ce chantier = **terrain d’essai** : de vrais sujets (ex. « Faut-il supprimer le patrimoine ? »), structurés pour qu’un futur Magma puisse les lire et les scorer — sans dogme.
+Ce chantier = **terrain d’essai** : sujets structurés pour qu’un futur Magma (plutôt *plat*, pour tous) puisse les lire — sans importer toute l’arborescence du Brain dans l’app.
+
 
 ## Ce n’est pas
 

@@ -2,8 +2,8 @@
 
 ![Portes-chantiers](assets/illustrations/chantiers-portes.jpg)
 
-**Magma** = projet. **Brain** = atelier.  
-**Perdu ?** → [`workflow/en-clair.md`](workflow/en-clair.md)
+**Magma** = outil *pour tous* (plutôt plat). **Brain** = atelier / exemple de brainstorming (se structure).  
+**Ne pas confondre** les deux → [`workflow/en-clair.md`](workflow/en-clair.md)
 
 Ton : *titiller, pas cliquer.* · Nerf : *se poser toutes les questions.*  
 Art : *l’absurde désarme — puis la question reste.*

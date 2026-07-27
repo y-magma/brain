@@ -4,8 +4,11 @@
 
 ## Qui / quoi
 
-**Magma** veut un nouvel outil pour **penser, agir, créer ensemble**.  
-Ce dépôt est le **Brain** de Magma : atelier où l’on invente la forme — encore ouverte.
+**Magma** = outil *pour tous* : machine à penser / démocratie — intention d’une entrée **plutôt plate** (peu de structure à apprendre). Forme encore ouverte.  
+**Brain** = *ce* dépôt : atelier qui liste et confronte les idées sur Magma ; il se **structure progressivement** et sert d’**exemple** de brainstorming versionné.
+
+**Garde-fou :** ne pas prendre l’arborescence du Brain pour le design de Magma. Le Brain peut être dense ; Magma doit rester abordable.
+
 
 ## L’intuition
 

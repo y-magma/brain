@@ -6,7 +6,8 @@
 
 ## Anatomie
 
-Mode d’emploi humain : [`../workflow/en-clair.md`](../workflow/en-clair.md).
+Mode d’emploi : [`../workflow/en-clair.md`](../workflow/en-clair.md).  
+**Rappel :** ces dossiers = atelier Brain ; Magma vise une entrée plus plate *pour tous*.
 
 | Fichier | Job |
 |---------|-----|

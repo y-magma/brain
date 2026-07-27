@@ -11,16 +11,17 @@ Atelier Markdown pour inventer Magma. Pas de code applicatif ici. On peut **tout
 
 ## Décision
 
-1. **Nom** : le projet s’appelle **Magma** ; ce dépôt est le **Brain** de Magma (repo GitHub `brain` OK).
+1. **Nom** : le projet produit s’appelle **Magma** ; ce dépôt est le **Brain** (repo `brain` OK).
 2. **Langue** : français par défaut.
-3. **Organisation** : uniquement des **chantiers** (`seed` / `debate` / `map` / `formula`). Pas de dossiers « étapes » legacy.
-4. **Archive** : `archive/graines/` pour le hors-circuit, sans effacer.
-5. **Pas de code** : pas d’app à build ; illustrations / CSS de lecture OK.
-6. **Tout casser** : structure, ton, noyau — refonte autorisée via PR ; pas de sacralisation.
-7. **PR humaine** : l’IA propose ; un humain fusionne.
+3. **Organisation du Brain** : **chantiers** (`seed` / `debate` / `map` / `formula`). Convention d’*atelier*, pas spécification UX Magma.
+4. **Magma ≠ Brain** : Magma vise le *pour tous* / structure plutôt **plate** ; le Brain peut rester exigeant et évolutif — **exemple** de brainstorming, pas le miroir du produit.
+5. **Archive** : `archive/graines/` hors circuit, sans effacer.
+6. **Pas de code applicatif** ici ; illustrations / CSS de lecture OK.
+7. **Tout casser** (côté Brain) : via PR ; pas de sacralisation.
+8. **PR humaine** : l’IA propose ; un humain fusionne.
 
 ## Conséquences
 
-- Simplicité de navigation.
-- Migration unique ; plus de stubs « legacy ».
-- À revisiter si Magma produit sort du Markdown (autre repo).
+- Clarté atelier.
+- Risque de confusion Magma/Brain — à rappeler dans [`../workflow/en-clair.md`](../workflow/en-clair.md).
+- À revisiter si Magma produit sort dans un autre repo (probable).
