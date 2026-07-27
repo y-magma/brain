@@ -11,6 +11,7 @@
 
 - **Chantiers (idées)**
   - [Index](/chantiers/README.md)
+  - [Paysage outils existants](/chantiers/paysage-outils-existants/analyse.md)
   - [Plusieurs outils](/chantiers/magma-plusieurs-outils/)
   - [Exemples de questions](/chantiers/banc-essai-debats/)
   - [Cas : patrimoine](/chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/)
