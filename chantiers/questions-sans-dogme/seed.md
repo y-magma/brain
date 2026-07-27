@@ -2,6 +2,9 @@
 
 - **Date** : 2026-07-25
 - **Par** : y-magma / Vincent + IA
+- **Nature** : idée-brain
+- **Attention** : essentiel
+- **Tags** : noyau, questions
 - **Slogan** : « Se poser toutes les questions — surtout celles qu’on refuse. »
 
 ## L’ancrage (citation)

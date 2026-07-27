@@ -1,9 +1,11 @@
 # Question — Faut-il supprimer le patrimoine ?
 
 - **Slug** : `supprimer-le-patrimoine`
+- **Nature** : exemple-question
+- **Attention** : essentiel
+- **Tags** : débat
 - **Statut** : brouillon · cobaye Magma
 - **Slogan / accroche** : « Faut-il supprimer le patrimoine ? »
-- **Type** : débat de société (polémique utile pour tester l’outil)
 
 ## Ambiguïté assumée (à clarifier en session)
 
