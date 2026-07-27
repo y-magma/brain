@@ -2,11 +2,10 @@
 
 ![Portes-chantiers](assets/illustrations/chantiers-portes.jpg)
 
-**Magma** = outil *pour tous* (plutôt plat). **Brain** = atelier / exemple de brainstorming (se structure).  
-**Ne pas confondre** les deux → [`workflow/en-clair.md`](workflow/en-clair.md)
+**Magma** = **plusieurs outils**. **Brain** = idées. **Exemples** = questions cobayes.  
+→ [`workflow/en-clair.md`](workflow/en-clair.md)
 
-Ton : *titiller, pas cliquer.* · Nerf : *se poser toutes les questions.*  
-Art : *l’absurde désarme — puis la question reste.*
+Ton : *titiller, pas cliquer.* · Nerf : *toutes les questions.* · Famille : *pas un outil — une famille.*
 
 Maj : **2026-07-27**
 
@@ -14,41 +13,41 @@ Maj : **2026-07-27**
 
 ## Comment avancer
 
-1. Lire [`en-clair`](workflow/en-clair.md) (workflow + rôle du Brain).
-2. Jouer un **débat cobaye** : [`banc-essai-debats`](chantiers/banc-essai-debats/) — ex. [patrimoine](chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/), [Weco](chantiers/banc-essai-debats/cas/weco/).
-3. Choisir **une porte** V0 — voir [`une-porte-pas-tout`](chantiers/une-porte-pas-tout/).
-4. Brancher l’art : [`fiction-absurde`](chantiers/fiction-absurde/) ↔ atlas / spectacle.
+1. Lire [`en-clair`](workflow/en-clair.md).
+2. Lire le **paysage** : [`analyse des outils existants`](chantiers/paysage-outils-existants/analyse.md).
+3. Cadrer [`magma-plusieurs-outils`](chantiers/magma-plusieurs-outils/).
+4. Catalogue [`outils/`](outils/) — [Weco](outils/weco/).
+5. Exemples questions : [patrimoine](chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/).
 
-## Chantiers
+## Outils Magma
+
+| Outil | Catalyse | Lien |
+|-------|----------|------|
+| Weco | Graphes / inégalités | [`outils/weco/`](outils/weco/) |
+
+## Chantiers (idées)
 
 | Chantier | Slogan |
 |----------|--------|
-| [**en clair** = workflow](workflow/en-clair.md) | *(mode d’emploi)* |
-| [banc-essai-debats](chantiers/banc-essai-debats/) | Avant l’outil, des débats cobayes |
-| [une-porte-pas-tout](chantiers/une-porte-pas-tout/) | Ne révolutionne pas… — déplie une phrase |
-| [fiction-absurde](chantiers/fiction-absurde/) | L’absurde désarme — puis la question reste |
+| [paysage-outils-existants](chantiers/paysage-outils-existants/) | Avant d’inventer, cartographier ce qui existe |
+| [magma-plusieurs-outils](chantiers/magma-plusieurs-outils/) | Pas un outil — une famille d’outils |
+| [banc-essai-debats](chantiers/banc-essai-debats/) | Des questions qui font débat — pas des outils |
+| [une-porte-pas-tout](chantiers/une-porte-pas-tout/) | Déplie une phrase |
+| [fiction-absurde](chantiers/fiction-absurde/) | L’absurde désarme… |
 | [questions-sans-dogme](chantiers/questions-sans-dogme/) | Se poser toutes les questions… |
 | [machine-a-penser](chantiers/machine-a-penser/) | Penser ensemble, agir ensemble |
 | [ton-empecheur](chantiers/ton-empecheur/) | Titiller, pas cliquer |
-| [simplicite](chantiers/simplicite/) | Dsl, pas le temps de faire simple |
-| [atlas-slogans](chantiers/atlas-slogans/) | Ralentir les slogans sans les tuer |
+| [simplicite](chantiers/simplicite/) | Dsl, faire simple |
+| [atlas-slogans](chantiers/atlas-slogans/) | Ralentir les slogans… |
 | [spectacle-desaccord](chantiers/spectacle-desaccord/) | Plaisir avant l’effort |
 | [noyau-axiomes](chantiers/noyau-axiomes/) | Penser par formules… |
 | [ia-interface](chantiers/ia-interface/) | IA intégrée, pas collée |
-| [science-wiki](chantiers/science-wiki/) | Moins de papiers, plus de pages vivantes |
+| [science-wiki](chantiers/science-wiki/) | Pages vivantes |
 | [structure-cerveau](chantiers/structure-cerveau/) | Fermer des boucles… |
-
-Pause → [`archive/graines/`](archive/graines/).
 
 ## Noyau (candidats)
 
-| Formule | Lien |
-|---------|------|
-| Se poser toutes les questions… | [noyau](slogans/noyau/se-poser-toutes-les-questions.md) |
-| Empêcheur — titiller, pas cliquer | [noyau](slogans/noyau/empecheur-de-tourner-en-rond.md) |
-| Dsl, faire simple | [noyau](slogans/noyau/dsl-pas-eu-le-temps-de-faire-simple.md) |
-| L’absurde désarme… | [chantier](chantiers/fiction-absurde/formula.md) |
-| Déplie une phrase | [chantier](chantiers/une-porte-pas-tout/formula.md) |
+[`slogans/noyau/`](slogans/noyau/)
 
 ## Décisions
 

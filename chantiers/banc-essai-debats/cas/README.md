@@ -1,11 +1,11 @@
-# Cas de débats (cobayes Magma)
+# Cas — exemples de questions
 
-Chaque dossier = **un débat-test** que l’outil pourra un jour charger.
+Chaque dossier = **une question** qui soulève un débat (matériau).  
+Pas un outil. Pas toute Magma.
 
 | Cas | Question | Statut |
 |-----|----------|--------|
 | [supprimer-le-patrimoine](supprimer-le-patrimoine/) | Faut-il supprimer le patrimoine ? | brouillon |
-| [weco](weco/) | Voir l’inégalité, est-ce déjà agir ? | brouillon · [Pages `/weco/`](https://y-magma.github.io/weco/) |
 
-Nouveau cas : copier [`_gabarit-cas.md`](_gabarit-cas.md) → dossier kebab-case.  
-Projets sœurs orga `y-magma` bienvenus comme **instances** (ex. Weco).
+Nouveau : [`_gabarit-cas.md`](_gabarit-cas.md).  
+Pour brancher un exemple sur un **outil** : fiche `outils/<nom>/exemples.md`.

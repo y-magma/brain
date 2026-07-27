@@ -20,7 +20,9 @@ Mode d’emploi : [`../workflow/en-clair.md`](../workflow/en-clair.md).
 
 | Chantier | Slogan |
 |----------|--------|
-| [banc-essai-debats](banc-essai-debats/) | Avant l’outil, des débats cobayes |
+| [paysage-outils-existants](paysage-outils-existants/) | Avant d’inventer, cartographier ce qui existe |
+| [magma-plusieurs-outils](magma-plusieurs-outils/) | Pas un outil — une famille d’outils |
+| [banc-essai-debats](banc-essai-debats/) | Des questions qui font débat — pas des outils |
 | [une-porte-pas-tout](une-porte-pas-tout/) | Ne révolutionne pas… — déplie une phrase |
 | [fiction-absurde](fiction-absurde/) | L’absurde désarme — puis la question reste |
 | [questions-sans-dogme](questions-sans-dogme/) | Se poser toutes les questions — surtout celles qu’on refuse |
@@ -36,4 +38,4 @@ Mode d’emploi : [`../workflow/en-clair.md`](../workflow/en-clair.md).
 
 ## Transverse
 
-[`../decisions/`](../decisions/) · [`../vision/`](../vision/) · [`../slogans/noyau/`](../slogans/noyau/) · [`../archive/graines/`](../archive/graines/)
+[`../outils/`](../outils/) · [`../decisions/`](../decisions/) · [`../vision/`](../vision/) · [`../slogans/noyau/`](../slogans/noyau/) · [`../archive/graines/`](../archive/graines/)

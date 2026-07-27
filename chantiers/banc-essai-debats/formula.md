@@ -1,5 +1,3 @@
-# Formule — banc d’essai
+# Formule — exemples de questions
 
-> **« Avant l’outil, des débats cobayes. »**
-
-Cousine : « On juge la qualité du débat — pas la vertu du camp. »
+> **« Des questions qui font débat — pas des outils. »**

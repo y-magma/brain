@@ -1,16 +1,17 @@
-# Glossaire — Magma / Brain
+# Glossaire — Magma / Brain / outils / exemples
 
-- **Magma** — L’outil *pour tous* à inventer (machine à penser / démocratie). Intention : entrée **plutôt plate**. Forme ouverte. **≠** ce dépôt.
-- **Brain** — Ce dépôt GitHub : atelier de brainstorming sur Magma ; se structure **progressivement** ; sert d’**exemple** de méthode — pas le modèle UI Magma.
-- **Chantier** — Convention *Brain* : un sujet vivant (`seed` / `debate` / `map` / `formula`). Ne préjuge pas de la navigation Magma.
+- **Magma** — Projet parapluie : **plusieurs outils** pour **plusieurs cas** (*pour tous*, entrée plutôt plate). **≠** un seul monolithe. **≠** ce dépôt.
+- **Brain** — Ce dépôt : atelier d’**idées / slogans** ; se structure progressivement ; **exemple** de brainstorming — pas le design des outils Magma.
+- **Outil Magma** — Produit **nommé** (ex. **Weco**) qui catalyse *une partie* des idées Brain — pas toutes. Catalogue : [`../outils/`](../outils/). On ne dit plus « instance ».
+- **Exemple de question** — Débat cobaye (ex. patrimoine), adaptable à différents outils. [`../chantiers/banc-essai-debats/cas/`](../chantiers/banc-essai-debats/cas/).
+- **Chantier** — Convention Brain (`seed` / `debate` / `map` / `formula`).
 - **Slogan / accroche** — Formule courte (pas forcément axiome).
-- **Noyau** — Axiomes-slogans *adoptés*, minimaux, révocables ([`../slogans/noyau/`](../slogans/noyau/)).
+- **Noyau** — Axiomes adoptés, révocables ([`../slogans/noyau/`](../slogans/noyau/)).
 - **Steelman** — Meilleure version honnête d’une position.
-- **Map** — Carte convergences / divergences / angles morts.
+- **Map** — Convergences / divergences / angles morts.
 - **Ton empêcheur** — Fun, tranchant, anti-pute-à-clic ([`../workflow/ton.md`](../workflow/ton.md)).
-- **Questions sans dogme** — Tout questionnable ; refus explicite seulement ([`../chantiers/questions-sans-dogme/`](../chantiers/questions-sans-dogme/)).
-- **Archive** — Hors circuit, pas effacé ([`../archive/graines/`](../archive/graines/)).
-- **Faits / valeurs / hypothèses** — Trois natures d’énoncés à séparer.
-- **Fiction absurde** — Nouvelle / film décalé pour poser une vraie question sans agresser ([`../chantiers/fiction-absurde/`](../chantiers/fiction-absurde/), [Vichnu](https://vichnu-production.fr/)).
-- **Banc d’essai** — Débats cobayes / instances (ex. Weco) pour prototyper Magma ([`../chantiers/banc-essai-debats/`](../chantiers/banc-essai-debats/)) — matériaux, pas l’archi produit.
-- **En clair** — Mode d’emploi : [`../workflow/en-clair.md`](../workflow/en-clair.md).
+- **Questions sans dogme** — Tout questionnable ([`../chantiers/questions-sans-dogme/`](../chantiers/questions-sans-dogme/)).
+- **Fiction absurde** — Porte artistique ([`../chantiers/fiction-absurde/`](../chantiers/fiction-absurde/), [Vichnu](https://vichnu-production.fr/)).
+- **Weco** — Outil Magma data/viz inégalités ([`../outils/weco/`](../outils/weco/)).
+- **Paysage outils existants** — Analyse Kialo, Pol.is, Wikipédia, Decidim, Stack Overflow… ([`../chantiers/paysage-outils-existants/analyse.md`](../chantiers/paysage-outils-existants/analyse.md)).
+- **En clair** — [`../workflow/en-clair.md`](../workflow/en-clair.md).

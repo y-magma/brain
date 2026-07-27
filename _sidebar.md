@@ -3,13 +3,18 @@
 - **Accueil**
   - [La Carte](/CARTE.md)
   - [Présentation](/README.md)
-  - [**En clair** (workflow)](/workflow/en-clair.md)
+  - [**En clair**](/workflow/en-clair.md)
 
-- **Chantiers**
+- **Outils Magma**
+  - [Index](/outils/README.md)
+  - [Weco](/outils/weco/)
+
+- **Chantiers (idées)**
   - [Index](/chantiers/README.md)
-  - [Banc d’essai débats](/chantiers/banc-essai-debats/)
+  - [Paysage outils existants](/chantiers/paysage-outils-existants/analyse.md)
+  - [Plusieurs outils](/chantiers/magma-plusieurs-outils/)
+  - [Exemples de questions](/chantiers/banc-essai-debats/)
   - [Cas : patrimoine](/chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/)
-  - [Cas : Weco](/chantiers/banc-essai-debats/cas/weco/)
   - [Une porte, pas tout](/chantiers/une-porte-pas-tout/)
   - [Fiction absurde](/chantiers/fiction-absurde/)
   - [Questions sans dogme](/chantiers/questions-sans-dogme/)

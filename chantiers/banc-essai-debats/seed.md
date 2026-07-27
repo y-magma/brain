@@ -1,25 +1,15 @@
-# Seed — banc d’essai pour Magma
+# Seed — exemples de débats
 
-- **Date** : 2026-07-27
-- **Slogan** : « Avant l’outil, des débats cobayes. »
+- **Slogan** : « Des questions qui font débat — pas des outils. »
 
 ## La tension
 
-On invente un outil qui doit **accueillir / déplier / éventuellement juger** des débats.  
-Sans cas concrets, on design dans le vide.
-
-Ce chantier = **terrain d’essai** : sujets structurés pour qu’un futur Magma (plutôt *plat*, pour tous) puisse les lire — sans importer toute l’arborescence du Brain dans l’app.
-
-
-## Ce n’est pas
-
-- La vérité officielle Magma sur le patrimoine.
-- Un forum ouvert (encore).
-- Un verdict moral.
+Il faut des **questions cobayes** (ex. patrimoine) pour tester steelman / jugement.  
+Ce ne sont **pas** des outils Magma.  
+Un même exemple peut être **adapté** à Weco, à un futur atlas, à une fiction… autrement.
 
 ## Liens
 
+- Outils : [`../../outils/`](../../outils/)
+- Magma multi-outils : [`../magma-plusieurs-outils/`](../magma-plusieurs-outils/)
 - En clair : [`../../workflow/en-clair.md`](../../workflow/en-clair.md)
-- Spectacle : [`../spectacle-desaccord/`](../spectacle-desaccord/)
-- Atlas : [`../atlas-slogans/`](../atlas-slogans/)
-- Questions sans dogme : [`../questions-sans-dogme/`](../questions-sans-dogme/)

@@ -2,25 +2,25 @@
 
 ![Empêcheur de tourner en rond](assets/illustrations/brain-empecheur.jpg)
 
-**Magma** = l’outil *pour tous* (plutôt plat, forme ouverte).  
-**Brain** = *ce* dépôt : atelier qui se structure peu à peu — **exemple** de brainstorming, pas le design Magma.
+**Magma** = famille d’**outils** (*pour tous*).  
+**Brain** = atelier d’**idées** (ce dépôt).  
+**Weco** = un outil Magma (parmi d’autres à venir).
 
-## Perdu ? Lis ça d’abord
+## Perdu ?
 
-→ **[`workflow/en-clair.md`](workflow/en-clair.md)** — Magma vs Brain + workflow atelier.
+→ [`workflow/en-clair.md`](workflow/en-clair.md)
 
-## Envie de plonger
+## Aller
 
 1. [`CARTE.md`](CARTE.md)  
-2. [`chantiers/`](chantiers/) — idées / pistes (atelier)  
-3. [`chantiers/banc-essai-debats/`](chantiers/banc-essai-debats/) — cobayes  
-4. [`chantiers/fiction-absurde/`](chantiers/fiction-absurde/) — voie Vichnu  
+2. [`outils/`](outils/) — ex. [Weco](outils/weco/)  
+3. [`chantiers/`](chantiers/) — idées  
+4. [Exemples de questions](chantiers/banc-essai-debats/cas/)  
 
-## Workflow **Brain** (pas Magma)
+## Workflow Brain
 
-`seed` → `debate` → `map` → `formula`  
-(détail : [`en-clair`](workflow/en-clair.md))
+`seed` → `debate` → `map` → `formula`
 
 ## Statut
 
-Exploratoire — Ariel (y-magma) & Vincent. Rien n’est statue. On peut tout casser *ici*.
+Ariel (y-magma) & Vincent. On peut tout casser *ici*.
