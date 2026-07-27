@@ -15,7 +15,7 @@ Maj : **2026-07-27**
 ## Comment avancer
 
 1. Lire [`en-clair`](workflow/en-clair.md) (workflow + rôle du Brain).
-2. Jouer un **débat cobaye** : [`banc-essai-debats`](chantiers/banc-essai-debats/) — ex. [patrimoine](chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/).
+2. Jouer un **débat cobaye** : [`banc-essai-debats`](chantiers/banc-essai-debats/) — ex. [patrimoine](chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/), [Weco](chantiers/banc-essai-debats/cas/weco/).
 3. Choisir **une porte** V0 — voir [`une-porte-pas-tout`](chantiers/une-porte-pas-tout/).
 4. Brancher l’art : [`fiction-absurde`](chantiers/fiction-absurde/) ↔ atlas / spectacle.
 
