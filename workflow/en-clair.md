@@ -12,18 +12,26 @@
 | **Exemple de question** | Débat cobaye (ex. patrimoine), **adaptable** à divers outils. | [`../chantiers/banc-essai-debats/cas/`](../chantiers/banc-essai-debats/cas/) |
 
 ```
-          idées / slogans (Brain)
-                 │
-        ┌────────┼────────┐
-        ▼        ▼        ▼
-     Weco    (futur)   (futur)
-     graphes  atlas?   fiction?
-        │        │
-        └──── exemples de questions (adaptés)
+     inbox (étincelle)
+            │
+            ▼
+   idées / slogans (Brain)     ≠     outils Magma nommés
+            │                              │
+            └──────── exemples de questions (adaptés)
 ```
 
-**Attention :** le Brain liste beaucoup d’idées. Magma ne les livre pas toutes dans un monolithe.  
-Weco ≠ exemple de débat. Patrimoine ≠ outil.
+**Test :** idée Brain = tension / slogan / méthode. Outil Magma = **nom de produit** + cas d’usage pour *certains* cas.  
+Weco ≠ exemple de débat. Patrimoine ≠ outil. « Atlas de slogans » ≠ outil tant qu’il n’a pas de nom produit.
+
+---
+
+## Capture → tri → lieu
+
+1. **Étincelle** → [`../inbox/`](../inbox/) (une phrase, nature `idée-brain` ou `outil-magma`)  
+2. **Tri** → [`../TRI.md`](../TRI.md) : nature + **attention** (`essentiel` ≤ 5 · `actif` · `satellite` · `pause`)  
+3. **Lieu** → chantier / `outils/` / cas / archive  
+
+Archive = attention `pause`, pas un oubli.
 
 ---
 
@@ -42,12 +50,14 @@ Dossier = `chantiers/<sujet>/` *(convention atelier, pas UX Magma)*.
 | `map.md` | Accords / désaccords / trous ? |
 | `formula.md` | Quelle phrase garder ? |
 
-IA : steele, cartographie, propose. **Ne décide pas** l’UX Magma.
+IA : steele, cartographie, propose. **Ne décide pas** l’UX Magma ni le focus `essentiel` à ta place.
 
 ---
 
 ## Où aller
 
+- **Focus** : [`../TRI.md`](../TRI.md)  
+- **Inbox** : [`../inbox/`](../inbox/)  
 - Catalogue outils : [`../outils/`](../outils/) — dont [Weco](../outils/weco/)  
 - Paysage existant : [`../chantiers/paysage-outils-existants/analyse.md`](../chantiers/paysage-outils-existants/analyse.md)  
 - Exemples questions : [patrimoine](../chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/)  

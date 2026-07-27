@@ -13,25 +13,40 @@ Maj : **2026-07-27**
 
 ## Comment avancer
 
-1. Lire [`en-clair`](workflow/en-clair.md).
-2. Lire le **paysage** : [`analyse des outils existants`](chantiers/paysage-outils-existants/analyse.md).
-3. Cadrer [`magma-plusieurs-outils`](chantiers/magma-plusieurs-outils/).
-4. Catalogue [`outils/`](outils/) — [Weco](outils/weco/).
-5. Exemples questions : [patrimoine](chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/).
+1. Étincelle → [`inbox/`](inbox/)  
+2. Focus → [`TRI.md`](TRI.md) (`essentiel` ≤ 5)  
+3. [`en-clair`](workflow/en-clair.md) si tu mélanges encore idée / outil / exemple  
+4. Nourrir **une** brique essentielle — pas dix chantiers
 
-## Outils Magma
+## Focus (`essentiel`)
+
+Voir table à jour dans [`TRI.md`](TRI.md). Proposition actuelle :
+
+| Brique | Nature |
+|--------|--------|
+| [magma-plusieurs-outils](chantiers/magma-plusieurs-outils/) | idée-brain |
+| [une-porte-pas-tout](chantiers/une-porte-pas-tout/) | idée-brain |
+| [questions-sans-dogme](chantiers/questions-sans-dogme/) | idée-brain |
+| [Weco](outils/weco/) | **outil-magma** |
+| [patrimoine](chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/) | **exemple-question** |
+
+## Outils Magma *(pas des idées)*
 
 | Outil | Catalyse | Lien |
 |-------|----------|------|
 | Weco | Graphes / inégalités | [`outils/weco/`](outils/weco/) |
 
-## Chantiers (idées)
+Nouveau produit nommé → [`outils/_gabarit-outil.md`](outils/_gabarit-outil.md) (pas un chantier).
+
+## Idées Brain (chantiers)
+
+Index complet + `actif` / `satellite` : [`TRI.md`](TRI.md) · liste : [`chantiers/`](chantiers/)
 
 | Chantier | Slogan |
 |----------|--------|
-| [paysage-outils-existants](chantiers/paysage-outils-existants/) | Avant d’inventer, cartographier ce qui existe |
-| [magma-plusieurs-outils](chantiers/magma-plusieurs-outils/) | Pas un outil — une famille d’outils |
-| [banc-essai-debats](chantiers/banc-essai-debats/) | Des questions qui font débat — pas des outils |
+| [paysage-outils-existants](chantiers/paysage-outils-existants/) | Avant d’inventer, cartographier… |
+| [magma-plusieurs-outils](chantiers/magma-plusieurs-outils/) | Pas un outil — une famille |
+| [banc-essai-debats](chantiers/banc-essai-debats/) | Des questions — pas des outils |
 | [une-porte-pas-tout](chantiers/une-porte-pas-tout/) | Déplie une phrase |
 | [fiction-absurde](chantiers/fiction-absurde/) | L’absurde désarme… |
 | [questions-sans-dogme](chantiers/questions-sans-dogme/) | Se poser toutes les questions… |
@@ -45,10 +60,10 @@ Maj : **2026-07-27**
 | [science-wiki](chantiers/science-wiki/) | Pages vivantes |
 | [structure-cerveau](chantiers/structure-cerveau/) | Fermer des boucles… |
 
-## Noyau (candidats)
+## Pause
 
-[`slogans/noyau/`](slogans/noyau/)
+[`archive/graines/`](archive/graines/) = attention `pause` (même système de tags).
 
-## Décisions
+## Noyau · Décisions
 
-[0001](decisions/0001-conventions-brain-magma.md) · [0002](decisions/0002-slogans-et-verbalisation.md) · [0003](decisions/0003-ton-empecheur.md) · [0004](decisions/0004-questions-sans-dogme.md)
+[`slogans/noyau/`](slogans/noyau/) · [0001](decisions/0001-conventions-brain-magma.md) · [0002](decisions/0002-slogans-et-verbalisation.md) · [0003](decisions/0003-ton-empecheur.md) · [0004](decisions/0004-questions-sans-dogme.md) · [0005](decisions/0005-inbox-tri-tags.md)

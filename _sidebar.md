@@ -3,17 +3,19 @@
 - **Accueil**
   - [La Carte](/CARTE.md)
   - [Présentation](/README.md)
-  - [**En clair**](/workflow/en-clair.md)
+  - [**En clair** (workflow)](/workflow/en-clair.md)
+  - [**Tri** (focus & tags)](/TRI.md)
+  - [Inbox](/inbox/)
 
 - **Outils Magma**
-  - [Index](/outils/README.md)
+  - [Catalogue](/outils/)
   - [Weco](/outils/weco/)
 
-- **Chantiers (idées)**
+- **Chantiers** *(idées Brain)*
   - [Index](/chantiers/README.md)
-  - [Paysage outils existants](/chantiers/paysage-outils-existants/analyse.md)
-  - [Plusieurs outils](/chantiers/magma-plusieurs-outils/)
-  - [Exemples de questions](/chantiers/banc-essai-debats/)
+  - [Magma plusieurs outils](/chantiers/magma-plusieurs-outils/)
+  - [Paysage outils existants](/chantiers/paysage-outils-existants/)
+  - [Banc d’essai débats](/chantiers/banc-essai-debats/)
   - [Cas : patrimoine](/chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/)
   - [Une porte, pas tout](/chantiers/une-porte-pas-tout/)
   - [Fiction absurde](/chantiers/fiction-absurde/)
@@ -45,12 +47,14 @@
   - [0002 — slogans / verbalisation](/decisions/0002-slogans-et-verbalisation.md)
   - [0003 — ton](/decisions/0003-ton-empecheur.md)
   - [0004 — sans dogme](/decisions/0004-questions-sans-dogme.md)
+  - [0005 — inbox / tri](/decisions/0005-inbox-tri-tags.md)
 
-- **Archive**
+- **Archive** *(attention : pause)*
   - [Graines en pause](/archive/graines/)
 
 - **Collaborer**
   - [En clair](/workflow/en-clair.md)
+  - [Tri](/TRI.md)
   - [Processus](/workflow/processus.md)
   - [Ton](/workflow/ton.md)
   - [Rôles](/workflow/roles.md)

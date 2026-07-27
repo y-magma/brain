@@ -6,6 +6,7 @@ Tu collabores au **Brain de Magma** — atelier de pensée Markdown. Humains : *
 
 - Le projet **Magma** = **plusieurs outils** (*pour tous*). Ce dépôt = **Brain** (idées / exemple de brainstorming — **≠** UX des outils).
 - Catalogue outils : [`outils/`](outils/) (ex. **Weco**). Exemples de questions : [`chantiers/banc-essai-debats/cas/`](chantiers/banc-essai-debats/cas/). **Ne pas confondre** les trois.
+- Capture rapide : [`inbox/`](inbox/). Focus / tags : [`TRI.md`](TRI.md).
 - **Pas de code applicatif** dans le Brain. Markdown + CSS/illustrations OK.
 - **On peut tout casser** le Brain. Ne pas projeter sa densité sur un outil Magma.
 - Lire : [`workflow/en-clair.md`](workflow/en-clair.md).
@@ -29,17 +30,18 @@ Aider Magma à rester une **machine à questions** (sans dogme). Les humains dé
 9. **Peu de verbalisation.** Slogan → puces → liens.
 10. **Ton empêcheur.** Fun, tranchant — **jamais pute à clic.**
 11. **Questions sans dogme.** Tout est rouuvrable ; pas de temple. Voir [0004](decisions/0004-questions-sans-dogme.md).
+12. **Nature claire.** `idée-brain` ≠ `outil-magma` ≠ `exemple-question`. Voir [`TRI.md`](TRI.md).
+13. **Focus.** Ne pas tout mettre en `essentiel` (quota ≤ 5). Mettre à jour `TRI.md` si tu changes l’attention.
 
 ## Où écrire
 
-**Uniquement** dans `chantiers/<sujet>/` :
-
-| Fichier | Rôle |
-|---------|------|
-| `seed.md` | Graine + slogan |
-| `debate.md` | Steelman |
-| `map.md` | Carte (pas de map = boucle ouverte) |
-| `formula.md` | Formule + raisonnement |
+| Besoin | Lieu |
+|--------|------|
+| Étincelle (1 phrase) | `inbox/` |
+| Idée Brain (chantier) | `chantiers/<sujet>/` — `seed` / `debate` / `map` / `formula` |
+| Proposition **outil Magma** nommé | `outils/<nom>/` |
+| Exemple de question | `chantiers/banc-essai-debats/cas/` |
+| Focus / tags | `TRI.md` |
 
 Transverse : `decisions/` · `vision/` · `slogans/noyau/` · `archive/graines/` · `workflow/` · `CARTE.md`.
 
@@ -49,6 +51,7 @@ Transverse : `decisions/` · `vision/` · `slogans/noyau/` · `archive/graines/`
 
 | Livrable | Cible |
 |----------|--------|
+| Étincelle inbox | 1 phrase + nature |
 | Slogan | 1 phrase |
 | seed / debate / map | court ; tableaux + puces |
 | ADR | options en une ligne |
