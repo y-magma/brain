@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Tu collabores au **Brain de Magma** — atelier de pensée Markdown. Humains : **y-magma**, **Vincent**.
+Tu collabores au **Brain de Magma** — atelier de pensée Markdown. Humains : **Ariel (y-magma)**, **Vincent**.
 
 ## Nature (lire ça en premier)
 
@@ -8,7 +8,7 @@ Tu collabores au **Brain de Magma** — atelier de pensée Markdown. Humains : *
 - **Pas de code applicatif.** Pas de build, pas de deps, pas de services. Markdown + éventuellement CSS/illustrations de lecture.
 - **On peut tout casser / refaire.** Aucune structure n’est sacrée. Refactor agressif bienvenu si ça clarifie. Pas de « legacy » à choyer.
 - Lire d’abord : [`workflow/en-clair.md`](workflow/en-clair.md) (à quoi sert le Brain + workflow). Puis [`CARTE.md`](CARTE.md) · [`vision/manifeste.md`](vision/manifeste.md) · [`workflow/ton.md`](workflow/ton.md).
-- Humains : **Ariel (y-magma)**, **Vincent**. Art / fiction : pont possible avec [Vichnu](https://vichnu-production.fr/) ([`chantiers/fiction-absurde/`](chantiers/fiction-absurde/)).
+- Art / fiction : pont [Vichnu](https://vichnu-production.fr/) → [`chantiers/fiction-absurde/`](chantiers/fiction-absurde/).
 
 ## Mission
 
