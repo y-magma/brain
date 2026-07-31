@@ -131,6 +131,9 @@ Voir [`inbox/`](inbox/).
 | [Sokra](inbox/2026-07-31-sokra-rendre-la-question.md) | outil-magma *(proposition)* | Nom + porte unique → fiche `outils/` ? |
 | [Kairo](inbox/2026-07-31-kairo-une-beaute-par-jour.md) | outil-magma *(proposition)* | idem |
 | [Duo](inbox/2026-07-31-duo-gagner-quand-lautre-se-reconnait.md) | outil-magma *(proposition)* | idem |
+| [Racine](inbox/2026-07-31-racine-genealogie-des-idees.md) | outil-magma *(proposition)* | + ses 2 questions → `cas/` ? |
+| [Table](inbox/2026-07-31-table-repas-idees.md) | outil-magma *(proposition)* | + ses 2 questions → `cas/` ? |
+| [Volte](inbox/2026-07-31-volte-changer-davis-garder-la-trace.md) | outil-magma *(proposition)* | + ses 2 questions → `cas/` ? |
 | [Harari / fictions](inbox/2026-07-31-harari-fictions-partagees.md) | idée-brain | **triée** → chantier `histoires-fictions-partagees` |
 
 **Rappel :** une proposition d’outil reste dans l’inbox tant que le **nom** et la **porte unique** ne sont pas validés par un humain — sinon `outils/` se remplit d’intentions.
