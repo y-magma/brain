@@ -35,6 +35,9 @@ Hiérarchie / tags / archive : [`../TRI.md`](../TRI.md).
 
 | Fichier | Nature | Phrase |
 |---------|--------|--------|
+| [Sokra](2026-07-31-sokra-rendre-la-question.md) | outil-magma *(proposition)* | L’IA qui te rend la question |
+| [Kairo](2026-07-31-kairo-une-beaute-par-jour.md) | outil-magma *(proposition)* | Une beauté par jour, puis l’écran se tait |
+| [Duo](2026-07-31-duo-gagner-quand-lautre-se-reconnait.md) | outil-magma *(proposition)* | Tu gagnes quand l’autre se reconnaît |
 | [Harari / fictions](2026-07-31-harari-fictions-partagees.md) | idée-brain → chantier | Rendre l’histoire visible — sans en imposer une |
 
 Quand la file grossit : ouvrir `TRI.md`, classer, vider.

@@ -124,8 +124,16 @@ Rouvrir = passer `pause` → `satellite` ou `actif` (+ éventuellement nouveau c
 
 ## `brut` (inbox)
 
-Voir [`inbox/`](inbox/).  
-Triée : [Harari / fictions](inbox/2026-07-31-harari-fictions-partagees.md) → chantier `histoires-fictions-partagees`.
+Voir [`inbox/`](inbox/).
+
+| Étincelle | Nature | À trancher |
+|-----------|--------|------------|
+| [Sokra](inbox/2026-07-31-sokra-rendre-la-question.md) | outil-magma *(proposition)* | Nom + porte unique → fiche `outils/` ? |
+| [Kairo](inbox/2026-07-31-kairo-une-beaute-par-jour.md) | outil-magma *(proposition)* | idem |
+| [Duo](inbox/2026-07-31-duo-gagner-quand-lautre-se-reconnait.md) | outil-magma *(proposition)* | idem |
+| [Harari / fictions](inbox/2026-07-31-harari-fictions-partagees.md) | idée-brain | **triée** → chantier `histoires-fictions-partagees` |
+
+**Rappel :** une proposition d’outil reste dans l’inbox tant que le **nom** et la **porte unique** ne sont pas validés par un humain — sinon `outils/` se remplit d’intentions.
 
 ---
 
