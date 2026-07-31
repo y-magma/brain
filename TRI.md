@@ -93,6 +93,7 @@ Noyau candidats : [`slogans/noyau/`](slogans/noyau/) — encore `actif` / candid
 
 | Élément | Nature | Tags |
 |---------|--------|------|
+| [histoires-fictions-partagees](chantiers/histoires-fictions-partagees/) | idée-brain | `fiction` `narratif` `design` |
 | [ia-interface](chantiers/ia-interface/) | idée-brain | `ia` |
 | [science-wiki](chantiers/science-wiki/) | idée-brain | `science` |
 | [spectacle-desaccord](chantiers/spectacle-desaccord/) | idée-brain | `plaisir` |
@@ -123,7 +124,8 @@ Rouvrir = passer `pause` → `satellite` ou `actif` (+ éventuellement nouveau c
 
 ## `brut` (inbox)
 
-Voir [`inbox/`](inbox/) — actuellement vide.
+Voir [`inbox/`](inbox/).  
+Triée : [Harari / fictions](inbox/2026-07-31-harari-fictions-partagees.md) → chantier `histoires-fictions-partagees`.
 
 ---
 

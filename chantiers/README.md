@@ -27,6 +27,7 @@ Gabarit seed : [`_gabarit-seed.md`](_gabarit-seed.md).
 | [banc-essai-debats](banc-essai-debats/) | Des questions qui font débat — pas des outils |
 | [une-porte-pas-tout](une-porte-pas-tout/) | Ne révolutionne pas… — déplie une phrase |
 | [fiction-absurde](fiction-absurde/) | L’absurde désarme — puis la question reste |
+| [histoires-fictions-partagees](histoires-fictions-partagees/) | Rendre l’histoire visible — sans en imposer une |
 | [questions-sans-dogme](questions-sans-dogme/) | Se poser toutes les questions — surtout celles qu’on refuse |
 | [machine-a-penser](machine-a-penser/) | Penser ensemble, agir ensemble |
 | [structure-cerveau](structure-cerveau/) | Fermer des boucles, pas ouvrir des dossiers |

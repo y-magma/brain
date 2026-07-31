@@ -40,6 +40,7 @@ Les trois ne s’excluent pas — ce sont des **portes**.
 ## Liens
 
 - Spectacle : [`../spectacle-desaccord/`](../spectacle-desaccord/)
+- Fictions partagées (Harari → design) : [`../histoires-fictions-partagees/`](../histoires-fictions-partagees/)
 - Questions sans dogme : [`../questions-sans-dogme/`](../questions-sans-dogme/)
 - Une porte pas tout : [`../une-porte-pas-tout/`](../une-porte-pas-tout/)
 - Ton : [`../../workflow/ton.md`](../../workflow/ton.md)
