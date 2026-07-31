@@ -62,4 +62,5 @@ Transverse : `decisions/` · `vision/` · `slogans/noyau/` · `archive/graines/`
 - Propose en **PR** ; **ne fusionne jamais**.
 - Français par défaut.
 - Illustrations OK (`assets/illustrations/`).
+- **Liens relatifs vérifiés** : depuis `archive/graines/`, la racine est `../../`. Un lien mort = dette.
 - Si c’est plus clair de **supprimer / fusionner / renommer** : fais-le, documente en 1 phrase dans la PR.

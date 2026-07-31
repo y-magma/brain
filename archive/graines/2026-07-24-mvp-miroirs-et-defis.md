@@ -18,7 +18,7 @@ Quand l'utilisateur s'énerve : délai avant poster, reformulation obligatoire, 
 
 ### MVP — Cartes de réalité
 
-Sur un sujet (nucléaire, immigration, climat, vaccins…) : afficher les différentes **bulles narratives** — qui croit quoi, pourquoi, quels médias, quels arguments, quelles émotions. Pas « la vérité officielle » : rendre la fragmentation visible. Fascination possible ; pont évident vers l'[atlas critique des slogans](2026-07-24-atlas-critique-des-slogans.md) et les [fiches à 7 niveaux](2026-07-24-fiche-slogan-sept-niveaux.md).
+Sur un sujet (nucléaire, immigration, climat, vaccins…) : afficher les différentes **bulles narratives** — qui croit quoi, pourquoi, quels médias, quels arguments, quelles émotions. Pas « la vérité officielle » : rendre la fragmentation visible. Fascination possible ; pont évident vers l'[atlas critique des slogans](../../chantiers/atlas-slogans/) (fiches à plusieurs niveaux).
 
 ### MVP — Défi de diversité
 
@@ -45,6 +45,6 @@ Montre que le « miroir » n'est pas une seule app : c'est une **famille de port
 
 - Miroir : [`2026-07-24-miroir-des-bulles.md`](2026-07-24-miroir-des-bulles.md)
 - Score nutritionnel : [`2026-07-24-score-nutritionnel-du-feed.md`](2026-07-24-score-nutritionnel-du-feed.md)
-- Atlas / fiches : [`2026-07-24-atlas-critique-des-slogans.md`](2026-07-24-atlas-critique-des-slogans.md), [`2026-07-24-fiche-slogan-sept-niveaux.md`](2026-07-24-fiche-slogan-sept-niveaux.md)
+- Atlas / fiches : [`../../chantiers/atlas-slogans/`](../../chantiers/atlas-slogans/)
 - Sport coopératif : [`2026-07-24-debat-sport-cooperatif.md`](2026-07-24-debat-sport-cooperatif.md)
-- Débat stratégique : [`../points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md`](../points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md)
+- Débat stratégique : [`debat-miroir-viral-vs-outil-democratie.md`](debat-miroir-viral-vs-outil-democratie.md)

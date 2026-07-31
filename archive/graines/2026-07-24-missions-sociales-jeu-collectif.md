@@ -44,4 +44,4 @@ C'est une réponse concrète à « plaisir sain et compétitif » : mêmes resso
 - Sport coopératif du débat : [`2026-07-24-debat-sport-cooperatif.md`](2026-07-24-debat-sport-cooperatif.md)
 - Statuts / rôles : [`2026-07-24-statuts-roles-constructifs.md`](2026-07-24-statuts-roles-constructifs.md)
 - Micro-communautés : [`2026-07-24-petit-internet-micro-communautes.md`](2026-07-24-petit-internet-micro-communautes.md)
-- Spectacle du désaccord : [`../../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md`](../../points-de-vue/2026-07-23-le-spectacle-du-desaccord-intelligent.md)
+- Spectacle du désaccord : [`../../chantiers/spectacle-desaccord/`](../../chantiers/spectacle-desaccord/)
