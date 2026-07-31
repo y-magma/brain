@@ -49,6 +49,7 @@ Index complet + `actif` / `satellite` : [`TRI.md`](TRI.md) · liste : [`chantier
 | [banc-essai-debats](chantiers/banc-essai-debats/) | Des questions — pas des outils |
 | [une-porte-pas-tout](chantiers/une-porte-pas-tout/) | Déplie une phrase |
 | [fiction-absurde](chantiers/fiction-absurde/) | L’absurde désarme… |
+| [histoires-fictions-partagees](chantiers/histoires-fictions-partagees/) | Rendre l’histoire visible… |
 | [questions-sans-dogme](chantiers/questions-sans-dogme/) | Se poser toutes les questions… |
 | [machine-a-penser](chantiers/machine-a-penser/) | Penser ensemble, agir ensemble |
 | [ton-empecheur](chantiers/ton-empecheur/) | Titiller, pas cliquer |

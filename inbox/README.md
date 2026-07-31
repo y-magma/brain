@@ -35,6 +35,6 @@ Hiérarchie / tags / archive : [`../TRI.md`](../TRI.md).
 
 | Fichier | Nature | Phrase |
 |---------|--------|--------|
-| *(vide — à toi)* | | |
+| [Harari / fictions](2026-07-31-harari-fictions-partagees.md) | idée-brain → chantier | Rendre l’histoire visible — sans en imposer une |
 
 Quand la file grossit : ouvrir `TRI.md`, classer, vider.

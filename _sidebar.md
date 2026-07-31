@@ -19,6 +19,7 @@
   - [Cas : patrimoine](/chantiers/banc-essai-debats/cas/supprimer-le-patrimoine/)
   - [Une porte, pas tout](/chantiers/une-porte-pas-tout/)
   - [Fiction absurde](/chantiers/fiction-absurde/)
+  - [Histoires / Harari](/chantiers/histoires-fictions-partagees/)
   - [Questions sans dogme](/chantiers/questions-sans-dogme/)
   - [Machine à penser](/chantiers/machine-a-penser/)
   - [Structure](/chantiers/structure-cerveau/)
