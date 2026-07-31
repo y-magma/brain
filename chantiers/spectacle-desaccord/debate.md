@@ -67,7 +67,7 @@ Le spectateur participe en 2 secondes : « Quel argument est meilleur ? », « Q
 
 ## Liens connexes
 
-- Contrepoint / complément : [`2026-07-24-atlas-vs-reseau-social.md`](2026-07-24-atlas-vs-reseau-social.md) (porte d'entrée par la fiche d'atlas plutôt que par le duel)
+- Contrepoint / complément : [`../atlas-slogans/debate.md`](../atlas-slogans/debate.md) (porte d'entrée par la fiche d'atlas plutôt que par le duel)
 - Sport coopératif (gagner = comprendre) : [`../../archive/graines/2026-07-24-debat-sport-cooperatif.md`](../../archive/graines/2026-07-24-debat-sport-cooperatif.md)
 - Plaisir sain (pas anti-dopamine) : [`../../archive/graines/2026-07-24-plaisir-sain-competitif.md`](../../archive/graines/2026-07-24-plaisir-sain-competitif.md)
 - Miroir viral vs démocratie : [`../../archive/graines/debat-miroir-viral-vs-outil-democratie.md`](../../archive/graines/debat-miroir-viral-vs-outil-democratie.md)

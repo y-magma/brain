@@ -8,4 +8,4 @@ Images fun du dépôt — zine / encre, pas stock violet-glow.
 | [`chantiers-portes.jpg`](chantiers-portes.jpg) | Un sujet = une porte |
 | [`lire-court.jpg`](lire-court.jpg) | Court > blabla |
 
-Règles : [`../workflow/ton.md`](../workflow/ton.md) (section Illustrations).
+Règles : [`../../workflow/ton.md`](../../workflow/ton.md) (section Illustrations).

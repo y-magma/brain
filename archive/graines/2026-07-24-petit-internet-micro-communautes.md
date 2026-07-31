@@ -46,5 +46,5 @@ Réconcilie échelle humaine et ambition démocratique : on ne « sauve » pas I
 - Plaisir sain : [`2026-07-24-plaisir-sain-competitif.md`](2026-07-24-plaisir-sain-competitif.md)
 - Gouvernance : [`2026-07-24-gouvernance-sans-ego-social.md`](2026-07-24-gouvernance-sans-ego-social.md)
 - Missions / sync : [`2026-07-24-missions-sociales-jeu-collectif.md`](2026-07-24-missions-sociales-jeu-collectif.md)
-- Atlas vs réseau : [`../points-de-vue/2026-07-24-atlas-vs-reseau-social.md`](../points-de-vue/2026-07-24-atlas-vs-reseau-social.md)
+- Atlas vs réseau : [`../../chantiers/atlas-slogans/debate.md`](../../chantiers/atlas-slogans/debate.md)
 - Miroir viral (porte d'entrée possible) : [`2026-07-24-miroir-des-bulles.md`](2026-07-24-miroir-des-bulles.md)

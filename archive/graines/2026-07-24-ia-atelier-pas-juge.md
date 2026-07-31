@@ -52,9 +52,9 @@ Sans cette frontière, le projet confond assistance et autorité. Un vernis « s
 
 ## Liens
 
-- Idée parente : [`2026-07-24-atlas-critique-des-slogans.md`](2026-07-24-atlas-critique-des-slogans.md)
-- Fiche : [`2026-07-24-fiche-slogan-sept-niveaux.md`](2026-07-24-fiche-slogan-sept-niveaux.md)
-- MVP : [`2026-07-24-mvp-atlas-curate.md`](2026-07-24-mvp-atlas-curate.md)
-- Règles agents : [`../AGENTS.md`](../AGENTS.md)
-- Rôles : [`../workflow/roles.md`](../workflow/roles.md)
-- Manifeste (« L'IA au service du collectif ») : [`../vision/manifeste.md`](../vision/manifeste.md)
+- Idée parente (atlas, fiches) : [`../../chantiers/atlas-slogans/`](../../chantiers/atlas-slogans/)
+- Une porte à la fois (ex-MVP) : [`../../chantiers/une-porte-pas-tout/`](../../chantiers/une-porte-pas-tout/)
+- IA et interface : [`../../chantiers/ia-interface/`](../../chantiers/ia-interface/)
+- Règles agents : [`../../AGENTS.md`](../../AGENTS.md)
+- Rôles : [`../../workflow/roles.md`](../../workflow/roles.md)
+- Manifeste (« L'IA au service du collectif ») : [`../../vision/manifeste.md`](../../vision/manifeste.md)

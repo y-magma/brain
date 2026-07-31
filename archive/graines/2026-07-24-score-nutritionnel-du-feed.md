@@ -40,4 +40,4 @@ Complément du Wrapped mental : moins « identité narrative », plus « tableau
 - Miroir des bulles : [`2026-07-24-miroir-des-bulles.md`](2026-07-24-miroir-des-bulles.md)
 - MVP satellites : [`2026-07-24-mvp-miroirs-et-defis.md`](2026-07-24-mvp-miroirs-et-defis.md)
 - Plaisir sain : [`2026-07-24-plaisir-sain-competitif.md`](2026-07-24-plaisir-sain-competitif.md)
-- Débat : [`../points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md`](../points-de-vue/2026-07-24-miroir-viral-vs-outil-democratie.md)
+- Débat : [`debat-miroir-viral-vs-outil-democratie.md`](debat-miroir-viral-vs-outil-democratie.md)

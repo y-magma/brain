@@ -2,7 +2,7 @@
 
 - **Date** : 2026-07-24
 - **Animé par** : IA (à partir d'un document de travail de y-magma / Vincent)
-- **Idée(s) source** : [`../idees/2026-07-24-miroir-des-bulles.md`](../idees/2026-07-24-miroir-des-bulles.md), [`../idees/2026-07-24-plaisir-sain-competitif.md`](../idees/2026-07-24-plaisir-sain-competitif.md), [`../../idees/2026-07-23-un-outil-de-democratie.md`](../../idees/2026-07-23-un-outil-de-democratie.md), [`../../idees/2026-07-24-mvp-atlas-curate.md`](../../idees/2026-07-24-mvp-atlas-curate.md)
+- **Idée(s) source** : [`2026-07-24-miroir-des-bulles.md`](2026-07-24-miroir-des-bulles.md), [`2026-07-24-plaisir-sain-competitif.md`](2026-07-24-plaisir-sain-competitif.md), [`../../chantiers/machine-a-penser/`](../../chantiers/machine-a-penser/), [`../../chantiers/une-porte-pas-tout/`](../../chantiers/une-porte-pas-tout/)
 - **Statut** : archivé
 - **Archivé le** : 2026-07-24
 - **Motif** : débat lié à une porte d'entrée (miroir) mise en pause pour recentrer le produit sur l'atlas / les slogans
@@ -63,4 +63,4 @@ Pour avancer concrètement, il faut commencer par un **miroir viral et fun** («
 
 ## Vers la synthèse
 
-À croiser avec [`2026-07-24-atlas-vs-reseau-social.md`](2026-07-24-atlas-vs-reseau-social.md) et [`2026-07-23-le-spectacle-du-desaccord-intelligent.md`](2026-07-23-le-spectacle-du-desaccord-intelligent.md) dans une synthèse future : **« Quelles portes d'entrée (miroir, atlas, spectacle, pédagogie, micro-communauté) et dans quel ordre, sans trahir le manifeste ni perdre le désir ? »**
+À croiser avec [`../../chantiers/atlas-slogans/debate.md`](../../chantiers/atlas-slogans/debate.md) et [`../../chantiers/spectacle-desaccord/debate.md`](../../chantiers/spectacle-desaccord/debate.md) dans une synthèse future : **« Quelles portes d'entrée (miroir, atlas, spectacle, pédagogie, micro-communauté) et dans quel ordre, sans trahir le manifeste ni perdre le désir ? »**
