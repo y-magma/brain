@@ -134,6 +134,9 @@ Voir [`inbox/`](inbox/).
 | [Racine](inbox/2026-07-31-racine-genealogie-des-idees.md) | outil-magma *(proposition)* | + ses 2 questions → `cas/` ? |
 | [Table](inbox/2026-07-31-table-repas-idees.md) | outil-magma *(proposition)* | + ses 2 questions → `cas/` ? |
 | [Volte](inbox/2026-07-31-volte-changer-davis-garder-la-trace.md) | outil-magma *(proposition)* | + ses 2 questions → `cas/` ? |
+| [Strate](inbox/2026-08-01-strate-la-phrase-negociee.md) | outil-magma *(proposition)* | Données Wikipédia — porte à valider |
+| [Babel](inbox/2026-08-01-babel-le-meme-sujet-cinq-mondes.md) | outil-magma *(proposition)* | idem |
+| [Faille](inbox/2026-08-01-faille-la-carte-des-trous-les-plus-lus.md) | outil-magma *(proposition)* | idem |
 | [Harari / fictions](inbox/2026-07-31-harari-fictions-partagees.md) | idée-brain | **triée** → chantier `histoires-fictions-partagees` |
 
 **Rappel :** une proposition d’outil reste dans l’inbox tant que le **nom** et la **porte unique** ne sont pas validés par un humain — sinon `outils/` se remplit d’intentions.

@@ -41,6 +41,9 @@ Hiérarchie / tags / archive : [`../TRI.md`](../TRI.md).
 | [Racine](2026-07-31-racine-genealogie-des-idees.md) | outil-magma *(proposition)* | Creuse une phrase jusqu’à ses racines |
 | [Table](2026-07-31-table-repas-idees.md) | outil-magma *(proposition)* | On ne scrolle pas un repas |
 | [Volte](2026-07-31-volte-changer-davis-garder-la-trace.md) | outil-magma *(proposition)* | Change d’avis, garde la trace |
+| [Strate](2026-08-01-strate-la-phrase-negociee.md) | outil-magma *(proposition)* | Chaque phrase est un accord — voici ce qu’il a coûté |
+| [Babel](2026-08-01-babel-le-meme-sujet-cinq-mondes.md) | outil-magma *(proposition)* | Le même sujet, cinq mondes |
+| [Faille](2026-08-01-faille-la-carte-des-trous-les-plus-lus.md) | outil-magma *(proposition)* | Les trous les plus lus d’abord |
 | [Harari / fictions](2026-07-31-harari-fictions-partagees.md) | idée-brain → chantier | Rendre l’histoire visible — sans en imposer une |
 
 Quand la file grossit : ouvrir `TRI.md`, classer, vider.

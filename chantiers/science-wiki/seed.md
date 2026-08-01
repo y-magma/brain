@@ -14,3 +14,8 @@ Unité = page vivante. Frère ou inspiration de Magma — à trancher.
 - **Faits** : redondance éditoriale ; formats « living » existent par niches.
 - **Valeurs** : open + attribution + cumulativité.
 - **Hypothèses** : wiki versionné > PDF comme conteneur par défaut.
+
+## Pistes outils sur données Wikipédia
+
+Trois propositions en attente de tri, chacune redéfinissant « qualité » autrement :  
+[Strate](../../inbox/2026-08-01-strate-la-phrase-negociee.md) (la négociation derrière la phrase) · [Babel](../../inbox/2026-08-01-babel-le-meme-sujet-cinq-mondes.md) (écart entre langues) · [Faille](../../inbox/2026-08-01-faille-la-carte-des-trous-les-plus-lus.md) (trous les plus lus).
